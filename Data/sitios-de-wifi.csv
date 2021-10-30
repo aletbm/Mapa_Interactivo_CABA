@@ -1,0 +1,898 @@
+long,lat,id,nombre,tipo,etapa,etapa_obse,estado,subcategor,calle_nombre,calle_altura,calle_cruce,barrio,comuna,codigo_postal,codigo_postal_argentino,objeto
+-58.4008279597768,-34.5722372276579,1392,Polideportivo Manuel Belgrano (Ex-Kdt),Deporte,,BA WIFI 2018,Dsiponible,Polideportivos,"SALGUERO, JERONIMO",3450,,Recoleta,Comuna 2,1425,C1425DFS,SITIO WIFI
+-58.3866870973489,-34.5998863504715,1391,Registro civil sede central 3er piso y PB - Sala de Matrimonio,Gobierno,,BA WIFI 2018,Dsiponible,Edificios del GCABA,Uruguay,753,,San Nicolas,Comuna 1,1015,C1015ABO,SITIO WIFI
+-58.5139312475023,-34.5948610558613,1390,Polideportivo Onega,Deporte,,BA WIFI 2018,Dsiponible,Polideportivos,Gabriela Mistral,3850,,Villa Devoto,Comuna 11,1419,C1419GGJ,SITIO WIFI
+-58.3742838584106,-34.6468851151706,1389,Polideportivo Don Pepe,Deporte,,BA WIFI 2018,Dsiponible,Polideportivos,Gral. Hornos,1800,,Barracas,Comuna 4,1272,C1272ADJ,SITIO WIFI
+-58.4549398211888,-34.6844406910074,1388,Dirección de Licencias,Gobierno,,BA WIFI 2018,Dsiponible,Edificios del GCABA,"ROCA, CNEL. AV.",5200,,Villa Riachuelo,Comuna 8,1439,C1439DVO,SITIO WIFI
+-58.4468659274738,-34.6450278559357,1387,Planta Asfalto (EMUI),Gobierno,,BA WIFI 2018,Dsiponible,Edificios del GCABA,CASTAÑARES AV.,2350,,Flores,Comuna 7,1406,C1406IGW,SITIO WIFI
+-58.4964467013672,-34.6679203648268,1386,Centro de Día Nro. 24,Desarrollo Humano y Hábitat,,BA WIFI 2018,Dsiponible,Centros de Día,YRUPE,6702,,Mataderos,Comuna 9,1440,C1440BND,SITIO WIFI
+-58.4673937474846,-34.6782677955049,1385,Centro de Acción Familiar Bartolomé Mitre,Cultura,,BA WIFI 2018,Dsiponible,CAF,LARRAYA,4370,,Villa Lugano,Comuna 8,1439,C1439EKL,SITIO WIFI
+-58.3938870708756,-34.6413200202551,1384,SAME - Monasterio,Salud,,BA WIFI 2018,Dsiponible,Hospitales y Centros de Salud,MONASTERIO,480,,Parque Patricios,Comuna 4,1284,C1284AEJ,SITIO WIFI
+-58.4116170201265,-34.6203830982481,1383,Ente de Mantenimiento Urbano,Gobierno,,BA WIFI 2018,Dsiponible,Edificios del GCABA,INDEPENDENCIA AV.,3253,,Balvanera,Comuna 3,1225,C1225ABB,SITIO WIFI
+-58.4912380719344,-34.551170025911,1382,PLAZA HUNGRIA,Parques y Plazas,,BA Elige 2018,Dsiponible,Parques y Plazas,Ramallo,4300,,Saavedra,Comuna 12,1430,C1430CQB,SITIO WIFI
+-58.4149451181804,-34.5844410861819,1381,PLAZA ALEMANIA,Parques y Plazas,,BA Elige 2018,Dsiponible,Parques y Plazas,Av. Raúl Scalabrini Ortíz,2602,,Palermo,Comuna 14,1425,C1425DBU,SITIO WIFI
+-58.3748064375329,-34.593276231308,1380,PLAZA SAN MARTIN,Parques y Plazas,,BA Elige 2018,Dsiponible,Parques y Plazas,Av. del Libertador,50,,Retiro,Comuna 1,1001,C1001ABN,SITIO WIFI
+-58.4618831915918,-34.580174787244,1379,PLAZA 25 DE AGOSTO,Parques y Plazas,,BA Elige 2018,Dsiponible,Parques y Plazas,14 de Julio,1150,,Villa Ortuzar,Comuna 15,1427,C1427CJX,SITIO WIFI
+-58.4649425667109,-34.5669364356905,1378,PLAZA CASTELLI,Parques y Plazas,,BA Elige 2018,Dsiponible,Parques y Plazas,Juramento,3286,,Belgrano,Comuna 13,1428,C1428DPB,SITIO WIFI
+-58.4456997349295,-34.5611108941704,1377,PLAZA BARRANCAS DE BELGRANO,Parques y Plazas,,BA Elige 2018,Dsiponible,Parques y Plazas,Av. Virrey Vértiz,1702,,Belgrano,Comuna 13,1426,C1426BYD,SITIO WIFI
+-58.4821751286202,-34.6292074203173,1376,PLAZA VELEZ SARSFIELD,Parques y Plazas,,BA Elige 2018,Dsiponible,Parques y Plazas,Av. Avellaneda,3800,,Floresta,Comuna 10,1407,C1407EJR,SITIO WIFI
+-58.5222383519687,-34.6566802608461,1375,PARQUE ALFREDO L. PALACIOS,Parques y Plazas,,BA Elige 2018,Dsiponible,Parques y Plazas,Acassuso,7551,,Mataderos,Comuna 9,1440,C1440CME,SITIO WIFI
+-58.4841258959576,-34.6475846191566,1374,PLAZA DOMINGO OLIVERA,Parques y Plazas,,BA Elige 2018,Dsiponible,Parques y Plazas,Av. Olivera,860,,Parque Avellaneda,Comuna 9,1407,C1407INV,SITIO WIFI
+-58.4826203668801,-34.6436989541515,1373,PARQUE AVELLANEDA,Parques y Plazas,,BA Elige 2018,Dsiponible,Parques y Plazas,Av. Directorio,4230,,Parque Avellaneda,Comuna 9,1407,C1407HGP,SITIO WIFI
+-58.4600089906721,-34.6890114164879,1372,PLAZOLETA ROCA Y SOLDADO DE LA FRONTERA,Parques y Plazas,,BA Elige 2018,Dsiponible,Parques y Plazas,Av. Cnel. Roca,5800,,Villa Riachuelo,Comuna 8,1439,C1439DVU,SITIO WIFI
+-58.473507360932,-34.6223175002869,1371,PLAZA DE LOS PERIODISTAS,Parques y Plazas,,BA Elige 2018,Dsiponible,Parques y Plazas,Av. Nazca,900,,Flores,Comuna 7,1406,C1406AJU,SITIO WIFI
+-58.4553483099985,-34.6318913020249,1370,PLAZA DE LA MISERICORDIA,Parques y Plazas,,BA Elige 2018,Dsiponible,Parques y Plazas,Av Directorio,2000,,Flores,Comuna 7,1406,C1406GZV,SITIO WIFI
+-58.4168648933249,-34.6280670977382,1369,PLAZA AMAYA,Parques y Plazas,,BA Elige 2018,Dsiponible,Parques y Plazas,Constitución,3670,,Boedo,Comuna 5,1254,C1254ABL,SITIO WIFI
+-58.419847956675,-34.6055612853518,1368,PLAZA ALMAGRO,Parques y Plazas,,BA Elige 2018,Dsiponible,Parques y Plazas,Jerónimo Salguero,450,,Almagro,Comuna 5,1177,C1177AEH,SITIO WIFI
+-58.4280555190316,-34.6474045313227,1367,PLAZA CENTENERA Y CRUZ,Parques y Plazas,,BA Elige 2018,Dsiponible,Parques y Plazas,Av. Gral. Fernández de la Cruz,1445,,Nueva Pompeya,Comuna 4,1437,C1437GYG,SITIO WIFI
+-58.3898883514022,-34.6090641562403,1366,PLAZA DE LOS 2 CONGRESOS,Parques y Plazas,,BA Elige 2018,Dsiponible,Parques y Plazas,Av. Rivadavia,1653,,San Nicolas,Comuna 1,1033,C1033AAG,SITIO WIFI
+-58.4557300867647,-34.5873345967107,1365,Cementerio de Chacarita,Espacio Público,,Proyecto 125,Dsiponible,Cementerios,AV. GUZMAN,730,,Chacarita,Comuna 15,1427,C1427BOU,SITIO WIFI
+-58.5136676419032,-34.6465441407928,1364,Polideportivo Santojanni,Deporte,,Proyecto 125,Dsiponible,Polideportivos,PATRON,6222,,Liniers,Comuna 9,1408,C1408FAT,SITIO WIFI
+-58.4447617841128,-34.63290710494,1363,Polideportivo Parque Chacabuco,Deporte,,Proyecto 125,Dsiponible,Polideportivos,Av. Eva Peron,1410,,Parque Chacabuco,Comuna 7,1406,C1406HMP,SITIO WIFI
+-58.4769681302634,-34.5914931177593,1362,Polideportivo Costa Rica,Deporte,,Proyecto 125,Dsiponible,Polideportivos,AV. DE LOS CONSTITUYENTES,3050,,Agronomia,Comuna 15,1427,C1427BLO,SITIO WIFI
+-58.4451768758948,-34.5790092034778,1361,Polideportivo Colegiales,Deporte,,Proyecto 125,Dsiponible,Polideportivos,"FREIRE, RAMON, CAP. GRAL.",234,,Colegiales,Comuna 13,1426,C1426AVF,SITIO WIFI
+-58.3787750613751,-34.6415546194459,1359,Subsede Comunal 4 RC,Gobierno,,Proyecto 125,Dsiponible,Sede Comunal,Av. Suarez,2032,,Barracas,Comuna 4,1288,C1288AFD,SITIO WIFI
+-58.4002314257045,-34.6126307861384,1358,Sede de Comuna 3 - Spinetto Mediaciones,Gobierno,,Proyecto 125,Dsiponible,Sede Comunal,Matheu,240,,Balvanera,Comuna 3,1082,C1082ABF,SITIO WIFI
+-58.4002314257045,-34.6126307861384,1357,Sede de Comuna 3 - Spinetto Infracciones,Gobierno,,Proyecto 125,Dsiponible,Sede Comunal,Matheu,240,,Balvanera,Comuna 3,1082,C1082ABF,SITIO WIFI
+-58.4552642367241,-34.5611285474626,1356,Museo Larreta,Cultura,,Proyecto 125,Dsiponible,Museos,Juramento,2291,,Belgrano,Comuna 13,1428,C1428DNK,SITIO WIFI
+-58.3824383808245,-34.6010550786978,1355,Teatro Colón,Cultura,,Proyecto 125,Disponible,Teatros,Cerrito,628,,San Nicolas,Comuna 1,1010,C1010AAN,SITIO WIFI
+-58.4186737209999,-34.5834025294832,1354,Ministerio de Ambiente y Espacio Publico - Jardín Botánico,Gobierno,,Proyecto 125,Disponible,Gobierno,SANTA FE AV.,3917,,Palermo,Comuna 14,1425,C1425BHB,SITIO WIFI
+-58.3746145336963,-34.5931203288775,1353,Torre Monumental - Centro de Informes de Museos,Cultura,,Proyecto 125,Disponible,Museos,DEL LIBERTADOR AV.,49,,Retiro,Comuna 1,1001,C1001ABA,SITIO WIFI
+-58.4086560696891,-34.6395850988822,1352,Polideportivo Parque Patricios,Espacio Público,,Proyecto 125,Disponible,Deportes,Pepiri,135,,Parque Patricios,Comuna 4,1437,C1437EIC,SITIO WIFI
+-58.4447617841128,-34.63290710494,1351,Polideportivo Chacabuco,Espacio Público,,Proyecto 125,Disponible,Deportes,Av. Eva Peron,1410,,Parque Chacabuco,Comuna 7,1406,C1406HMP,SITIO WIFI
+-58.4918027632229,-34.6219408053394,1350,Polideportivo Pomar,Espacio Público,,Proyecto 125,Disponible,Deportes,Mercedes,1371,,Floresta,Comuna 10,1407,C1407AHY,SITIO WIFI
+-58.3892876434263,-34.6490190529913,1349,Polideportivo Pereira,Espacio Público,,Proyecto 125,Disponible,Deportes,Av. Velez Sarsfield,1271,,Barracas,Comuna 4,1285,C1285AAB,SITIO WIFI
+-58.4961512700634,-34.6677723599491,1348,Polideportivo Dorrego,Espacio Público,,Proyecto 125,Disponible,Deportes,Monte,6679,,Mataderos,Comuna 9,1440,C1440BMC,SITIO WIFI
+-58.525532408329,-34.6346958022058,1347,Estación de Combis Puerto Madero,Transporte,,Proyecto 125,Disponible,Transporte,Madero,399,,Liniers,Comuna 9,1408,C1408BRE,SITIO WIFI
+-58.4411009194112,-34.6322732149446,1344,Subsede Comunal 7,Gobierno,,Proyecto 125,Disponible,Sede Comunal,Emilio Mitre,956,,Parque Chacabuco,Comuna 7,1424,C1424AYT,SITIO WIFI
+-58.4849111882715,-34.6456803774603,1343,Subsede Comunal 9,Gobierno,,Proyecto 125,Disponible,Sede Comunal,DIRECTORIO AV.,4344,,Parque Avellaneda,Comuna 9,1407,C1407HGQ,SITIO WIFI
+-58.3937047814703,-34.6237277072939,1341,Subsede Comunal 3 RC,Gobierno,,Proyecto 125,Disponible,Sede Comunal,SARANDI,1273,,San Cristobal,Comuna 3,1251,C1251ADA,SITIO WIFI
+-58.3936257447122,-34.588922581605,1340,Subsede Comunal 2 RC,Gobierno,,Proyecto 125,Disponible,Sede Comunal,"LOPEZ, VICENTE",2050,,Recoleta,Comuna 2,1128,C1128ACF,SITIO WIFI
+-58.4963222238924,-34.6013384659779,1339,Subsede Comunal 11,Gobierno,,Proyecto 125,Disponible,Sede Comunal,"GUTIERREZ, RICARDO",3253,,Villa Del Parque,Comuna 11,1417,C1417ECA,SITIO WIFI
+-58.5050901227551,-34.659690705259,1338,Sede de Comuna 9,Gobierno,,Proyecto 125,Disponible,Sede Comunal,"GORDILLO, TIMOTEO",2212,,Mataderos,Comuna 9,1440,C1440EET,SITIO WIFI
+-58.4553385709999,-34.6847103855944,1337,Sede de Comuna 8,Gobierno,,Proyecto 125,Disponible,Sede Comunal,"ROCA, CNEL. AV.",5252,,Villa Riachuelo,Comuna 8,1439,C1439DVN,SITIO WIFI
+-58.4670021929804,-34.6301555653832,1336,Sede de Comuna 7 RC,Gobierno,,Proyecto 125,Disponible,Sede Comunal,RIVADAVIA AV.,7202,,Flores,Comuna 7,1406,C1406GMP,SITIO WIFI
+-58.4311977233421,-34.6088110284662,1335,Sede de Comuna 6 RC,Gobierno,,Proyecto 125,Disponible,Sede Comunal,DIAZ VELEZ AV.,4558,,Caballito,Comuna 6,1405,C1405DCN,SITIO WIFI
+-58.4126589451862,-34.6230513970428,1334,Sede de Comuna 5 RC,Gobierno,,Proyecto 125,Disponible,Sede Comunal,CARLOS CALVO,3307,,Boedo,Comuna 5,1230,C1230ABE,SITIO WIFI
+-58.4246528238924,-34.650476697209,1333,Sede de Comuna 4,Gobierno,,Proyecto 125,Disponible,Sede Comunal,BARCO CENTENERA del,2906,,Nueva Pompeya,Comuna 4,1437,C1437ACO,SITIO WIFI
+-58.398843215301,-34.5966672734247,1331,Sede de Comuna 2,Gobierno,,Proyecto 125,Disponible,Sede Comunal,"URIBURU JOSE E., Pres.",1022,,Recoleta,Comuna 2,1114,C1114AAF,SITIO WIFI
+-58.4412537875197,-34.5869884020329,1330,Sede de Comuna 15 RC,Gobierno,,Proyecto 125,Disponible,Sede Comunal,CORDOBA AV.,5690,,Chacarita,Comuna 15,1414,C1414BBP,SITIO WIFI
+-58.4094356167977,-34.5872362218366,1329,Sede de Comuna 14 RC,Gobierno,,Proyecto 125,Disponible,Sede Comunal,BERUTI,3325,,Palermo,Comuna 14,1425,C1425BBQ,SITIO WIFI
+-58.4640257642185,-34.5537821362625,1328,Sede de Comuna 13 RC (2),Gobierno,,Proyecto 125,Disponible,Sede Comunal,CABILDO AV.,3067,,Nuñez,Comuna 13,1429,C1429AAB,SITIO WIFI
+-58.4640257642185,-34.5537821362625,1327,Sede de Comuna 13 RC,Gobierno,,Proyecto 125,Disponible,Sede Comunal,CABILDO AV.,3067,,Nuñez,Comuna 13,1429,C1429AAB,SITIO WIFI
+-58.4829174322358,-34.5687931024779,1326,Sede de Comuna 12 RC,Gobierno,,Proyecto 125,Disponible,Sede Comunal,MILLER,2751,,Villa Urquiza,Comuna 12,1431,C1431GEC,SITIO WIFI
+-58.5159950164006,-34.6083646509668,1325,Sede de Comuna 11 RC,Gobierno,,Proyecto 125,Disponible,Sede Comunal,"BEIRO, FRANCISCO AV.",4629,,Villa Devoto,Comuna 11,1419,C1419HZI,SITIO WIFI
+-58.4834402088205,-34.631782073125,1324,Sede de Comuna 10,Gobierno,,Proyecto 125,Disponible,Sede Comunal,BACACAY,3952,,Floresta,Comuna 10,1407,C1407EDN,SITIO WIFI
+-58.3693544705291,-34.6206943528891,1323,Sede de Comuna 1 - Ex Padelai,Gobierno,,Proyecto 125,Disponible,Sede Comunal,HUMBERTO 1°,250,,San Telmo,Comuna 1,1103,C1103ACF,SITIO WIFI
+-58.4189153449358,-34.5792142127002,1318,Teatro Sarmiento,Cultura,,Proyecto 125,Disponible,Teatros,SARMIENTO AV.,2715,,Palermo,Comuna 14,1425,C1425FGB,SITIO WIFI
+-58.3886390197135,-34.6042417230296,1317,Teatro Gral. San Martín,Cultura,,Proyecto 125,Disponible,Teatros,Corrientes,1530,,San Nicolas,Comuna 1,1042,C1042AAO,SITIO WIFI
+-58.5072411180313,-34.5687229996412,1316,Museo Cornelio Saavedra,Cultura,,Proyecto 125,Disponible,Museos,"LARRALDE, CRISOLOGO AV.",6293,,Saavedra,Comuna 12,1431,C1431AQE,SITIO WIFI
+-58.3799281142343,-34.5909015149309,1315,Museo Fernandez Blanco,Cultura,,Proyecto 125,Disponible,Museos,SUIPACHA,1422,,Retiro,Comuna 1,1011,C1011ACF,SITIO WIFI
+-58.448256168867,-34.6150277981534,1314,Museo Luis Perlotti,Cultura,,Proyecto 125,Disponible,Museos,PUJOL,642,,Caballito,Comuna 6,1405,C1405ALD,SITIO WIFI
+-58.405193457689,-34.5798337766253,1313,Museo José Hernández,Cultura,,Proyecto 125,Disponible,Museos,DEL LIBERTADOR AV.,2373,,Palermo,Comuna 14,1425,C1425AAJ,SITIO WIFI
+-58.3569527157363,-34.6295762750908,1311,Museo del Cine,Cultura,,Proyecto 125,Disponible,Museos,"CAFFARENA, AGUSTIN R.",49,,Boca,Comuna 4,1157,C1157ADA,SITIO WIFI
+-58.3720756782359,-34.6104486965409,1310,Museo de la Ciudad,Cultura,,Proyecto 125,Disponible,Museos,DEFENSA,219,,Monserrat,Comuna 1,1065,C1065AAC,SITIO WIFI
+-58.3707228298667,-34.6218932751909,1309,Museo de Arte Moderno (MAMBA),Cultura,,Proyecto 125,Disponible,Museos,SAN JUAN AV.,350,,San Telmo,Comuna 1,1147,C1147AAO,SITIO WIFI
+-58.4079201424532,-34.6016428199661,1308,Museo Carlos Gardel,Cultura,,Proyecto 125,Disponible,Museos,"JAURES, JEAN",735,,Balvanera,Comuna 3,1215,C1215ACM,SITIO WIFI
+-58.448256168867,-34.6150277981534,1307,Museo de Esculturas Luis Perlotti,Cultura,,Proyecto 125,Disponible,Museos,PUJOL,642,,Caballito,Comuna 6,1405,C1405ALD,SITIO WIFI
+-58.3885822396523,-34.6053714732765,1306,Centro Cultural San Martín,Cultura,,Proyecto 125,Disponible,Teatros,SARMIENTO,1551,,San Nicolas,Comuna 1,1042,C1042ABC,SITIO WIFI
+-58.4835681109282,-34.5761766943104,1305,Teatro 25 de Mayo,Cultura,,Proyecto 125,Disponible,Teatros,TRIUNVIRATO AV.,4444,,Villa Urquiza,Comuna 12,1431,C1431FBU,SITIO WIFI
+-58.5209647328291,-34.6463659055867,1304,Biblioteca Hernández,Cultura,,Proyecto 125,Disponible,Bibliotecas,BOQUERON,6753,,Liniers,Comuna 9,1408,C1408EHA,SITIO WIFI
+-58.4487213145965,-34.5616012524313,1303,Biblioteca Reina Batata (Infantil),Cultura,,Proyecto 125,Disponible,Bibliotecas,LA PAMPA,0,11 DE SEPTIEMBRE DE 1888,Belgrano,Comuna 13,,,SITIO WIFI
+-58.4720261964673,-34.6631552248387,1302,Biblioteca Julio César Saguier,Cultura,,Proyecto 125,Disponible,Bibliotecas,ESCALADA AV.,0,"DELLEPIANE, LUIS, TTE. GRAL.",Villa Lugano,Comuna 8,,,SITIO WIFI
+-58.4075573257288,-34.6374599361024,1301,Biblioteca Enrique Banchs,Cultura,,Proyecto 125,Disponible,Bibliotecas,CASEROS AV.,0,"URQUIZA, Gral.",Parque Patricios,Comuna 4,,,SITIO WIFI
+-58.4364434362011,-34.6481414640518,1300,Biblioteca Javier Villafañe,Cultura,,Proyecto 125,Disponible,Bibliotecas,"JANER, ANA MARIA",0,"TORRES Y TENORIO, Pres.",Flores,Comuna 7,,,SITIO WIFI
+-58.4970633560937,-34.6677559900079,1299,Biblioteca Benito Lynch,Cultura,,Proyecto 125,Disponible,Bibliotecas,YRUPE,6741,,Mataderos,Comuna 9,1440,C1440BNC,SITIO WIFI
+-58.3590382949462,-34.6354224360637,1298,Biblioteca Joaquin V Gonzalez,Cultura,,Proyecto 125,Disponible,Bibliotecas,SUAREZ,408,,Boca,Comuna 4,1162,C1162AEJ,SITIO WIFI
+-58.4564477660804,-34.6378137626984,1297,Biblioteca Mariano Pelliza,Cultura,,Proyecto 125,Disponible,Bibliotecas,CRANWELL,819,,Flores,Comuna 7,1406,C1406EBG,SITIO WIFI
+-58.4383368931647,-34.6340561219499,1296,Biblioteca Estanislao del Campo,Cultura,,Proyecto 125,Disponible,Bibliotecas,DE LAS ARTES,1210,,Parque Chacabuco,Comuna 7,1424,C1424BCH,SITIO WIFI
+-58.5264183919838,-34.6347521675363,1295,Biblioteca Miguel Cané,Cultura,,Proyecto 125,Disponible,Bibliotecas,"JUSTO, JUAN B. AV.",9668,,Liniers,Comuna 9,1408,C1408ALN,SITIO WIFI
+-58.3881375128311,-34.6147190167285,1294,Biblioteca Alfonsina Storni y Martín Del Barco Centenera,Cultura,,Proyecto 125,Disponible,Bibliotecas,REPUBLICA BOLIVARIANA DE VENEZUELA,1538,,Monserrat,Comuna 1,1095,C1095ABF,SITIO WIFI
+-58.3891346330003,-34.599491226542,1293,Biblioteca Manuel Gálvez,Cultura,,Proyecto 125,Disponible,Bibliotecas,CORDOBA AV.,1558,,San Nicolas,Comuna 1,1055,C1055AAS,SITIO WIFI
+-58.4298018199437,-34.5978876978846,1291,Biblioteca Julio Cortázar,Cultura,,Proyecto 125,Disponible,Bibliotecas,LAVALLEJA,924,,Villa Crespo,Comuna 15,1414,C1414DTT,SITIO WIFI
+-58.4616862674174,-34.5649452255431,1290,Biblioteca José Mármol,Cultura,,Proyecto 125,Disponible,Bibliotecas,JURAMENTO,2937,,Belgrano,Comuna 13,1428,C1428DNY,SITIO WIFI
+-58.4749577923524,-34.6768104326257,1289,Biblioteca El Progreso,Cultura,,Proyecto 125,Disponible,Bibliotecas,RIESTRA AV.,5655,,Villa Lugano,Comuna 8,1439,C1439BYH,SITIO WIFI
+-58.3914784393026,-34.624605602224,1288,Biblioteca Del Docente,Cultura,,Proyecto 125,Disponible,Bibliotecas,ENTRE RIOS AV.,1349,,San Cristobal,Comuna 3,1133,C1133AAB,SITIO WIFI
+-58.4238732709212,-34.5813524825881,1287,Biblioteca Carlos Guido y Spano,Cultura,,Proyecto 125,Disponible,Bibliotecas,GUEMES,4601,,Palermo,Comuna 14,1425,C1425BLI,SITIO WIFI
+-58.5108943448392,-34.5993148523254,1286,Biblioteca Antonio Devoto,Cultura,,Proyecto 125,Disponible,Bibliotecas,BAHIA BLANCA,4025,,Villa Devoto,Comuna 11,1419,C1419BAI,SITIO WIFI
+-58.4503632008697,-34.5913558455624,1285,Biblioteca Baldomero Fernández Moreno,Cultura,,Proyecto 125,Disponible,Bibliotecas,"ARENAL, CONCEPCION",4206,,Chacarita,Comuna 15,1427,C1427EKR,SITIO WIFI
+-58.4635511813045,-34.6850072174197,1284,Biblioteca Álvaro Yunque,Cultura,,Proyecto 125,Disponible,Bibliotecas,SOLDADO DE LA FRONTERA AV.,5210,,Villa Lugano,Comuna 8,1439,C1439FPH,SITIO WIFI
+-58.4758887914175,-34.5971243195778,1279,HOSPITAL TORCUATO DE ALVEAR,Hospitales y Centros de Salud,,Proyecto 125,Disponible,Hospitales,WARNES,2630,,Paternal,Comuna 15,1427,C1427DPS,SITIO WIFI
+-58.3843221517513,-34.6390846485371,1278,HOSPITAL BRAULIO MOYANO,Hospitales y Centros de Salud,,Proyecto 125,Disponible,Hospitales,BRANDSEN,2570,,Barracas,Comuna 4,1287,C1287ABJ,SITIO WIFI
+-58.3821441990908,-34.6355542952125,1277,HOSPITAL C.TOBAR GARCIA,Hospitales y Centros de Salud,,Proyecto 125,Disponible,Hospitales,DR. RAMON CARRILLO,315,,Barracas,Comuna 4,1275,C1275AHG,SITIO WIFI
+-58.3818757602047,-34.6365417802164,1276,HOSPITAL T.BORDA,Hospitales y Centros de Salud,,Proyecto 125,Disponible,Hospitales,DR. RAMON CARRILLO,375,,Barracas,Comuna 4,1275,C1275AHG,SITIO WIFI
+-58.3755798287977,-34.6302462723121,1275,HOSPITAL M.FERRER,Hospitales y Centros de Salud,,Proyecto 125,Disponible,Hospitales,DR. ENRIQUE FINOCHIETTO,849,,Barracas,Comuna 4,1272,C1272AAA,SITIO WIFI
+-58.432225169637,-34.6255774002628,1274,HOSPITAL HUMBERTO ILLIA,Hospitales y Centros de Salud,,Proyecto 125,Disponible,Hospitales,PEDRO GOYENA,369,,Caballito,Comuna 6,1424,C1424BSD,SITIO WIFI
+-58.4600880921142,-34.6055973716177,1273,HOSPITAL PEDRO LAGLEYSE,Hospitales y Centros de Salud,,Proyecto 125,Disponible,Hospitales,JUAN B. JUSTO,4151,,Villa Gral. Mitre,Comuna 11,1416,C1416DJI,SITIO WIFI
+-58.4328773180102,-34.607088234185,1272,HOSPITAL MARIE CURIE,Hospitales y Centros de Salud,,Proyecto 125,Disponible,Hospitales,PATRICIAS ARGENTINAS AV.,150,,Caballito,Comuna 6,1405,C1405BWO,SITIO WIFI
+-58.3913584369387,-34.6343505304679,1271,HOSPITAL B. UDAONDO,Hospitales y Centros de Salud,,Proyecto 125,Disponible,Hospitales,CASEROS,2061,,Parque Patricios,Comuna 4,1264,C1264AAA,SITIO WIFI
+-58.434992192874,-34.6085337392116,1270,HOSPITAL LUIS PASTEUR,Hospitales y Centros de Salud,,Proyecto 125,Disponible,Hospitales,DIAZ VELEZ,4821,,Caballito,Comuna 6,1405,C1405DCD,SITIO WIFI
+-58.3929971575529,-34.6372222500782,1269,HOSPITAL MUÑIZ,Hospitales y Centros de Salud,,Proyecto 125,Disponible,Hospitales,USPALLATA,2272,,Parque Patricios,Comuna 4,1282,C1282AEN,SITIO WIFI
+-58.4026946692434,-34.5844277590145,1268,HOSPITAL RAMON CARRILLO,Hospitales y Centros de Salud,,Proyecto 125,Disponible,Hospitales,SANCHEZ DE BUSTAMANTE,2529,,Recoleta,Comuna 2,1425,C1425DUY,SITIO WIFI
+-58.3944660060865,-34.6228328424835,1267,HOSPITAL SANTA LUCIA,Hospitales y Centros de Salud,,Proyecto 125,Disponible,Hospitales,AV SAN JUAN,2021,,San Cristobal,Comuna 3,1232,C1232AAC,SITIO WIFI
+-58.4590247254215,-34.6737584669302,1266,HOSPITAL CECILIA GRIERSON,Hospitales y Centros de Salud,,Proyecto 125,Disponible,Hospitales,AV. GRAL. FERNANDEZ DE LA CRUZ,4402,,Villa Lugano,Comuna 8,1439,C1439CNU,SITIO WIFI
+-58.4022558602815,-34.6253304355219,1265,CESAC Nº 45,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,COCHABAMBA,2622,,San Cristobal,Comuna 3,1252,C1252AAR,SITIO WIFI
+-58.467459400591,-34.660583839361,1264,CESAC Nº 44,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,SARAZA,4202,,Villa Lugano,Comuna 8,1439,C1439AOB,SITIO WIFI
+-58.466531198788,-34.6777278133414,1263,CESAC Nº 43,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,Fonrouge,4377,,Villa Lugano,Comuna 8,1439,C1439EMK,SITIO WIFI
+-58.3578287818444,-34.6313128366299,1262,CESAC Nº 41,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,"BRIN, Ministro",843,,Boca,Comuna 4,1158,C1158AAI,SITIO WIFI
+-58.445473021812,-34.6450900570132,1261,CESAC Nº 40,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,"BONORINO, ESTEBAN, Cnel. AV.",1729,,Flores,Comuna 7,1406,C1406DNI,SITIO WIFI
+-58.409825072463,-34.6310096347237,1260,CESAC Nº 39,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,24 DE NOVIEMBRE,1679,,Parque Patricios,Comuna 4,1242,C1242AAI,SITIO WIFI
+-58.3995343820274,-34.6563815866893,1258,CESAC N° 35,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,"CRUZ, OSVALDO",0,ZAVALETA,Barracas,Comuna 4,,,SITIO WIFI
+-58.478147869199,-34.6065389146236,1257,CESAC Nº 34,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,"ARTIGAS, JOSE GERVASIO, GRAL.",2262,,Villa Del Parque,Comuna 11,1416,C1416ALB,SITIO WIFI
+-58.441724197515,-34.5864529319586,1256,CESAC Nº 33,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,CORDOBA AV.,5741,,Palermo,Comuna 14,1414,C1414BBD,SITIO WIFI
+-58.4311633858374,-34.6542718204011,1255,CESAC Nª 32,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,CHARRUA,2900,,Nueva Pompeya,Comuna 4,1437,C1437AYD,SITIO WIFI
+-58.434503665518,-34.6466737202775,1254,CESAC Nº 31,Hospitales y Centros de Salud,,Proyecto 125,Disponible,Barrios Sociales,Ana María Janer,0,Agustin de Vedia,Nueva Pompeya,Comuna 4,,,SITIO WIFI
+-58.4050474814826,-34.649796469603,1253,CESAC Nº 30,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,"ALCORTA, AMANCIO AV.",0,IGUAZU,Nueva Pompeya,Comuna 4,,,SITIO WIFI
+-58.4867261316979,-34.6847872309211,1252,CESAC Nº 29,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,"DELLEPIANE, LUIS, TTE. GRAL.",0,"PAZ, GRAL. AV.",Villa Lugano,Comuna 8,,,SITIO WIFI
+-58.4632403942264,-34.6888704527395,1251,CESAC Nº 28,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,CAFAYATE,5388,,Villa Lugano,Comuna 8,1439,C1439IEB,SITIO WIFI
+-58.4866156740038,-34.5477427134101,1250,CESAC Nº 27,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,ARIAS,3783,,Saavedra,Comuna 12,1430,C1430CRG,SITIO WIFI
+-58.4257145429811,-34.5871370726218,1249,CESAC Nº 26,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,GURRUCHAGA,1939,,Palermo,Comuna 14,1414,C1414DIM,SITIO WIFI
+-58.4559503950996,-34.6583326404397,1247,CESAC Nº 24,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,Pasaje L,0,Laguna,Villa Soldati,Comuna 8,,,SITIO WIFI
+-58.4491545891361,-34.592225905953,1245,CESAC Nº 22,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,GUZMAN,90,,Chacarita,Comuna 15,1427,C1427BON,SITIO WIFI
+-58.3732771327423,-34.5842106750709,1244,CESAC Nº 21,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,Av. Gendarmeria Nacional,601,,Retiro,Comuna 1,,,SITIO WIFI
+-58.4384022270639,-34.6491980769476,1243,CESAC Nº 20,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,CHARRUA,2330,,Flores,Comuna 7,,,SITIO WIFI
+-58.4422573378036,-34.6429178035657,1242,CESAC Nº 19,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,CURAPALIGUE,1901,,Flores,Comuna 7,1406,C1406DBG,SITIO WIFI
+-58.4679688106035,-34.6736273001173,1241,CESAC Nº 18,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,"BATLLE Y ORDOÑEZ, JOSE",5080,,Villa Lugano,Comuna 8,1439,C1439CDL,SITIO WIFI
+-58.4199467803627,-34.5927265568355,1240,CESAC Nº 17,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,EL SALVADOR,4037,,Palermo,Comuna 14,1175,C1175ACE,SITIO WIFI
+-58.3801210059809,-34.6485245600106,1239,CESAC Nº 16,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,CALIFORNIA,2346,,Barracas,Comuna 4,1289,C1289ABB,SITIO WIFI
+-58.3724691679032,-34.6207355418677,1238,CESAC Nº 15,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,HUMBERTO 1°,470,,San Telmo,Comuna 1,1103,C1103ACJ,SITIO WIFI
+-58.4742856116622,-34.5698179518119,1236,CESAC Nº 12,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,OLAZABAL AV.,3960,,Villa Urquiza,Comuna 12,1430,C1430BQS,SITIO WIFI
+-58.4105671138291,-34.5990220777975,1235,CESAC Nº 11,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,AGUERO,940,,Balvanera,Comuna 3,1171,C1171ABP,SITIO WIFI
+-58.3837041872688,-34.6333577179954,1234,CESAC Nº 10,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,Av. Amancio Alcorta,1402,,Barracas,Comuna 4,1283,C1283AAN,SITIO WIFI
+-58.3660674201704,-34.6401424327896,1233,CESAC Nº 9,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,IRALA,1254,,Boca,Comuna 4,1164,C1164ACD,SITIO WIFI
+-58.3972922295765,-34.6561352592007,1232,CESAC Nº 8,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,"CRUZ, OSVALDO",3485,,Barracas,Comuna 4,1437,C1437IFA,SITIO WIFI
+-58.491104487459,-34.6781848250694,1231,CESAC Nº 7,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,MONTIEL,4002,,Villa Lugano,Comuna 8,1439,C1439HEJ,SITIO WIFI
+-58.4409479109958,-34.6667711112011,1230,CESAC Nº 6,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,"ACOSTA, MARIANO",0,"RABANAL, FRANCISCO, INTENDENTE AV.",Villa Soldati,Comuna 8,,,SITIO WIFI
+-58.4952684878643,-34.6705441659847,1229,CESAC Nº 5,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,PIEDRA BUENA AV.,3140,,Villa Lugano,Comuna 8,1439,C1439GVN,SITIO WIFI
+-58.5063444616941,-34.6550483255204,1228,CESAC Nº 4,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,"ALBERDI, JUAN BAUTISTA AV.",6300,,Mataderos,Comuna 9,1440,C1440ABN,SITIO WIFI
+-58.4641470831963,-34.6845440291771,1227,CESAC Nº 3,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,SOLDADO DE LA FRONTERA AV.,5144,,Villa Lugano,Comuna 8,1439,C1439FPF,SITIO WIFI
+-58.5093944366392,-34.5764380800727,1226,CESAC Nº 2,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,TERRADA,5850,,Villa Pueyrredon,Comuna 12,1419,C1419DML,SITIO WIFI
+-58.3892876434263,-34.6490190529913,1225,CESAC Nº 1,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,VELEZ SARSFIELD AV.,1271,,Barracas,Comuna 4,1285,C1285AAB,SITIO WIFI
+-58.4214257036031,-34.6066149036341,1223,CESAC Nº 38,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,MEDRANO AV.,350,,Almagro,Comuna 5,1179,C1179AAF,SITIO WIFI
+-58.4821018798985,-34.643250461187,1222,CESAC Nº 13,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,DIRECTORIO AV.,4210,,Parque Avellaneda,Comuna 9,1407,C1407HGP,SITIO WIFI
+-58.4918027632229,-34.6219408053394,1221,CESAC Nº 36,Hospitales y Centros de Salud,,Proyecto 125,Disponible,CeSAC,MERCEDES,1371,,Floresta,Comuna 10,1407,C1407AHY,SITIO WIFI
+-58.3986047135904,-34.5756108261286,1220,ParquesyPlazas_Barrio Mugica_Plaza Saldías,Parques y Plazas,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3857235598797,-34.581066897803,1219,ParquesyPlazas_Barrio Mugica_Plaza del triángulo,Parques y Plazas,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.380163483311,-34.5844990443098,1218,ParquesyPlazas_Barrio Mugica_Plaza Ledezma,Parques y Plazas,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3828095724783,-34.5814083653125,1217,ParquesyPlazas_Barrio Mugica_Plaza Primavera,Parques y Plazas,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3875843492633,-34.5799592790726,1216,EspacioPúblico_Barrio Mugica_Pichones,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3757832235484,-34.5824722592486,1215,EspacioPúblico_Barrio Mugica_Cesac-Filii,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3833342108829,-34.5830105785627,1214,EspacioPúblico_Barrio Mugica_Cancha Chica_Ex_Mza 106,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3842155010563,-34.5814683540965,1213,EspacioPúblico_Barrio Mugica_CESAC Mza 33,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3882215788355,-34.5809254344385,1212,EspacioPúblico_Barrio Mugica_Escuela,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3774885971349,-34.5835743378518,1211,EspacioPúblico_Barrio Mugica_Cesac Mza 31_Ex. Perette y Prefectura,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3820669835762,-34.5829092661286,1210,EspacioPúblico_Barrio Mugica_Cacupé,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3888641622219,-34.5796118841319,1209,EspacioPúblico_Barrio Mugica_Containera,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3912245445581,-34.5796962796665,1208,EspacioPúblico_Barrio Mugica_Manzana 104,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3873389522269,-34.5805218329043,1207,EspacioPúblico_Barrio Mugica_Cancha Luján,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3848879792269,-34.5815363930852,1206,EspacioPúblico_Barrio Mugica_Cancha de los Tucumanos,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3804680123407,-34.5851663191202,1205,EspacioPúblico_Barrio Mugica_Manzana 99,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3818389321339,-34.5820482350021,1204,EspacioPúblico_Barrio Mugica_Bichito de Luz,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.378960819677,-34.5827719577071,1203,EspacioPúblico_Barrio Mugica_Cancha Guemes,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3796014006187,-34.5852603838489,1202,EspacioPúblico_Barrio Mugica_Cancha de los Lápices,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3777695978016,-34.5859171775617,1201,EspacioPúblico_Barrio Mugica_Mza. 116,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3783582914273,-34.5858082856347,1200,EspacioPúblico_Barrio Mugica_Mza. 113,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3880052819133,-34.5786669948217,1199,EspacioPúblico_Barrio Mugica_Cancha Comunicaciones,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3787671368584,-34.5857015209241,1198,EspacioPúblico_Barrio Mugica_Cedel,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3837095069286,-34.580607147205,1197,EspacioPúblico_Barrio Mugica_Cancha 7,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3851766497903,-34.5791617298999,1196,EspacioPúblico_Barrio Mugica_Cancha 9,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3802466006934,-34.5831108750705,1195,EspacioPúblico_Barrio Mugica_Cancha del Cartel,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3796458351095,-34.5844200478813,1194,EspacioPúblico_Barrio Mugica_Galpón,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3813858845836,-34.5830575527138,1193,EspacioPúblico_Barrio Mugica_Playón,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3764512803521,-34.5853889078365,1192,EspacioPúblico_Barrio Mugica_Feria,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.3745528999702,-34.583382391965,1191,EspacioPúblico_Barrio Mugica_Gendarmería,Espacio Público,,Proy. LTE Barrio Mugica,Disponible,Barrios Sociales,,0,,,,,,SITIO WIFI
+-58.5112061467509,-34.5999075832572,1190,Hospital Zubizarreta - Guardia,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Nueva York,3952,,Villa Devoto,Comuna 11,1419,C1419HDN,SITIO WIFI
+-58.5112061467509,-34.5999075832572,1189,Hospital Zubizarreta - CE,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Nueva York,3952,,Villa Devoto,Comuna 11,1419,C1419HDN,SITIO WIFI
+-58.5075003264535,-34.6252307396971,1188,Hospital V. Sarsfield - Guardia,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Pedro Calderón de la Barca,1550,,Monte Castro,Comuna 10,1407,C1407KQF,SITIO WIFI
+-58.5075003264535,-34.6252307396971,1187,Hospital V. Sarsfield - CE,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Pedro Calderón de la Barca,1550,,Monte Castro,Comuna 10,1407,C1407KQF,SITIO WIFI
+-58.4708925513626,-34.5873101456197,1186,Hospital Tornu - Guardia,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Combatientes de Malvinas,3002,,Parque Chas,Comuna 15,1431,C1431FTA,SITIO WIFI
+-58.4708925513626,-34.5873101456197,1185,Hospital Tornu - CE,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Combatientes de Malvinas,3002,,Parque Chas,Comuna 15,1431,C1431FTA,SITIO WIFI
+-58.4025372999919,-34.6348269548735,1184,Hospital Sarda - Guardia,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Esteban de Luca,2151,,Parque Patricios,Comuna 4,1246,C1246ABQ,SITIO WIFI
+-58.4025372999919,-34.6348269548735,1183,Hospital Sarda - CE,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Esteban de Luca,2151,,Parque Patricios,Comuna 4,1246,C1246ABQ,SITIO WIFI
+-58.515802290081,-34.6493579182983,1182,Hospital Santojanni - Guardia,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Pilar,950,,Liniers,Comuna 9,1408,C1408INH,SITIO WIFI
+-58.515802290081,-34.6493579182983,1181,Hospital Santojanni - CE,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Pilar,950,,Liniers,Comuna 9,1408,C1408INH,SITIO WIFI
+-58.4008087191107,-34.5843581999009,1180,Hospital Rivadavia - Guardia,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Av. Gral. Las Heras,2670,,Recoleta,Comuna 2,1425,C1425ASQ,SITIO WIFI
+-58.4008087191107,-34.5843581999009,1179,Hospital Rivadavia - CE,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Av. Gral. Las Heras,2670,,Recoleta,Comuna 2,1425,C1425ASQ,SITIO WIFI
+-58.4093983130713,-34.6176245204943,1178,Hospital Ramos Mejia - Guardia,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Gral. Urquiza,609,,Balvanera,Comuna 3,1221,C1221ADC,SITIO WIFI
+-58.4093983130713,-34.6176245204943,1177,Hospital Ramos Mejia - CE,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Gral. Urquiza,609,,Balvanera,Comuna 3,1221,C1221ADC,SITIO WIFI
+-58.4709860832213,-34.5651077473183,1176,Hospital Pirovano - Guardia,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Monroe,3555,,Coghlan,Comuna 12,1430,C1430BKC,SITIO WIFI
+-58.4709860832213,-34.5651077473183,1175,Hospital Pirovano - CE,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Monroe,3555,,Coghlan,Comuna 12,1430,C1430BKC,SITIO WIFI
+-58.4544312225037,-34.643352443674,1174,Hospital Piñero - Guardia,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Crisóstomo Álvarez,2602,,Flores,Comuna 7,1406,C1406HUB,SITIO WIFI
+-58.4544312225037,-34.643352443674,1173,Hospital Piñero - CE,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Crisóstomo Álvarez,2602,,Flores,Comuna 7,1406,C1406HUB,SITIO WIFI
+-58.4114106022984,-34.6430565960056,1172,Hospital Penna - Guardia.,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Dr. Prof Pedro Chutro,3380,,Parque Patricios,Comuna 4,1437,C1437IYP,SITIO WIFI
+-58.4114106022984,-34.6430565960056,1171,Hospital Penna - CE,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Dr. Prof Pedro Chutro,3380,,Parque Patricios,Comuna 4,1437,C1437IYP,SITIO WIFI
+-58.4107297732302,-34.5945260288865,1170,Hospital Gutierrez - Guardia,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Gallo,1330,,Recoleta,Comuna 2,1425,C1425EFD,SITIO WIFI
+-58.4107297732302,-34.5945260288865,1169,Hospital Gutierrez - CE,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Gallo,1330,,Recoleta,Comuna 2,1425,C1425EFD,SITIO WIFI
+-58.4067587715293,-34.5810452388456,1168,Hospital Fernandez - Guardia,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Cerviño,3356,,Palermo,Comuna 14,1425,C1425AGP,SITIO WIFI
+-58.4067587715293,-34.5810452388456,1167,Hospital Fernandez - CE,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Cerviño,3356,,Palermo,Comuna 14,1425,C1425AGP,SITIO WIFI
+-58.3776089749903,-34.6289107083515,1166,Hospital Elizalde - Guardia,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Av Manuel Montes de Oca,40,,Barracas,Comuna 4,1270,C1270AAN,SITIO WIFI
+-58.3776089749903,-34.6289107083515,1165,Hospital Elizalde - CE,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Av Manuel Montes de Oca,40,,Barracas,Comuna 4,1270,C1270AAN,SITIO WIFI
+-58.4378872409768,-34.6088751186439,1164,Hospital Durand - Guardia,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Av. Díaz Vélez,5044,,Caballito,Comuna 6,1405,C1405DCS,SITIO WIFI
+-58.4378872409768,-34.6088751186439,1163,Hospital Durand - CE,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Av. Díaz Vélez,5044,,Caballito,Comuna 6,1405,C1405DCS,SITIO WIFI
+-58.366023345923,-34.6277858547459,1162,Hospital Argerich - Guardia,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Pi y Margall,750,,Boca,Comuna 4,1155,C1155AHD,SITIO WIFI
+-58.366023345923,-34.6277858547459,1161,Hospital Argerich - CE,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Pi y Margall,750,,Boca,Comuna 4,1155,C1155AHD,SITIO WIFI
+-58.4694218564536,-34.6242960974224,1160,Hospital Alvarez - Guardia,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Dr. Juan Felipe Aranguren,2701,,Flores,Comuna 7,1406,C1406FWY,SITIO WIFI
+-58.4694218564536,-34.6242960974224,1159,Hospital Alvarez - CE,Hospitales y Centros de Salud,,Proy. Salas de Espera Hospitales,Disponible,Hospitales,Dr. Juan Felipe Aranguren,2701,,Flores,Comuna 7,1406,C1406FWY,SITIO WIFI
+-58.4036664853861,-34.5985821325455,1156,Estación Córdoba - Línea H,Subte,,,Disponible,Línea H,PUEYRREDON AV.,999,CÓRDOBA AV.,Balvanera,Comuna 3,1032,C1032ABJ,SITIO WIFI
+-58.402222442725,-34.5943829841056,1153,Estación Santa Fe - Línea H,Subte,,,Disponible,Línea H,PUEYRREDON AV.,1401,SANTA FE AV.,Recoleta,Comuna 2,1118,C1118AAE,SITIO WIFI
+-58.3972466023343,-34.5874735182595,1150,Estación Las Heras - Línea H,Subte,,,Disponible,Línea H,PUEYRREDON AV.,2199,LAS HERAS AV.,Recoleta,Comuna 2,1119,C1119ACE,SITIO WIFI
+-58.3844110442076,-34.6027737313348,1149,"Parques y Plazas, Plaza Lavalle",Parques y Plazas,,,Disponible,Parques y Plazas,Lavalle,1250,,San Nicolas,Comuna 1,1048,C1048AAF,SITIO WIFI
+-58.4359154983253,-34.6642926581946,1148,"Metrobus Sur Roca, Estación La Fuente",Metrobus,Segunda Etapa HRL,,Disponible,Sur Roca,Av. Int. Francisco Rabanal,2950,La fuente y Rabanal,Villa Soldati,Comuna 8,1437,C1437FQQ,SITIO WIFI
+-58.3739459746051,-34.5950680443597,1147,"Espacio Público, Ricardo Rojas 460",Espacio Público,Segunda Etapa HRL,,Disponible,Espacio Público,Dr. Ricardo Rojas,460,,Retiro,Comuna 1,1001,C1001AEB,SITIO WIFI
+-58.4688637998626,-34.630621399177,1138,Estación San Pedrito  - Linea A,Subte,,,Disponible,Linea A,RIVADAVIA AV.,7350,NAZCA AV.,Flores,Comuna 7,1406,C1406GMQ,SITIO WIFI
+-58.463545095146,-34.6290852654106,1135,Estación San Jose de Flores - Linea A,Subte,,,Disponible,Linea A,RIVADAVIA AV.,6900,,Flores,Comuna 7,1406,C1406GLY,SITIO WIFI
+-58.4115616974312,-34.5697774971687,1134,Planetario - Espacios Comunes,Parques y Plazas,Ejecutados 2017,Diciembre 2017,Disponible,Planetario,SARMIENTO AV.,0,"ROLDAN, BELISARIO AV.",Palermo,Comuna 14,,,SITIO WIFI
+-58.4117895684103,-34.5695948991741,1120,Planetario - Oficina,Parques y Plazas,Ejecutados 2017,Diciembre 2017,Disponible,Planetario,SARMIENTO AV.,0,"ROLDAN, BELISARIO AV.",Palermo,Comuna 14,,,SITIO WIFI
+-58.4118329848965,-34.5698802754878,1119,Planetario - Frente,Parques y Plazas,Ejecutados 2017,Diciembre 2017,Disponible,Planetario,SARMIENTO AV.,0,"ROLDAN, BELISARIO AV.",Palermo,Comuna 14,,,SITIO WIFI
+-58.4124037275788,-34.5703649897348,1118,Planetario - Torre Frontal Av Roldan,Parques y Plazas,Ejecutados 2017,Diciembre 2017,Disponible,Planetario,SARMIENTO AV.,0,"ROLDAN, BELISARIO AV.",Palermo,Comuna 14,,,SITIO WIFI
+-58.4110418697021,-34.56979781131,1117,Planetario - Torre Der Av Sarmiento,Parques y Plazas,Ejecutados 2017,Diciembre 2017,Disponible,Planetario,SARMIENTO AV.,0,"ROLDAN, BELISARIO AV.",Palermo,Comuna 14,,,SITIO WIFI
+-58.4112198245465,-34.5692720420839,1116,Planetario - Torre Trasera Av Casares,Parques y Plazas,Ejecutados 2017,Diciembre 2017,Disponible,Planetario,SARMIENTO AV.,0,"ROLDAN, BELISARIO AV.",Palermo,Comuna 14,,,SITIO WIFI
+-58.4567125371734,-34.6266648153041,1115,Estación Carabobo - Linea A,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea A,AV. Rivadavia,6401,,Flores,Comuna 7,1406,C1406GLH,SITIO WIFI
+-58.448645990708,-34.6235265353764,1112,Estación Puan - Linea A,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea A,AV. Rivadavia,5882,,Caballito,Comuna 6,1406,C1406GLO,SITIO WIFI
+-58.4411769431515,-34.620404288793,1108,Estación Primera Junta - Linea A,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea A,AV. Rivadavia,5301,,Caballito,Comuna 6,1424,C1424CEI,SITIO WIFI
+-58.4364317136441,-34.6182822314694,1104,Estación Acoyte - Linea A,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea A,AV. Rivadavia,4950,,Caballito,Comuna 6,1424,C1424CER,SITIO WIFI
+-58.3805714184651,-34.6042447576408,1100,Estación 9 de Julio - Línea D,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea D,"Saenz Peña, Roque",0,pellegrini,San Nicolas,Comuna 1,,,SITIO WIFI
+-58.429501022945,-34.6152069345248,1098,Estación Rio de Janeiro - Linea A,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea A,AV. Rivadavia,4502,,Caballito,Comuna 6,1424,C1424CEN,SITIO WIFI
+-58.421813360345,-34.6117721580187,1094,Estación Castro Barros - Linea A,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea A,AV. Rivadavia,3900,,Almagro,Comuna 5,1204,C1204AAQ,SITIO WIFI
+-58.4350086939463,-34.5751745030618,1090,Estación Ministro Carranza - Línea D,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea D,dorrego,0,Santa fe,Palermo,Comuna 14,,,SITIO WIFI
+-58.4151864911537,-34.6107801788425,1089,Estación Loria - Linea A,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea A,AV. Rivadavia,3401,,Almagro,Comuna 5,1203,C1203AAG,SITIO WIFI
+-58.406710384828,-34.6098149174944,1085,Estación Plaza Miserere - Linea A,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea A,AV. Rivadavia,2800,,Balvanera,Comuna 3,1034,C1034ACT,SITIO WIFI
+-58.4023988152791,-34.5944263187465,1084,Estación Pueyrredón  - Línea D,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea D,Pueyrredon,0,Santa fe,Recoleta,Comuna 2,,,SITIO WIFI
+-58.4012074748445,-34.6098297074511,1082,Estación Alberti - Linea A,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea A,AV. Rivadavia,2447,,Balvanera,Comuna 3,1034,C1034ACD,SITIO WIFI
+-58.3739629798376,-34.607801978988,1080,Estación Catedral - Línea D,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea D,"Saenz Peña, Roque",501,,San Nicolas,Comuna 1,1035,C1035AAA,SITIO WIFI
+-58.4338151087652,-34.6280168240834,1077,Estación Jose Maria Moreno - Línea E,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea E,Directorio Av.,401,,Caballito,Comuna 6,1424,C1424CIE,SITIO WIFI
+-58.4616524516702,-34.6433115390632,1076,Estación Pza. de los Virreyes - Linea E,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea E,"Peron Eva, Av.",3001,,Flores,Comuna 7,1406,C1406HNF,SITIO WIFI
+-58.4578839589404,-34.640136822936,1073,Estación Varela - Linea E,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea E,Varela Av.,901,,Flores,Comuna 7,1406,C1406EKS,SITIO WIFI
+-58.4502798363998,-34.6363899772838,1070,Estación Medalla Milagrosa - Linea E,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea E,Pumacahua,901,,Parque Chacabuco,Comuna 7,1406,C1406DCS,SITIO WIFI
+-58.4421715631366,-34.6310420393935,1067,Estación Emilio Mitre - Linea E,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea E,"Mitre, Emilio",801,,Parque Chacabuco,Comuna 7,1424,C1424AYQ,SITIO WIFI
+-58.4093881589789,-34.6246512136807,1063,Estación Gral. Urquiza - Linea E,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea E,SAN JUAN AV.,3101,,San Cristobal,Comuna 3,1233,C1233ABB,SITIO WIFI
+-58.4029375334822,-34.6238657595808,1060,Estación Jujuy - Linea E,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea E,SAN JUAN AV.,2701,,San Cristobal,Comuna 3,1232,C1232AAJ,SITIO WIFI
+-58.3970677545734,-34.6231136597281,1057,Estación Pichincha - Linea E,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea E,SAN JUAN AV.,2201,,San Cristobal,Comuna 3,1232,C1232AAE,SITIO WIFI
+-58.3915133454683,-34.6227200203349,1054,Estación Entre Rios - Linea E,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea E,ENTRE RIOS,1201,,San Cristobal,Comuna 3,1133,C1133AAA,SITIO WIFI
+-58.38153460612,-34.6179385239755,1048,Estación Independencia - Línea E,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea E,INDEPENDENCIA AV.,1101,,Monserrat,Comuna 1,1099,C1099AAL,SITIO WIFI
+-58.373686645299,-34.6092429157875,1045,Estación Bolivar - Línea E,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea E,BOLIVAR,101,,Monserrat,Comuna 1,1066,C1066AAC,SITIO WIFI
+-58.4155324203836,-34.6253649734459,1042,Estación Boedo - Línea E,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea E,SAN JUAN AV.,3501,,Boedo,Comuna 5,1233,C1233ABF,SITIO WIFI
+-58.3775835169727,-34.6128480689928,1039,Estación Belgrano - Linea E,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea E,PIEDRAS,301,,Monserrat,Comuna 1,1070,C1070AAG,SITIO WIFI
+-58.4267915188069,-34.6270106367983,1036,Estación Av. La Plata - Linea E,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea E,Directorio Av.,1,,Caballito,Comuna 6,1424,C1424CIA,SITIO WIFI
+-58.3984324971667,-34.6096416189988,1032,Estación Pasco - Linea A,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea A,AV. Rivadavia,2000,,Balvanera,Comuna 3,1033,C1033AAW,SITIO WIFI
+-58.3926679003585,-34.6092251076317,1031,Estación Congreso - Linea A,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea A,AV. Rivadavia,1900,,Balvanera,Comuna 3,1033,C1033AAV,SITIO WIFI
+-58.3867752001672,-34.6094083759755,1028,Estación Saenz Peña - Linea A,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea A,De Mayo Av.,1400,,Monserrat,Comuna 1,1085,C1085ABQ,SITIO WIFI
+-58.3822333859121,-34.6090960995112,1024,Estación Lima - Linea A,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea A,De Mayo Av.,1100,,Monserrat,Comuna 1,1085,C1085ABN,SITIO WIFI
+-58.3790890266416,-34.6088844526952,1020,Estación Piedra - Linea A,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea A,De Mayo Av.,900,,Monserrat,Comuna 1,1084,C1084AAQ,SITIO WIFI
+-58.3742678206806,-34.6085569407996,1016,Estación Peru - Linea A,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea A,De Mayo Av.,501,,Monserrat,Comuna 1,1084,C1084AAA,SITIO WIFI
+-58.3709670027952,-34.6088098075856,1012,Estación Plaza de Mayo - Linea A,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea A,hipolito Yrigoyen,300,,,,1086,C1086AAB,SITIO WIFI
+-58.3814350330717,-34.6276185189831,1008,Estación Constitución - Linea C,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea C,Brasil,1000,,Constitucion,Comuna 1,1154,C1154AAP,SITIO WIFI
+-58.3799227634165,-34.6219124738269,1001,Estación San Juan - Linea C,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea C,San Juan,1000,,Constitucion,Comuna 1,1147,C1147AAU,SITIO WIFI
+-58.3801739310693,-34.6181244270587,996,Estación Independencia - Linea C,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea C,estados unidos,900,,Constitucion,Comuna 1,1101,C1101AAR,SITIO WIFI
+-58.3804455382853,-34.612616493454,992,Estación Moreno - Linea C,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea C,Bernardo de irigoyen,300,,Monserrat,Comuna 1,1072,C1072AAF,SITIO WIFI
+-58.380611415153,-34.6089816818557,988,Estación Av. De Mayo - Linea C,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea C,Carlos Pellegrini,100,,San Nicolas,Comuna 1,1009,C1009ABB,SITIO WIFI
+-58.3795276203496,-34.6048470241063,985,Estación Diagonal Norte  - Linea C,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea C,Sarmiento,900,,San Nicolas,Comuna 1,1041,C1041AAR,SITIO WIFI
+-58.3781648558478,-34.6017683380729,982,Estación Lavalle - Linea C,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea C,ESMERALDA,600,,San Nicolas,Comuna 1,1007,C1007ABD,SITIO WIFI
+-58.4742392979882,-34.5812488628147,976,Estacion De Los Incas - Línea B,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea B,DE LOS INCAS AV.,4401,,Villa Ortuzar,Comuna 15,1427,C1427DNJ,SITIO WIFI
+-58.4662290149137,-34.584090367485,975,Estación Tronador - Línea B,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea B,TRONADOR,751,,Villa Ortuzar,Comuna 15,1427,C1427CRO,SITIO WIFI
+-58.4550281941678,-34.5871978274454,973,Estación Federico Lacroze - Línea B,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea B,CORRIENTES AV.,0,OLLEROS,Chacarita,Comuna 15,,,SITIO WIFI
+-58.4475761619495,-34.5917141807772,971,Estación Dorrego - Línea B,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea B,CORRIENTES AV.,6201,,Chacarita,Comuna 15,1427,C1427BPA,SITIO WIFI
+-58.4312762718363,-34.6021592973156,968,Estación Angel Gallardo - Linea B,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea B,CORRIENTES AV.,4651,,Almagro,Comuna 5,1195,C1195AAF,SITIO WIFI
+-58.3778210614243,-34.5950566938277,967,Estación San Martin - Linea C,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea C,Crucero Gral Belgrano,1201,,Retiro,Comuna 1,1006,C1006ABA,SITIO WIFI
+-58.4117611137201,-34.6040792544401,963,Estación Carlos Gardel - Línea B,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea B,CORRIENTES AV.,3201,,Balvanera,Comuna 3,1193,C1193AAE,SITIO WIFI
+-58.3740218464687,-34.5911931089645,960,Estación Retiro - Linea C,Subte,Segunda etapa HRL,Julio-2017,Disponible,Linea C,Crucero Gral Belgrano,1201,,Retiro,Comuna 1,1006,C1006ABA,SITIO WIFI
+-58.3750732484465,-34.6032963233165,953,Estación Florida - Linea B,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea B,FLORIDA,401,,San Nicolas,Comuna 1,1005,C1005AAI,SITIO WIFI
+-58.3699269521742,-34.6029883248414,952,Estación Alem - Linea B,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea B,CORRIENTES AV.,100,,San Nicolas,Comuna 1,1043,C1043AAN,SITIO WIFI
+-58.3994739120811,-34.6046418100931,950,Estación Pasteur - Linea B,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea B,PASTEUR Y CORRIENTES AV.,0,,Balvanera,Comuna 3,,,SITIO WIFI
+-58.3923092926259,-34.604420862181,946,Estación Callao - Línea B,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea B,CORRIENTES AV. y CALLAO AV.,0,,San Nicolas,Comuna 1,,,SITIO WIFI
+-58.380716223312,-34.6036354298611,942,Estacion Carlos Pellegrini - Linea B,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea B,Corrientes Av.,1000,,San Nicolas,Comuna 1,1043,C1043AAW,SITIO WIFI
+-58.3837293714329,-34.5822253943391,935,Plaza Ledesma,Parques y Plazas,Segunda etapa HRL,Abril-17,Disponible,Barrio Social,"GENDARMERIA NACIONAL AV. y WALSH, RODOLFO",0,JURAMENTO AV.,Retiro,Comuna 1,,,SITIO WIFI
+-58.4910030479388,-34.6762247804315,934,Escenario Piedra Buena,Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Barrio Social,Av. Piedra Buena,3660,,Villa Lugano,Comuna 8,1439,C1439GVS,SITIO WIFI
+-58.3717151021407,-34.6043310423038,933,"Espacio Público, Sarmiento 348",Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Espacio Público,SARMIENTO,348,,San Nicolas,Comuna 1,1041,C1041AAH,SITIO WIFI
+-58.3804169508281,-34.6001648896942,931,"Espacio Público, Viamonte 950",Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Espacio Público,VIAMONTE,950,,San Nicolas,Comuna 1,1053,C1053ABT,SITIO WIFI
+-58.3774672772797,-34.6000462027665,930,"Espacio Público, Viamonte 744",Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Espacio Público,VIAMONTE,744,,San Nicolas,Comuna 1,1053,C1053ABP,SITIO WIFI
+-58.3749099978828,-34.608311852288,929,"Espacio Público, Peru 26",Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Espacio Público,PERU,26,,Monserrat,Comuna 1,1067,C1067AAB,SITIO WIFI
+-58.3762305516901,-34.5975782593986,928,"Espacio Público, Paraguay 656",Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Espacio Público,PARAGUAY,656,,Retiro,Comuna 1,1057,C1057AAH,SITIO WIFI
+-58.3785095240082,-34.5959518989643,927,"Espacio Público, Esmeralda 1048",Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Espacio Público,ESMERALDA,1048,,Retiro,Comuna 1,1007,C1007ABN,SITIO WIFI
+-58.3779328436246,-34.6066336308134,926,"Espacio Público, Esmeralda 138",Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Espacio Público,ESMERALDA,138,,San Nicolas,Comuna 1,1035,C1035ABD,SITIO WIFI
+-58.3728879784774,-34.5975950316101,925,"Espacio Público, Reconquista 875",Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Espacio Público,RECONQUISTA,875,,Retiro,Comuna 1,1003,C1003ABQ,SITIO WIFI
+-58.3712819545944,-34.6010973922664,924,"Espacio Público, 25 de mayo 574",Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Espacio Público,25 de mayo,574,,San Nicolas,Comuna 1,1002,C1002ABL,SITIO WIFI
+-58.376515412461,-34.6052985503894,923,"Espacio Público, Maipu 241",Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Espacio Público,MAIPU,241,,San Nicolas,Comuna 1,1084,C1084ABE,SITIO WIFI
+-58.3739762152377,-34.6017104845223,922,"Espacio Público, San Martín 540",Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Espacio Público,SAN MARTIN,540,,San Nicolas,Comuna 1,1004,C1004AAL,SITIO WIFI
+-58.3754510100371,-34.5979651034802,921,"Espacio Público, Florida 870",Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Espacio Público,FLORIDA,870,,Retiro,Comuna 1,1005,C1005AAR,SITIO WIFI
+-58.4199467803627,-34.5927265568355,920,"Parques y Plazas, Plaza Unidad Latinoamericana",Parques y Plazas,Segunda etapa HRL,Abril-17,Disponible,Parques y Plazas,EL SALVADOR,4037,,Palermo,Comuna 14,1175,C1175ACE,SITIO WIFI
+-58.3980963527994,-34.6113512917655,919,"Parques y Plazas, Plaza Primero de Mayo",Parques y Plazas,Segunda etapa HRL,Abril-17,Disponible,Parques y Plazas,"ALSINA, ADOLFO",2251,,Balvanera,Comuna 3,1090,C1090AAI,SITIO WIFI
+-58.5214468491499,-34.6336388419412,918,"Metrobus Juan B. Justo, Estación Vélez Sarsfield",Metrobus,Segunda etapa HRL,2015,Disponible,Juan B. Justo,Av. J. B. Justo,9249,,Versalles,Comuna 10,1408,C1408AKJ,SITIO WIFI
+-58.5127048779186,-34.598801499824,916,"Parques y Plazas, Plaza Arenales 2",Parques y Plazas,Segunda etapa HRL,Abril-17,Disponible,Parques y Plazas,Pareja,3965,,Villa Devoto,Comuna 11,1419,C1419GVG,SITIO WIFI
+-58.5123899400315,-34.6002593209071,915,"Parques y Plazas, Plaza Arenales 1",Parques y Plazas,Segunda etapa HRL,Abril-17,Disponible,Parques y Plazas,Mercedes,4004,,Villa Devoto,Comuna 11,1419,C1419BGJ,SITIO WIFI
+-58.3920650695771,-34.6295778142467,914,"Metrobus Sur Roca, Estación Entre Rios",Metrobus,Segunda etapa HRL,Abril-17,Disponible,Sur Roca,Avenida Brasil,1902,,Parque Patricios,Comuna 4,1260,C1260AAO,SITIO WIFI
+-58.4369869519461,-34.5524653783904,913,"Parques y Plazas, Plaza Parques Nacionales Argentinos",Parques y Plazas,Segunda etapa HRL,Abril-17,Disponible,Parques y Plazas,Sucre,647,,Belgrano,Comuna 13,1428,C1428DUA,SITIO WIFI
+-58.4703005092401,-34.5413943757857,912,"Parques y Plazas, Plaza Félix Lima",Parques y Plazas,Segunda etapa HRL,Abril-17,Disponible,Parques y Plazas,RAMALLO,2159,,Nuñez,Comuna 13,1429,C1429DUI,SITIO WIFI
+-58.3781097766979,-34.6018656001877,911,"Espacio Público, Esmeralda 549",Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Espacio Público,ESMERALDA,549,,San Nicolas,Comuna 1,1007,C1007ABC,SITIO WIFI
+-58.3774361747035,-34.6012057263546,910,"Espacio Público, Tucumán 744",Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Espacio Público,TUCUMAN,744,,San Nicolas,Comuna 1,1049,C1049AAP,SITIO WIFI
+-58.3723459471869,-34.6045219952732,909,"Espacio Público, Reconquista 281",Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Espacio Público,RECONQUISTA,281,,San Nicolas,Comuna 1,1003,C1003ABE,SITIO WIFI
+-58.3760231693405,-34.6022182134171,908,"Espacio Público, Lavalle 653",Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Espacio Público,LAVALLE,653,,San Nicolas,Comuna 1,1047,C1047AAM,SITIO WIFI
+-58.3754167577824,-34.5993776284311,907,"Espacio Público, Florida 746",Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Espacio Público,FLORIDA,746,,San Nicolas,Comuna 1,1005,C1005AAP,SITIO WIFI
+-58.3752536721808,-34.6038317337257,906,"Espacio Público, Florida 364",Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Espacio Público,FLORIDA,364,,San Nicolas,Comuna 1,1005,C1005AAH,SITIO WIFI
+-58.3751471636619,-34.6060150538409,905,"Espacio Público, Florida 180",Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Espacio Público,FLORIDA,180,,San Nicolas,Comuna 1,1005,C1005AAD,SITIO WIFI
+-58.4565667863053,-34.6220675517823,904,"Parques y Plazas, Plaza del Angel Gris",Parques y Plazas,Segunda etapa HRL,Abril-17,Disponible,Parques y Plazas,Donato Alvarez,312,,Flores,Comuna 7,1406,C1406BOO,SITIO WIFI
+-58.4951484805536,-34.6706681699885,903,Portal Inclusivo Villa15,Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Barrio Social,Piedra Buena Av.,3150,,Villa Lugano,Comuna 8,1439,C1439GVN,SITIO WIFI
+-58.4909398835094,-34.6748738793432,902,Capilla San Francisco,Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Espacio Público,Piedra Buena Av.,3400,,Villa Lugano,Comuna 8,1439,C1439GVP,SITIO WIFI
+-58.4935939849703,-34.6679461954721,901,Cancha Mate,Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Barrio Social,"Peron, Eva Av.",6500,,Mataderos,Comuna 9,1439,C1439BTP,SITIO WIFI
+-58.4006152582066,-34.6551832338481,900,Portal Inclusivo Barrio 2124,Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Barrio Social,Zavaleta,0,Osvaldo Cruz,Barracas,Comuna 4,,,SITIO WIFI
+-58.4018142873376,-34.6551413358855,899,Plaza Copacabana,Parques y Plazas,Segunda etapa HRL,Abril-17,Disponible,Barrio Social,Iguazu,0,Santo domingo,Nueva Pompeya,Comuna 4,,,SITIO WIFI
+-58.4016229487445,-34.6567695273052,898,Cancha M52,Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Barrio Social,"Cruz, Osvaldo",3751,,Barracas,Comuna 4,1437,C1437IFD,SITIO WIFI
+-58.3959540314479,-34.6573783182941,897,Cancha Changuitos,Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Barrio Social,Lujan,3701,,Barracas,Comuna 4,1294,,SITIO WIFI
+-58.4457558122261,-34.6443969386105,896,Plaza de la Paz,Parques y Plazas,Segunda etapa HRL,Abril-17,Disponible,Barrio Social,"Castañares Av. y Bonorino, Esteban, Cnel. Av.",0,,Flores,Comuna 7,,,SITIO WIFI
+-58.439553939741,-34.6483016854491,895,Polideportivo Rivadavia,Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Barrio Social,Riestra Av. y Charrua,0,,Flores,Comuna 7,,,SITIO WIFI
+-58.5080672628557,-34.6186110557655,894,"Parques y Plazas, Plaza Monseñor Fermín Lafitte",Parques y Plazas,Segunda etapa HRL,Abril-17,Disponible,Parques y Plazas,Arregui,4813,,Monte Castro,Comuna 10,1417,C1417GNY,SITIO WIFI
+-58.4168064097032,-34.5838660038794,893,"Parques y Plazas, Jardín Botánico Carlos Thays",Parques y Plazas,Segunda etapa HRL,Abril-17,Disponible,Parques y Plazas,Av. Santa Fe,3799,,Palermo,Comuna 14,1425,C1425BGM,SITIO WIFI
+-58.3695099295079,-34.6266597826788,892,"Parques y Plazas, Parque Lezama",Parques y Plazas,Segunda etapa HRL,Abril-17,Disponible,Parques y Plazas,Martin Garcia,300,,Boca,Comuna 4,1165,C1165ABO,SITIO WIFI
+-58.4556639947248,-34.5614729376062,891,"Parques y Plazas, Plaza Gral. Manuel Belgrano",Parques y Plazas,Segunda etapa HRL,Abril-17,Disponible,Parques y Plazas,VUELTA DE OBLIGADO,0,JURAMENTO AV.,Belgrano,Comuna 13,,,SITIO WIFI
+-58.3721798970362,-34.6084436906846,890,"Parques y Plazas, Plaza de Mayo",Parques y Plazas,Segunda etapa HRL,Abril-17,Disponible,Parques y Plazas,"YRIGOYEN, HIPOLITO AV. y DEFENSA",0,,Monserrat,Comuna 1,,,SITIO WIFI
+-58.465004731851,-34.6786416460807,889,"Metrobus Sur Fernandez de la Cruz, Estación Pola",Metrobus,Segunda etapa HRL,Abril-17,Disponible,Sur Fernandez de la Cruz,Avenida General Fernández de la Cruz,5302,,Villa Lugano,Comuna 8,1439,C1439COQ,SITIO WIFI
+-58.4727025763016,-34.6550181556125,888,Portal Inclusivo Boulevard,Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Barrio Social,San Juan Bautista De La Salle,2300,,Parque Avellaneda,Comuna 9,1407,C1407JCL,SITIO WIFI
+-58.4475500351133,-34.6487330761571,887,Portal Inclusivo Varela,Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Espacio Público,Avenida Varela,1881,,Flores,Comuna 7,1406,C1406ELK,SITIO WIFI
+-58.4524791418265,-34.664187444596,886,Piletones,Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Espacio Público,José Barros Pazos,3711,,Villa Soldati,Comuna 8,1439,C1439CIA,SITIO WIFI
+-58.4516048096453,-34.6610390781556,885,Polideportivo Piletones,Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Barrio Social,Ana María Janer,3551,,Villa Soldati,Comuna 8,1437,C1437HHW,SITIO WIFI
+-58.4419567892874,-34.6447398189336,884,Plaza de los Niños,Parques y Plazas,Segunda etapa HRL,Abril-17,Disponible,Barrio Social,Av. Perito Moreno,2284,,Flores,Comuna 7,1437,C1437BSW,SITIO WIFI
+-58.4330810725934,-34.6505134617905,883,Portal Inclusivo Perito Moreno,Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Barrio Social,Av Perito Moreno y Erezcano,0,,Flores,Comuna 7,,,SITIO WIFI
+-58.3889870404225,-34.5778709547778,882,Parroquia Cristo Obrero,Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Espacio Público,,0,,,,,,SITIO WIFI
+-58.3857936237705,-34.5811062158408,881,Plaza de los Gordos,Parques y Plazas,Segunda etapa HRL,Abril-17,Disponible,Barrio Social,GENDARMERIA NACIONAL AV,0,"WALSH, RODOLFO",Retiro,Comuna 1,,,SITIO WIFI
+-58.3782636627543,-34.58521363167,880,Cancha de los Lapices,Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Barrio Social,GENDARMERIA NACIONAL AV,0,"WALSH, RODOLFO",Retiro,Comuna 1,,,SITIO WIFI
+-58.473719259276,-34.6549315302244,879,Cancha San Juan Bautista,Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Barrio Social,Av. San Juan Bautista de la Salle,2300,,Parque Avellaneda,Comuna 9,1407,C1407JCL,SITIO WIFI
+-58.4681853160553,-34.6736087863691,878,Cancha Los Huerfanos,Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Barrio Social,Miralla,3901,,Villa Lugano,Comuna 8,1439,C1439EQE,SITIO WIFI
+-58.4604470897898,-34.6720558570794,877,Portal Inclusivo Manzana 30,Parques y Plazas,Segunda etapa HRL,Abril-17,Disponible,Barrio Social,Av Escalada,3800,,Villa Soldati,Comuna 8,1439,C1439FID,SITIO WIFI
+-58.4566955503056,-34.6595317332222,876,Plaza Lacarra y Somellera,Parques y Plazas,Segunda etapa HRL,Abril-17,Disponible,Barrio Social,Lacarra y Somellera,0,,Villa Soldati,Comuna 8,,,SITIO WIFI
+-58.4546894652422,-34.6559475402155,875,Portal Inclusivo Carrillo,Espacio Público,Segunda etapa HRL,Abril-17,Disponible,Barrio Social,Mariano Acosta y Pasaje I,0,,Villa Soldati,Comuna 8,,,SITIO WIFI
+-58.447319580903,-34.6608216129424,874,Plaza Fatima,Parques y Plazas,Segunda etapa HRL,Abril-17,Disponible,Barrio Social,Pergamino y Chilavert,0,,Villa Soldati,Comuna 8,,,SITIO WIFI
+-58.4427655859776,-34.6646367234479,873,Plaza NIDO Soldati,Parques y Plazas,Segunda etapa HRL,Abril-17,Disponible,Barrio Social,Corrales y Mariano Acosta,0,,Villa Soldati,Comuna 8,,,SITIO WIFI
+-58.4706437710097,-34.6556670516433,872,Plaza La Salle,Parques y Plazas,Segunda etapa HRL,Abril-17,Disponible,Barrio Social,Av de La Salle y Dellepiane,0,,Parque Avellaneda,Comuna 9,,,SITIO WIFI
+-58.5079225060594,-34.634223707993,870,"Parques y Plazas, Parque Derechos del Hombre",Parques y Plazas,Segunda etapa HRL,Enero-1,Disponible,Parques y Plazas,Margariños cervantes,5500,,Villa Luro,Comuna 10,1407,C1407MLR,SITIO WIFI
+-58.4675159067106,-34.6105107208822,866,"Parques y Plazas, Plaza Dr. Roque Saenz Peña",Parques y Plazas,Segunda etapa HRL,Diciembre-1,Disponible,Parques y Plazas,andres lamas,1641,,Villa Gral. Mitre,Comuna 11,1416,C1416BIK,SITIO WIFI
+-58.449048797335,-34.6643332856999,865,"Metrobus Sur Fernandez de la Cruz, Estación Laguna",Metrobus,Segunda etapa HRL,Octubre-31,Disponible,Sur Fernandez de la Cruz,FERNANDEZ DE LA CRUZ,3550,,Villa Soldati,Comuna 8,1437,C1437HAO,SITIO WIFI
+-58.4663787299824,-34.6946192068142,863,"Metrobus Sur Roca, Estación Piedra Buena",Metrobus,Segunda etapa HRL,Diciembre-1,Disponible,Sur Roca,Av. Cnel Roca,6537,,Villa Riachuelo,Comuna 8,1439,C1439DWC,SITIO WIFI
+-58.4161079790344,-34.5725761921847,862,"Parques y Plazas, Rosedal",Parques y Plazas,Segunda etapa HRL,Diciembre-1,Disponible,Parques y Plazas,Libertador,3752,,Palermo,Comuna 14,1425,C1425ABX,SITIO WIFI
+-58.4127293678925,-34.6222987072532,861,"Parques y Plazas, Plaza Mariano Boedo",Parques y Plazas,Segunda etapa HRL,Diciembre-1,Disponible,Parques y Plazas,Carlos Calvo,3347,,Boedo,Comuna 5,1230,C1230ABE,SITIO WIFI
+-58.4545834987727,-34.6235801520301,856,"Espacio Público, Patio de los Lecheros 1",Espacio Público,Segunda etapa HRL,Diciembre-1,Disponible,Espacio Público,Av. Donato Alvarez y Bacacay,0,,Flores,Comuna 7,,,SITIO WIFI
+-58.4329227958166,-34.6176728727051,855,"Parques y Plazas, Parque Rivadavia",Parques y Plazas,Segunda etapa HRL,Diciembre-1,Disponible,Parques y Plazas,Rivadavia,4800,,Caballito,Comuna 6,1424,C1424CEP,SITIO WIFI
+-58.4771047729227,-34.5696510692025,854,"Parques y Plazas, Plaza Paseo de la Paz",Parques y Plazas,Segunda etapa HRL,Diciembre-1,Disponible,Parques y Plazas,Monroe,4200,,Villa Urquiza,Comuna 12,1430,C1430BLS,SITIO WIFI
+-58.5222113648064,-34.6124967953478,853,"Parques y Plazas, Plaza El Maestro",Parques y Plazas,Segunda etapa HRL,Diciembre-1,Disponible,Parques y Plazas,Av. Francisco beiro,5100,,Villa Devoto,Comuna 11,1419,C1419HZZ,SITIO WIFI
+-58.4821591491689,-34.6357213586516,852,"Parques y Plazas, Plaza Cnel. Ramón L. Falcón",Parques y Plazas,Segunda etapa HRL,Diciembre-1,Disponible,Parques y Plazas,"FALCON, RAMON L.",3900,,Floresta,Comuna 10,1407,C1407GSL,SITIO WIFI
+-58.4894086324604,-34.5719170340178,851,"Parques y Plazas, Plaza Echeverría",Parques y Plazas,Segunda etapa HRL,Diciembre-1,Disponible,Parques y Plazas,cullen,5000,,Villa Urquiza,Comuna 12,1431,C1431BXD,SITIO WIFI
+-58.5278667116365,-34.6202032098856,850,"Parques y Plazas, Plaza Villa Real",Parques y Plazas,Segunda etapa HRL,Diciembre-1,Disponible,Parques y Plazas,irigoyen,2300,,Villa Real,Comuna 10,1408,C1408CPV,SITIO WIFI
+-58.5180714512038,-34.6108340378158,849,"Parques y Plazas, Plaza Tte. Gral. Pablo Ricchieri",Parques y Plazas,Segunda etapa HRL,Diciembre-1,Disponible,Parques y Plazas,quevedo,3400,,Villa Devoto,Comuna 11,1417,C1417BVD,SITIO WIFI
+-58.5093298300042,-34.6392451322721,848,"Parques y Plazas, Plaza Ejército de los Andes",Parques y Plazas,Segunda etapa HRL,Diciembre-1,Disponible,Parques y Plazas,Rivadavia,10300,,Villa Luro,Comuna 10,1408,C1408AAP,SITIO WIFI
+-58.4931035247883,-34.6053299736333,847,"Parques y Plazas, Plaza Aristóbulo del Valle 1",Parques y Plazas,Segunda etapa HRL,Diciembre-1,Disponible,Parques y Plazas,baigorria,3200,,Villa Del Parque,Comuna 11,1417,C1417FRJ,SITIO WIFI
+-58.4750490254175,-34.5737506020877,846,"Parques y Plazas, Plaza Gral. J. M. Zapiola",Parques y Plazas,Segunda etapa HRL,Diciembre-1,Disponible,Parques y Plazas,echeverria,4300,,Villa Urquiza,Comuna 12,1430,C1430BTT,SITIO WIFI
+-58.4612445434234,-34.689968219805,845,"Metrobus Sur Roca, Estación Soldado de la Frontera",Metrobus,Segunda etapa HRL,Diciembre-1,Disponible,Sur Roca,Av. Coronel Roca,5762,,Villa Riachuelo,Comuna 8,1439,C1439DVU,SITIO WIFI
+-58.423172983957,-34.6431127883232,844,"Metrobus Sur Fernandez de la Cruz, Estación Av. La Plata",Metrobus,Segunda etapa HRL,Diciembre-1,Disponible,Sur Fernandez de la Cruz,av. cruz,950,,Nueva Pompeya,Comuna 4,1407,C1407JJR,SITIO WIFI
+-58.4152857507823,-34.6369464882832,843,"Metrobus Sur Fernandez de la Cruz, Estación Boedo",Metrobus,Segunda etapa HRL,Diciembre-1,Disponible,Sur Fernandez de la Cruz,Chiclana,3615,,Boedo,Comuna 5,1262,C1262AAA,SITIO WIFI
+-58.5011260968973,-34.5907884244905,842,"Parques y Plazas, Plaza Martín Rodríguez",Parques y Plazas,Segunda etapa HRL,Diciembre-1,Disponible,Parques y Plazas,habana,3052,,Villa Pueyrredon,Comuna 12,1419,C1419GPT,SITIO WIFI
+-58.4533397490419,-34.569737005645,841,"Parques y Plazas, Plaza Juan José Paso",Parques y Plazas,Segunda etapa HRL,Diciembre-1,Disponible,Parques y Plazas,moldes,1400,,Colegiales,Comuna 13,1426,C1426ALP,SITIO WIFI
+-58.4773533442964,-34.5440965802487,840,"Parques y Plazas, Plaza Benjamín Vicuña Mackenna",Parques y Plazas,Segunda etapa HRL,Diciembre-1,Disponible,Parques y Plazas,Cramer,4449,,Saavedra,Comuna 12,1429,C1429AKG,SITIO WIFI
+-58.4472283795706,-34.5688613693902,839,"Metrobus Norte, Estación Aguilar",Metrobus,Segunda etapa HRL,Diciembre-1,Disponible,Norte,Av. Cabildo,1100,,Colegiales,Comuna 13,1426,C1426AAX,SITIO WIFI
+-58.440256735853,-34.5723436926908,838,"Metrobus Norte, Estación Matienzo",Metrobus,Segunda etapa HRL,Diciembre-1,Disponible,Norte,Av. Cabildo,300,,Palermo,Comuna 14,1426,C1426AAP,SITIO WIFI
+-58.4412022798191,-34.5718130772258,837,"Metrobus Norte, Estación Jorge Newbery",Metrobus,Segunda etapa HRL,Diciembre-1,Disponible,Norte,Av. Cabildo,390,,Palermo,Comuna 14,1426,C1426AAQ,SITIO WIFI
+-58.526113879199,-34.638268043453,836,"Metrobus Juan B. Justo, Estación Liniers",Metrobus,Segunda etapa HRL,2015,Disponible,Juan B. Justo,Francisco de viedma,6850,,Liniers,Comuna 9,1408,C1408AFD,SITIO WIFI
+-58.442239728487,-34.5713263210616,835,"Metrobus Norte, Estación Maure",Metrobus,Segunda etapa HRL,Diciembre-1,Disponible,Norte,Av. Cabildo,450,,Colegiales,Comuna 13,1426,C1426AAR,SITIO WIFI
+-58.5139111082032,-34.6334569239729,834,"Metrobus Juan B. Justo, Estación Polideportivo Vélez Sarsfield",Metrobus,Segunda etapa HRL,2015,Disponible,Juan B. Justo,Av. Juan B. Justo,0,Juan Agustin García,Versalles,Comuna 10,,,SITIO WIFI
+-58.4430431552329,-34.5709278181187,833,"Metrobus Norte, Estación Gorostiaga",Metrobus,Segunda etapa HRL,Diciembre-1,Disponible,Norte,Av. Cabildo,550,,Colegiales,Comuna 13,1426,C1426AAS,SITIO WIFI
+-58.4445024574361,-34.5701082825906,832,"Metrobus Norte, Estación Olleros",Metrobus,Segunda etapa HRL,Diciembre-1,Disponible,Norte,Av. Cabildo,800,,Colegiales,Comuna 13,1426,C1426AAU,SITIO WIFI
+-58.4463783115367,-34.5691810136157,831,"Metrobus Norte, Estación Teodoro Garcia",Metrobus,Segunda etapa HRL,Diciembre-1,Disponible,Norte,Av. Cabildo,0,palpa,Colegiales,Comuna 13,,,SITIO WIFI
+-58.5067279413041,-34.6343401243603,830,"Metrobus Juan B. Justo, Estación Cortina",Metrobus,Segunda etapa HRL,2015,Disponible,Juan B. Justo,Av. Juan B. Justo,0,Cortina,Villa Luro,Comuna 10,,,SITIO WIFI
+-58.5010440879522,-34.632208354416,829,"Metrobus Juan B. Justo, Estación Av. Lope de Vega",Metrobus,Segunda etapa HRL,2015,Disponible,Juan B. Justo,Av. Juan B. Justo,0,Av. Lope de Vega,Villa Luro,Comuna 10,,,SITIO WIFI
+-58.4948524225799,-34.6295344574075,828,"Metrobus Juan B. Justo, Estación Av. Carrasco",Metrobus,Segunda etapa HRL,2015,Disponible,Juan B. Justo,Av. Juan B. Justo,0,Av. Carrasco,Velez Sarsfield,Comuna 10,,,SITIO WIFI
+-58.4910946618592,-34.6270101756477,827,"Metrobus Juan B. Justo, Estación Av. Segurola",Metrobus,Segunda etapa HRL,2015,Disponible,Juan B. Justo,Av. Juan B. Justo,0,Av. Segurola,Velez Sarsfield,Comuna 10,,,SITIO WIFI
+-58.4859233245498,-34.6251429839953,826,"Metrobus Juan B. Justo, Estación Chivilcoy",Metrobus,Segunda etapa HRL,2015,Disponible,Juan B. Justo,Av. Juan B. Justo,0,Chivilcoy,Floresta,Comuna 10,,,SITIO WIFI
+-58.4808171285285,-34.6220407598444,825,"Metrobus Juan B. Justo, Estación Concordia",Metrobus,Segunda etapa HRL,2015,Disponible,Juan B. Justo,Av. Juan B. Justo,0,Concordia,Villa Santa Rita,Comuna 11,,,SITIO WIFI
+-58.446770159775,-34.5689875341135,824,"Metrobus Norte, Estación Palpa",Metrobus,Segunda etapa HRL,Diciembre-1,Disponible,Norte,Av. Cabildo,1050,,Colegiales,Comuna 13,1426,C1426AAX,SITIO WIFI
+-58.4760960455675,-34.618101861621,823,"Metrobus Juan B. Justo, Estación Av. Nazca",Metrobus,Segunda etapa HRL,2015,Disponible,Juan B. Justo,Av. Juan B. Justo,0,Av. Nazca,Villa Santa Rita,Comuna 11,,,SITIO WIFI
+-58.44864520973,-34.5681157528464,822,"Metrobus Norte, Estación Céspedes",Metrobus,Segunda etapa HRL,Diciembre-1,Disponible,Norte,Av. Cabildo,1250,,Colegiales,Comuna 13,1426,C1426AAZ,SITIO WIFI
+-58.4722527834405,-34.6138238785237,821,"Metrobus Juan B. Justo, Estación Artigas",Metrobus,Segunda etapa HRL,2015,Disponible,Juan B. Justo,Av. Juan B. Justo,0,Artigas,Villa Gral. Mitre,Comuna 11,,,SITIO WIFI
+-58.467848324634,-34.6113032037563,820,"Metrobus Juan B. Justo, Estación Boyaca",Metrobus,Segunda etapa HRL,2015,Disponible,Juan B. Justo,Av. Juan B. Justo,0,Boyaca,Villa Gral. Mitre,Comuna 11,,,SITIO WIFI
+-58.4627049858066,-34.6073724573593,819,"Metrobus Juan B. Justo, Estación Av. Donato Alvarez",Metrobus,Segunda etapa HRL,2015,Disponible,Juan B. Justo,Av. Juan B. Justo,0,Av. Donato Alvarez,Villa Gral. Mitre,Comuna 11,,,SITIO WIFI
+-58.4490281715771,-34.5677946028092,818,"Metrobus Norte, Estación Zabala",Metrobus,Segunda etapa HRL,Diciembre-1,Disponible,Norte,Av. Cabildo,0,Zabala,Colegiales,Comuna 13,,,SITIO WIFI
+-58.4584744779846,-34.6044913354846,817,"Metrobus Juan B. Justo, Estación Av. San Martín",Metrobus,Segunda etapa HRL,2015,Disponible,Juan B. Justo,Av. Juan B. Justo,0,Av. San Martín,Villa Crespo,Comuna 15,,,SITIO WIFI
+-58.4520531334193,-34.6001200012005,816,"Metrobus Juan B. Justo, Estación Av. Honorio Pueyrredon",Metrobus,Segunda etapa HRL,2015,Disponible,Juan B. Justo,Av. Juan B. Justo,0,Av. Honorio Pueyrredon,Villa Crespo,Comuna 15,,,SITIO WIFI
+-58.4497638164836,-34.5673874954201,815,"Metrobus Norte, Estación Virrey Loreto",Metrobus,Segunda etapa HRL,Diciembre-1,Disponible,Norte,cabildo,1300,,Colegiales,Comuna 13,1426,C1426AAZ,SITIO WIFI
+-58.4517034037476,-34.5664708446846,814,"Metrobus Norte, Estación Virrey Arredondo",Metrobus,Segunda etapa HRL,Diciembre-1,Disponible,Norte,cabildo,1500,,Colegiales,Comuna 13,1426,C1426ABO,SITIO WIFI
+-58.4476909156459,-34.5970912407718,813,"Metrobus Juan B. Justo, Estación Murillo",Metrobus,Segunda etapa HRL,2015,Disponible,Juan B. Justo,Av. Juan B. Justo,0,Murillo,Villa Crespo,Comuna 15,,,SITIO WIFI
+-58.4528479723494,-34.5658788154397,812,"Metrobus Norte, Estación Virrey del Pino",Metrobus,Segunda etapa HRL,Diciembre-1,Disponible,Norte,cabildo,1600,,Colegiales,Comuna 13,1426,C1426ABP,SITIO WIFI
+-58.4547024389101,-34.5644376778444,811,"Metrobus Norte, Estación La Pampa",Metrobus,Segunda etapa HRL,Diciembre-1,Disponible,Norte,cabildo,1800,,Belgrano,Comuna 13,1426,C1426ABR,SITIO WIFI
+-58.4407040171449,-34.5922664115843,810,"Metrobus Juan B. Justo, Estación Aguirre",Metrobus,Segunda etapa HRL,2015,Disponible,Juan B. Justo,Av. Juan B. Justo,2201,,Villa Crespo,Comuna 15,1414,C1414CWL,SITIO WIFI
+-58.4553926877815,-34.5634328923239,809,"Metrobus Norte, Estación Sucre",Metrobus,Segunda etapa HRL,Diciembre-1,Disponible,Norte,cabildo,1900,,Belgrano,Comuna 13,1428,C1428AAN,SITIO WIFI
+-58.4347519703331,-34.585371950978,808,"Metrobus Juan B. Justo, Estación Honduras",Metrobus,Segunda etapa HRL,2015,Disponible,Juan B. Justo,Av. Juan B. Justo,1501,,Palermo,Comuna 14,1414,C1414CWE,SITIO WIFI
+-58.4570019754503,-34.5615801749636,807,"Metrobus Norte, Estación Juramento",Metrobus,Segunda etapa HRL,Diciembre-1,Disponible,Norte,cabildo,2100,,Belgrano,Comuna 13,1428,C1428AAP,SITIO WIFI
+-58.4579413085158,-34.5606562302065,806,"Metrobus Norte, Estación Mendoza",Metrobus,Segunda etapa HRL,Diciembre-1,Disponible,Norte,cabildo,2100,,Belgrano,Comuna 13,1428,C1428AAP,SITIO WIFI
+-58.4300283642842,-34.5818663181462,805,"Metrobus Juan B. Justo, Estación Guatemala",Metrobus,Segunda etapa HRL,2015,Disponible,Juan B. Justo,Av. Juan B. Justo,1000,,Palermo,Comuna 14,1425,C1425FSQ,SITIO WIFI
+-58.4586264520722,-34.5596770916589,804,"Metrobus Norte, Estación Olazabal",Metrobus,Segunda etapa HRL,Diciembre-1,Disponible,Norte,cabildo,2200,,Belgrano,Comuna 13,1428,C1428AAQ,SITIO WIFI
+-58.4265278412909,-34.5775886031066,803,"Metrobus Juan B. Justo, Estación Pacífico",Metrobus,Segunda etapa HRL,2015,Disponible,Juan B. Justo,"Bullrich, Int. Av.",600,,Palermo,Comuna 14,1425,C1425FTS,SITIO WIFI
+-58.4597790628436,-34.5585422586109,802,"Metrobus Norte, Estación Blanco Encalada",Metrobus,Segunda etapa HRL,Diciembre-1,Disponible,Norte,cabildo,2400,,Belgrano,Comuna 13,1428,C1428AAS,SITIO WIFI
+-58.4602896095604,-34.5579693044523,801,"Metrobus Norte, Estación Monroe",Metrobus,Segunda etapa HRL,Diciembre-1,Disponible,Norte,cabildo,2500,,Belgrano,Comuna 13,1428,C1428AAT,SITIO WIFI
+-58.4295512754752,-34.6599169549597,800,"Metrobus Sur Roca, Estación Berg",Metrobus,Segunda etapa HRL,Octubre-31,Disponible,Sur Roca,Francisco Rabanal,2331,,Villa Soldati,Comuna 8,1437,C1437FPK,SITIO WIFI
+-58.4330133873029,-34.6615026169915,799,"Metrobus Sur Roca, Estación Varela",Metrobus,Segunda etapa HRL,Octubre-31,Disponible,Sur Roca,Francisco Rabanal,2657,,Villa Soldati,Comuna 8,1437,C1437FQA,SITIO WIFI
+-58.4424395361609,-34.6593116247047,798,"Metrobus Sur Fernandez de la Cruz, Estación La Fuente",Metrobus,Segunda etapa HRL,Octubre-31,Disponible,Sur Fernandez de la Cruz,FERNANDEZ DE LA CRUZ,2974,,Villa Soldati,Comuna 8,1437,C1437GZV,SITIO WIFI
+-58.3960629914119,-34.6279558325374,797,"Metrobus Sur Fernandez de la Cruz, Estación Pichincha",Metrobus,Segunda etapa HRL,Octubre-31,Disponible,Sur Fernandez de la Cruz,Av. Juan de Garay,2275,,San Cristobal,Comuna 3,1256,C1256AAE,SITIO WIFI
+-58.4193260932927,-34.6400500504431,796,"Metrobus Sur Fernandez de la Cruz, Estación Caseros",Metrobus,Segunda etapa HRL,Octubre-31,Disponible,Sur Fernandez de la Cruz,Av.Chiclana,3929,,Nueva Pompeya,Comuna 4,1437,C1437JMA,SITIO WIFI
+-58.4279327433962,-34.6475291545269,795,"Metrobus Sur Fernandez de la Cruz, Estación Del Barco Centenera",Metrobus,Segunda etapa HRL,Octubre-31,Disponible,Sur Fernandez de la Cruz,FERNANDEZ DE LA CRUZ,1469,,Nueva Pompeya,Comuna 4,1437,C1437GYG,SITIO WIFI
+-58.4377996811463,-34.6556557629657,794,"Metrobus Sur Fernandez de la Cruz, Estación Varela",Metrobus,Segunda etapa HRL,Octubre-31,Disponible,Sur Fernandez de la Cruz,FERNANDEZ DE LA CRUZ,2502,,Villa Soldati,Comuna 8,1437,C1437GZR,SITIO WIFI
+-58.4066118718233,-34.6338774093126,793,"Metrobus Sur Roca, Estación La Rioja",Metrobus,Segunda etapa HRL,Octubre-31,Disponible,Sur Roca,Brasil,3019,,Parque Patricios,Comuna 4,1260,C1260AAM,SITIO WIFI
+-58.3954031198439,-34.6302025072799,789,"Metrobus Sur Roca, Estación Garrahan",Metrobus,Segunda etapa HRL,Octubre-16,Disponible,Sur Roca,Brasil,0,Pichincha,Parque Patricios,Comuna 4,,,SITIO WIFI
+-58.4072377870742,-34.6311787402839,787,"Metrobus Sur Fernandez de la Cruz, Estación La Rioja",Metrobus,Segunda etapa HRL,Octubre-16,Disponible,Sur Fernandez de la Cruz,chiclana,3032,La Rioja,Parque Patricios,Comuna 4,1259,C1259AAP,SITIO WIFI
+-58.4101251797948,-34.6080500788812,780,Paseo Comercial Once,Espacio Público,Segunda etapa HRL,Septiembre-16,Disponible,Inclusión,"Peron, Juan Domingo, Tte. General",3002,,Balvanera,Comuna 3,1198,C1198AAF,SITIO WIFI
+-58.471552863463,-34.5490006329618,779,"Parques y Plazas, Plaza Ildefonso F. Cavagna Martínez 1",Parques y Plazas,Segunda etapa HRL,Septiembre-16,Disponible,Parques y Plazas,"GARCIA DEL RIO, AV",0,Amenabar,Saavedra,Comuna 12,,,SITIO WIFI
+-58.4756270415858,-34.5387596003057,778,"Metrobus Norte, Estación Gral Paz",Metrobus,Segunda etapa HRL,Septiembre-16,Disponible,Norte,Cabildo,0,Gral Paz,Saavedra,Comuna 12,,,SITIO WIFI
+-58.4693288167508,-34.5475997991353,777,"Metrobus Norte, Estación Manzanares",Metrobus,Segunda etapa HRL,Septiembre-16,Disponible,Norte,Cabildo,0,Manzanares,Saavedra,Comuna 12,,,SITIO WIFI
+-58.4741272894864,-34.5411475184171,776,"Metrobus Norte, Estación Pico",Metrobus,Segunda etapa HRL,Septiembre-16,Disponible,Norte,Cabildo,0,Pico,Nuñez,Comuna 13,,,SITIO WIFI
+-58.4728656590481,-34.5426700972018,775,"Metrobus Norte, Estación Arias",Metrobus,Segunda etapa HRL,Octubre-16,Disponible,Norte,Cabildo,0,Arias,Nuñez,Comuna 13,,,SITIO WIFI
+-58.4723041219133,-34.543416135974,774,"Metrobus Norte, Estación Ramallo",Metrobus,Segunda etapa HRL,Septiembre-16,Disponible,Norte,Cabildo,0,Ramallo,Nuñez,Comuna 13,,,SITIO WIFI
+-58.4718760845726,-34.5441998258754,773,"Metrobus Norte, Estación Correa",Metrobus,Segunda etapa HRL,Octubre-16,Disponible,Norte,Cabildo,0,Correa,Saavedra,Comuna 12,,,SITIO WIFI
+-58.4713366225486,-34.544937111459,772,"Metrobus Norte, Estación Ruiz Huidobro",Metrobus,Segunda etapa HRL,Septiembre-16,Disponible,Norte,Cabildo,0,Ruiz Huidobro,Saavedra,Comuna 12,,,SITIO WIFI
+-58.4706988395169,-34.5456107079002,771,"Metrobus Norte, Estación Besares",Metrobus,Segunda etapa HRL,Septiembre-16,Disponible,Norte,Cabildo,0,Besares,Saavedra,Comuna 12,,,SITIO WIFI
+-58.4701574678601,-34.5463409597302,770,"Metrobus Norte, Estación Vilela",Metrobus,Segunda etapa HRL,Octubre-16,Disponible,Norte,Cabildo,0,Vilela,Saavedra,Comuna 12,,,SITIO WIFI
+-58.4697347166123,-34.5470417642929,769,"Metrobus Norte, Estación Paroissien",Metrobus,Segunda etapa HRL,Septiembre-16,Disponible,Norte,Cabildo,0,Paroissien,Saavedra,Comuna 12,,,SITIO WIFI
+-58.4683330780308,-34.548655123925,768,"Metrobus Norte, Estación Crisólogo Larralde",Metrobus,Segunda etapa HRL,Septiembre-16,Disponible,Norte,Cabildo,0,Larralde,Nuñez,Comuna 13,,,SITIO WIFI
+-58.4678167027947,-34.5493114026622,767,"Metrobus Norte, Estación Nuñez",Metrobus,Segunda etapa HRL,Septiembre-16,Disponible,Norte,Cabildo,0,Larralde,Nuñez,Comuna 13,,,SITIO WIFI
+-58.4670162945276,-34.5505184193538,766,"Metrobus Norte, Estación Juana Azurduy",Metrobus,Segunda etapa HRL,Octubre-16,Disponible,Norte,Cabildo,0,Azurduy Juana,Nuñez,Comuna 13,,,SITIO WIFI
+-58.4664176019391,-34.5512938726482,765,"Metrobus Norte, Estación Manuela Pedraza",Metrobus,Segunda etapa HRL,Septiembre-16,Disponible,Norte,Cabildo,3400,,Nuñez,Comuna 13,1429,C1429AAR,SITIO WIFI
+-58.4659565730017,-34.5516181217735,764,"Metrobus Norte, Estación Campos Salles",Metrobus,Segunda etapa HRL,Septiembre-16,Disponible,Norte,Cabildo,3300,,Nuñez,Comuna 13,1429,C1429AAQ,SITIO WIFI
+-58.4647658256463,-34.5530940057382,763,"Metrobus Norte, Estación Iberá",Metrobus,Segunda etapa HRL,Septiembre-16,Disponible,Norte,Cabildo,0,Iberá,Nuñez,Comuna 13,,,SITIO WIFI
+-58.4640892864814,-34.554011184228,762,"Metrobus Norte, Estación Quesada",Metrobus,Segunda etapa HRL,Septiembre-16,Disponible,Norte,Cabildo,0,Quesada,Nuñez,Comuna 13,,,SITIO WIFI
+-58.463088723247,-34.5550133219248,761,"Metrobus Norte, Estación Congreso",Metrobus,Segunda etapa HRL,Septiembre-16,Disponible,Norte,Cabildo,0,Congreso,Belgrano,Comuna 13,,,SITIO WIFI
+-58.4620814462484,-34.5558893609705,760,"Metrobus Norte, Estación Ugarte",Metrobus,Segunda etapa HRL,Septiembre-16,Disponible,Norte,Cabildo,0,Ugarte,Belgrano,Comuna 13,,,SITIO WIFI
+-58.4611585387294,-34.55684835419,759,"Metrobus Norte, Estación Roosevelt",Metrobus,Segunda etapa HRL,Septiembre-16,Disponible,Norte,Cabildo,0,Roosevelt,Belgrano,Comuna 13,,,SITIO WIFI
+-58.4735911015055,-34.5418875747147,758,"Metrobus Norte, Estación Deheza",Metrobus,Segunda etapa HRL,Septiembre-16,Disponible,Norte,Cabildo,0,Arias,Nuñez,Comuna 13,,,SITIO WIFI
+-58.4651092906593,-34.6028088180228,752,"Metrobus San Martín, Estación Av. Donato Alvarez 1",Metrobus,Primera etapa HRL,Agosto-16,Disponible,San Martín,San Martín Av.,0,Alvarez Donato,Paternal,Comuna 15,,,SITIO WIFI
+-58.4951273177937,-34.5969100989045,751,"Metrobus San Martín, Estación Roffo",Metrobus,Primera etapa HRL,Septiembre-16,Disponible,San Martín,San Martín Av.,5400,,Villa Del Parque,Comuna 11,1417,C1417DTN,SITIO WIFI
+-58.3794688862687,-34.5846232300563,750,Barrio 31-Galpón,Espacio Público,Primera etapa HRL,Julio-16,Disponible,Barrio Social,Walsh,0,Perette,Retiro,Comuna 1,,,SITIO WIFI
+-58.4162346420822,-34.5894166206452,749,"Parques y Plazas, Plaza Güemes",Parques y Plazas,Primera etapa HRL,Septiembre-16,Disponible,Parques y Plazas,Medrano,1901,,Palermo,Comuna 14,1425,C1425GDG,SITIO WIFI
+-58.4592985709343,-34.6042711375395,748,"Metrobus San Martín, Estación Pappo Napolitano",Metrobus,Primera etapa HRL,Agosto-16,Disponible,San Martín,San Martín Av.,2250,,Villa Gral. Mitre,Comuna 11,1416,C1416CRX,SITIO WIFI
+-58.4870182772787,-34.597468679394,747,"Metrobus San Martín, Estación 2 de Abril",Metrobus,Primera etapa HRL,Agosto-16,Disponible,San Martín,San Martín Av.,4850,,Villa Del Parque,Comuna 11,1417,C1417DSV,SITIO WIFI
+-58.4827716967653,-34.6298778880502,742,"Parques y Plazas, Plaza Vélez Sarsfield",Parques y Plazas,Primera etapa HRL,Agosto-16,Disponible,Parques y Plazas,Chivilcoy,395,,Floresta,Comuna 10,1407,C1407AEE,SITIO WIFI
+-58.3789725827467,-34.5828236062077,741,Barrio 31-Cancha Güemes,Espacio Público,Primera etapa HRL,Julio-16,Disponible,Barrio Social,Walsh,0,Perette,Retiro,Comuna 1,,,SITIO WIFI
+-58.3800470755741,-34.5830028247436,740,Barrio 31-Plaza de María,Parques y Plazas,Primera etapa HRL,Julio-16,Disponible,Barrio Social,Walsh,0,Perette,Retiro,Comuna 1,,,SITIO WIFI
+-58.3768086800292,-34.5853245139111,739,Barrio 31-Feria,Espacio Público,Primera etapa HRL,Julio-16,Disponible,Barrio Social,Walsh,0,Perette,Retiro,Comuna 1,,,SITIO WIFI
+-58.5112021395219,-34.5916252574472,738,"Metrobus San Martín, Estación Mosconi",Metrobus,Primera etapa HRL,Agosto-16,Disponible,San Martín,San Martín Av.,6901,,Villa Devoto,Comuna 11,1419,C1419ICG,SITIO WIFI
+-58.4935197583721,-34.6288920257169,737,"Parques y Plazas, Plaza de la Bandera",Parques y Plazas,Primera etapa HRL,Agosto-16,Disponible,Parques y Plazas,"Justo,Juan B. Av",7318,,Velez Sarsfield,Comuna 10,1407,C1407FAY,SITIO WIFI
+-58.4060232550507,-34.6402752087943,736,"Parques y Plazas, Manzana Cívica",Parques y Plazas,Primera etapa HRL,Agosto-16,Disponible,Parques y Plazas,Uspallata,3069,,Parque Patricios,Comuna 4,,,SITIO WIFI
+-58.5151941830855,-34.5904194950035,735,"Metrobus San Martín, Estación Ladines",Metrobus,Primera etapa HRL,Agosto-16,Disponible,San Martín,San Martín Av.,7150,,Villa Devoto,Comuna 11,1419,C1419ICV,SITIO WIFI
+-58.5075942417535,-34.5929460676286,734,"Metrobus San Martín, Estación Cubas",Metrobus,Primera etapa HRL,Agosto-16,Disponible,San Martín,San Martín Av.,6500,,Villa Devoto,Comuna 11,1419,C1419ICO,SITIO WIFI
+-58.499404116066,-34.5959870963169,733,"Metrobus San Martín, Estación Solano López",Metrobus,Primera etapa HRL,Agosto-16,Disponible,San Martín,San Martín Av.,5800,,Villa Devoto,Comuna 11,1419,C1419IBN,SITIO WIFI
+-58.4916851582509,-34.5971403818529,732,"Metrobus San Martín, Estación Comunicaciones",Metrobus,Primera etapa HRL,Agosto-16,Disponible,San Martín,San Martín Av.,5100,,Villa Del Parque,Comuna 11,1417,C1417DSX,SITIO WIFI
+-58.483611345177,-34.5977308550165,731,"Metrobus San Martín, Estación Agronomía",Metrobus,Primera etapa HRL,Agosto-16,Disponible,San Martín,San Martín Av.,4500,,Villa Del Parque,Comuna 11,1417,C1417DSR,SITIO WIFI
+-58.4810042743324,-34.5987465091667,730,"Metrobus San Martín, Estación Empedrado",Metrobus,Primera etapa HRL,Agosto-16,Disponible,San Martín,San Martín Av.,4150,,Villa Del Parque,Comuna 11,1417,C1417DSO,SITIO WIFI
+-58.470106412459,-34.6015692461088,729,"Metrobus San Martín, Estación Álvarez Jonte",Metrobus,Primera etapa HRL,Septiembre-16,Disponible,San Martín,San Martín Av.,3297,,Paternal,Comuna 15,1416,C1416CSH,SITIO WIFI
+-58.4455214836623,-34.5807630536297,728,"Parques y Plazas, Plaza Mafalda",Parques y Plazas,Primera etapa HRL,Agosto-16,Disponible,Parques y Plazas,Conde,0,Santos Dumont,Colegiales,Comuna 13,,,SITIO WIFI
+-58.406037010678,-34.6089421047319,723,Estación Once - 30 de Diciembre - Línea H,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea H,Mitre,0,Pueyrredón,Balvanera,Comuna 3,,,SITIO WIFI
+-58.4187012958104,-34.5825078593767,718,Jardín Botánico (Casona),Parques y Plazas,Gestión previa HRL,,Disponible,Parques y Plazas,SANTA FE AV.,3917,,Palermo,Comuna 14,1425,C1425BHB,SITIO WIFI
+-58.4171168389254,-34.5827785805383,717,Jardin Botánico Carlos Thays,Parques y Plazas,Gestión previa HRL,3ra. ETAPA / Agosto 2012,Disponible,Parques y Plazas,SANTA FE AV.,3951,,Palermo,Comuna 14,1425,C1425BHB,SITIO WIFI
+-58.511058988209,-34.5999725509561,716,Htal. Zubizarreta,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,Hospital,NUEVA YORK,3952,,Villa Devoto,Comuna 11,1419,C1419HDN,SITIO WIFI
+-58.5076139395859,-34.6253368904816,715,Htal. Velez Sarfield,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,Hospital,"CALDERON DE LA BARCA, PEDRO",1550,,Monte Castro,Comuna 10,1407,C1407KQF,SITIO WIFI
+-58.4483015756095,-34.6150402789385,714,Museo de Esculturas Luis Perlotti,Museos,Gestión previa HRL,may-16,Disponible,Museos,Pujol,642,,Caballito,Comuna 6,1405,C1405ALD,SITIO WIFI
+-58.3714309532972,-34.6280790547908,713,Edificio Finochietto,Espacio Público,Gestión previa HRL,may-16,Disponible,Edificios del GCABA,Finochietto,435,,Barracas,Comuna 4,1143,C1143ABA,SITIO WIFI
+-58.4116166524626,-34.6203845332135,712,Ente de Mantenimiento Urbano,Espacio Público,Gestión previa HRL,may-16,Disponible,Edificios del GCABA,Independencia,3253,,Balvanera,Comuna 3,1225,C1225ABB,SITIO WIFI
+-58.3858303606371,-34.6122194775092,711,Agencia de Protección Ambiental,Espacio Público,Gestión previa HRL,42461,Disponible,Edificios del GCABA,Moreno,1379,,Monserrat,Comuna 1,1091,C1091ABA,SITIO WIFI
+-58.4330297198065,-34.604279642295,710,Señalamiento Luminoso,Espacio Público,Gestión previa HRL,mar-16,Disponible,Otros establecimientos,Machado,94,,Caballito,Comuna 6,1405,C1405DHB,SITIO WIFI
+-58.3698265979703,-34.6101895503919,709,Villa Olímpica (Sede Paseo Colón),Espacio Público,Gestión previa HRL,mar-16,Disponible,Edificios del GCABA,Paseo Colón,221,,Monserrat,Comuna 1,1063,C1063ACC,SITIO WIFI
+-58.4029185524954,-34.6503866080475,708,Sede NIDO - Barrio Zavaleta,Espacio Público,Gestión previa HRL,dic-15,Disponible,Inclusión,Iguazú,0,Iriarte,Nueva Pompeya,Comuna 4,,,SITIO WIFI
+-58.3698240113815,-34.6106759684483,707,Ministerio de Educación,Espacio Público,Gestión previa HRL,dic-15,Disponible,Edificios del GCABA,Paseo Colón,255,,Monserrat,Comuna 1,1063,C1063ACC,SITIO WIFI
+-58.4538434338091,-34.6766188757883,706,CIM Villa Lugano,Espacio Público,Gestión previa HRL,nov-15,Disponible,Inclusión,Escalada Av.,4502,,Villa Soldati,Comuna 8,1439,C1439FIT,SITIO WIFI
+-58.4116817268224,-34.6120925777804,705,CIM Margarita Malharro,Espacio Público,Gestión previa HRL,nov-15,Disponible,Inclusión,24 de noviembre,113,,Balvanera,Comuna 3,1170,C1170AAC,SITIO WIFI
+-58.4191822994397,-34.6012555765468,704,CIM Elvira Rawson,Espacio Público,Gestión previa HRL,nov-15,Disponible,Inclusión,Salguero,765,,Almagro,Comuna 5,1177,C1177AEM,SITIO WIFI
+-58.4089384900678,-34.5872706916232,703,Servicio Social Zonal 14,Espacio Público,Gestión previa HRL,nov-15,Disponible,Servicio Social Zonal,Coronel Diaz,2110,,Palermo,Comuna 14,1425,C1425DQU,SITIO WIFI
+-58.4640249624256,-34.5537815833309,702,Servicio Social Zonal 13,Espacio Público,Gestión previa HRL,nov-15,Disponible,Servicio Social Zonal,Cabildo,3067,,Nuñez,Comuna 13,1429,C1429AAB,SITIO WIFI
+-58.391550957909,-34.6000166542062,701,Servicio Social Zonal 2,Espacio Público,Gestión previa HRL,nov-15,Disponible,Servicio Social Zonal,Rodriguez Peña,780,,San Nicolas,Comuna 1,1020,C1020ADP,SITIO WIFI
+-58.4218481731296,-34.6276971096281,700,Servicio Social Zonal 5,Espacio Público,Gestión previa HRL,oct-15,Disponible,Servicio Social Zonal,Cochabamba,4048,,Boedo,Comuna 5,1252,C1252ABT,SITIO WIFI
+-58.3986181999926,-34.623219703625,699,Servicio Social Zonal 3,Espacio Público,Gestión previa HRL,oct-15,Disponible,Servicio Social Zonal,Av San Juan,2353,,San Cristobal,Comuna 3,1232,C1232AAF,SITIO WIFI
+-58.4623346735102,-34.6016829598231,698,Servicio Social Zonal 15,Espacio Público,Gestión previa HRL,oct-15,Disponible,Servicio Social Zonal,Seguí,2125,,Paternal,Comuna 15,1416,C1416BXU,SITIO WIFI
+-58.4623346735102,-34.6016829598231,697,Servicio Social Zonal 10,Espacio Público,Gestión previa HRL,oct-15,Disponible,Servicio Social Zonal,Seguí,2125,,Paternal,Comuna 15,1416,C1416BXU,SITIO WIFI
+-58.3568702047973,-34.6286502644933,696,Usina del Arte (Evento),Espacio Público,Gestión previa HRL,42248,Disponible,Centro de Exposiciones y Culturales,Pedro de Mendoza,501,,Boca,Comuna 4,1156,C1156ACF,SITIO WIFI
+-58.3698690067362,-34.6290175812606,695,Edificio Lezama,Espacio Público,Gestión previa HRL,sep-15,Disponible,Edificios del GCABA,Martín García,0,Irala,San Telmo,Comuna 1,,,SITIO WIFI
+-58.4272873629078,-34.6285242258581,678,ISC - ASI Desarrollo,Espacio Público,Gestión previa HRL,sep-15,Disponible,Edificios del GCABA,Zuviria,64,,Parque Chacabuco,Comuna 7,1424,C1424CKB,SITIO WIFI
+-58.3749264148556,-34.5841200414108,677,Portal Inclusivo Villa 31,Espacio Público,Gestión previa HRL,sep-15,Disponible,Inclusión,Gendarmería,0,Walsh,Retiro,Comuna 1,,,SITIO WIFI
+-58.3905098828965,-34.6041757669108,676,FIBA (Evento),Espacio Público,Gestión previa HRL,sep-15,Disponible,Otros establecimientos,Corrientes,1681,,San Nicolas,Comuna 1,1042,C1042AAC,SITIO WIFI
+-58.3764501505825,-34.6060644525131,675,Dirección General de Defensa del Consumidor,Espacio Público,Gestión previa HRL,sep-15,Disponible,Edificios del GCABA,Maipu,169,,San Nicolas,Comuna 1,1084,C1084ABC,SITIO WIFI
+-58.3680451216643,-34.6022568125962,674,Terminal Combis Puerto Madero,Espacio Público,Gestión previa HRL,sep-15,Disponible,Otros establecimientos,Madero av.,401,,Puerto Madero,Comuna 1,1106,C1106ACE,SITIO WIFI
+-58.3936405161627,-34.641172023771,665,SAME - Monasterio,Espacio Público,Gestión previa HRL,sep-15,Disponible,Edificios del GCABA,Monasterio,480,,Parque Patricios,Comuna 4,1284,C1284AEJ,SITIO WIFI
+-58.464141845839,-34.5805640913086,664,Servicio Social Zonal 12,Espacio Público,Gestión previa HRL,sep-15,Disponible,Servicio Social Zonal,Charlone,1563,,Villa Ortuzar,Comuna 15,1427,C1427BYE,SITIO WIFI
+-58.524193640854,-34.6132846158482,663,Servicio Social Zonal 11,Espacio Público,Gestión previa HRL,sep-15,Disponible,Servicio Social Zonal,Beiro,5229,,Villa Devoto,Comuna 11,1419,C1419IAB,SITIO WIFI
+-58.4332393496743,-34.6607972748633,662,CMB Nº 39,Hospitales y Centros de Salud,Gestión previa HRL,sep-15,Disponible,CMB,Av. Varela,3395,,Villa Soldati,Comuna 8,1437,C1437BKE,SITIO WIFI
+-58.4777544804623,-34.6518262956172,661,CMB Nº 38,Hospitales y Centros de Salud,Gestión previa HRL,sep-15,Disponible,CMB,Moreto,1581,,Parque Avellaneda,Comuna 9,1407,C1407IZE,SITIO WIFI
+-58.3718220054287,-34.6461645357414,660,CMB Nº 37,Hospitales y Centros de Salud,Gestión previa HRL,sep-15,Disponible,CMB,Isabel La Católica,1492,,Barracas,Comuna 4,1269,C1269ABF,SITIO WIFI
+-58.4860670312674,-34.5852024732771,659,CMB Nº 36,Hospitales y Centros de Salud,Gestión previa HRL,sep-15,Disponible,CMB,Burela,1604,,Parque Chas,Comuna 15,1431,C1431EGH,SITIO WIFI
+-58.498832091436,-34.5912460693846,658,CMB Nº 35,Hospitales y Centros de Salud,Gestión previa HRL,sep-15,Disponible,CMB,Salvador María del Carril,2956,,Agronomia,Comuna 15,1419,C1419GZV,SITIO WIFI
+-58.4411670575732,-34.5894254693965,657,CMB Nº 34,Hospitales y Centros de Salud,Gestión previa HRL,sep-15,Disponible,CMB,Humboldt,1130,,Chacarita,Comuna 15,1414,C1414CTF,SITIO WIFI
+-58.476601587884,-34.5447607999572,656,CMB Nº 33,Hospitales y Centros de Salud,Gestión previa HRL,sep-15,Disponible,CMB,Cramer,4354,,Saavedra,Comuna 12,1429,C1429AKF,SITIO WIFI
+-58.5040161329696,-34.6280012985796,655,CMB Nº 32,Hospitales y Centros de Salud,Gestión previa HRL,sep-15,Disponible,CMB,Calderón de la Barca,1198,,Velez Sarsfield,Comuna 10,1407,C1407KPX,SITIO WIFI
+-58.4460586762086,-34.6394122276215,654,CMB Nº 31,Hospitales y Centros de Salud,Gestión previa HRL,sep-15,Disponible,CMB,Avelino Díaz,1971,,Parque Chacabuco,Comuna 7,1406,C1406IBM,SITIO WIFI
+-58.3704862935966,-34.6335933458017,653,CMB Nº 30,Hospitales y Centros de Salud,Gestión previa HRL,sep-15,Disponible,CMB,Arzobispo Espinosa,1211,,Barracas,Comuna 4,1268,C1268AAA,SITIO WIFI
+-58.4033114965249,-34.6124424014035,652,CMB Nº 29,Hospitales y Centros de Salud,Gestión previa HRL,sep-15,Disponible,CMB,Saavedra,205,,Balvanera,Comuna 3,1083,C1083ACE,SITIO WIFI
+-58.4849701614135,-34.6658770993537,651,CMB Nº 28,Hospitales y Centros de Salud,Gestión previa HRL,sep-15,Disponible,CMB,Echeandia,5567,,Villa Lugano,Comuna 8,1439,C1439BJW,SITIO WIFI
+-58.4673352001916,-34.6782329799451,650,Centro de Acción Familiar Bartolomé Mitre,Espacio Público,Gestión previa HRL,ago-15,Disponible,Inclusión,Larraya,4370,,Villa Lugano,Comuna 8,1439,C1439EKL,SITIO WIFI
+-58.465327426524,-34.6840128125363,649,Canónigo Luis J. Chorroarín,Biblioteca,Gestión previa HRL,abr-14,No Disponible,Biblioteca,Soldado de la Frontera,5059,,Villa Lugano,Comuna 8,1439,C1439FPC,SITIO WIFI
+-58.4448889910928,-34.6051603143745,648,CMB Nº 27,Hospitales y Centros de Salud,Gestión previa HRL,ago-15,Disponible,CMB,Antezana,340,,Villa Crespo,Comuna 15,1414,C1414EEH,SITIO WIFI
+-58.4631591247924,-34.5517267713519,647,CMB Nº 26,Hospitales y Centros de Salud,Gestión previa HRL,ago-15,Disponible,CMB,Guayra,2193,,Nuñez,Comuna 13,1429,C1429CJC,SITIO WIFI
+-58.4650631445987,-34.6478765086205,646,CMB Nº 25,Hospitales y Centros de Salud,Gestión previa HRL,ago-15,Disponible,CMB,Echeandia,3417,,Parque Avellaneda,Comuna 9,1407,C1407HVC,SITIO WIFI
+-58.4040087005944,-34.6328125406703,645,CMB Nº 24,Hospitales y Centros de Salud,Gestión previa HRL,ago-15,Disponible,CMB,Brasil,2867,,Parque Patricios,Comuna 4,1260,C1260AAK,SITIO WIFI
+-58.429706136227,-34.6297947919835,644,CMB Nº 23,Hospitales y Centros de Salud,Gestión previa HRL,ago-15,Disponible,CMB,Tejedor,251,,Parque Chacabuco,Comuna 7,1424,C1424CLE,SITIO WIFI
+-58.3794235704549,-34.6030770684933,643,"Conservatorio S. M. ""Manuel de Falla""",Espacio Público,Gestión previa HRL,ago-15,Disponible,Otros establecimientos,Suipacha,443,,San Nicolas,Comuna 1,1008,C1008AAI,SITIO WIFI
+-58.3794345083749,-34.6030410182689,642,"Conservatorio S. M. ""Manuel de Falla""",Espacio Público,Gestión previa HRL,ago-15,Disponible,Otros establecimientos,Suipacha,443,,San Nicolas,Comuna 1,1008,C1008AAI,SITIO WIFI
+-58.5136080983807,-34.6465934118243,641,Polideportivo Santojanni,Espacio Público,Gestión previa HRL,ago-15,Disponible,Otros establecimientos,Patrón,6222,,Liniers,Comuna 9,1408,C1408FAT,SITIO WIFI
+-58.4455456567543,-34.5798824150905,640,Polideportivo Colegiales,Espacio Público,Gestión previa HRL,ago-15,Disponible,Otros establecimientos,Conde,235,,Colegiales,Comuna 13,1426,C1426AYE,SITIO WIFI
+-58.4461182723502,-34.6699327326027,638,Villa Olímpica,Espacio Público,Gestión previa HRL,ago-15,Disponible,Edificios del GCABA,Fernandez de la Cruz,0,Escalada,Villa Lugano,Comuna 8,,,SITIO WIFI
+-58.4137084531004,-34.5849896360167,637,CMB Nº 22,Hospitales y Centros de Salud,Gestión previa HRL,ago-15,Disponible,CMB,Araoz,2637,,Palermo,Comuna 14,1425,C1425DGO,SITIO WIFI
+-58.4943617241047,-34.64935435663,636,CMB Nº 20,Hospitales y Centros de Salud,Gestión previa HRL,ago-15,Disponible,CMB,Araujo,1246,,Mataderos,Comuna 9,1440,C1440DLP,SITIO WIFI
+-58.5266752081579,-34.613742203341,635,CMB Nº 19,Hospitales y Centros de Salud,Gestión previa HRL,ago-15,Disponible,CMB,Coligue,2977,,Villa Real,Comuna 10,1419,C1419CJA,SITIO WIFI
+-58.4318016908883,-34.6505420699384,634,SECHI Madre del Pueblo,Espacio Público,Gestión previa HRL,ago-15,Disponible,Inclusión,Av. Perito Moreno,0,Av. Cruz,Flores,Comuna 7,,,SITIO WIFI
+-58.4023296683482,-34.6230884210032,632,Estación Humberto 1º - Línea H,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea H,Jujuy,0,Humberto Primo,San Cristobal,Comuna 3,,,SITIO WIFI
+-58.4123851480475,-34.6412674404756,628,Estación Hospitales - Línea H,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea H,Puna,0,Almafuerte,Parque Patricios,Comuna 4,,,SITIO WIFI
+-58.4047377431694,-34.615244691345,624,Estación Venezuela - Línea H,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea H,Belgrano,0,Jujuy,Balvanera,Comuna 3,,,SITIO WIFI
+-58.4009700451907,-34.62937917327,621,Estación Inclán - Línea H,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea H,Inclán,0,Jujuy,Parque Patricios,Comuna 4,,,SITIO WIFI
+-58.3989341266401,-34.6357482612228,616,Estación Caseros - Línea H,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea H,Caseros,0,Jujuy,Parque Patricios,Comuna 4,,,SITIO WIFI
+-58.4623845508901,-34.5556376465821,608,Estación Congreso de Tucumán - Línea D,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea D,Congreso,0,Cabildo,Belgrano,Comuna 13,,,SITIO WIFI
+-58.4564959002182,-34.562307606856,605,Estación Juramento - Línea D,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea D,Juramento,0,Cabildo,Belgrano,Comuna 13,,,SITIO WIFI
+-58.452123419621,-34.5662144238654,600,Estación José Hernández - Línea D,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea D,Cabildo,0,Virrey del Pino,Belgrano,Comuna 13,,,SITIO WIFI
+-58.4446705178753,-34.5700136079215,595,Estación Olleros - Línea D,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea D,Lacroze,0,Cabildo,Palermo,Comuna 14,,,SITIO WIFI
+-58.3931267701458,-34.5996347641407,585,Estación Callao - Línea D,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea D,Callao,0,Cordoba,Balvanera,Comuna 3,,,SITIO WIFI
+-58.4112947497204,-34.5882365121899,576,Estación Bulnes - Línea D,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea D,Bulnes,0,Santa Fe,Palermo,Comuna 14,,,SITIO WIFI
+-58.4159598709854,-34.5851538297115,572,Estación R. Scalabrini Ortiz - Línea D,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea D,Scalabrini Ortiz,0,Santa Fe,Palermo,Comuna 14,,,SITIO WIFI
+-58.4071709059624,-34.5916254406162,567,Estación Agüero - Línea D,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea D,Aguero,0,Santa Fe,Recoleta,Comuna 2,,,SITIO WIFI
+-58.3851436060007,-34.601586445542,562,Estación Tribunales - Línea D,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea D,Tucumán,0,Talcahuano,San Nicolas,Comuna 1,,,SITIO WIFI
+-58.406039193396,-34.6089389006323,556,Espacio Subte Digital Once - 30 de Diciembre - Línea H,Subte,Gestión previa HRL,jul-15,Disponible,Línea H,Mitre,0,Pueyrredon,Balvanera,Comuna 3,,,SITIO WIFI
+-58.4023312218609,-34.6230984703822,555,Espacio Subte Digital Humberto 1º - Línea H,Subte,Gestión previa HRL,jul-15,Disponible,Línea H,Jujuy,0,Humberto Primo,San Cristobal,Comuna 3,,,SITIO WIFI
+-58.3989254011465,-34.6357512291318,554,Espacio Subte Digital Caseros - Línea H,Subte,Gestión previa HRL,jul-15,Disponible,Línea H,Caseros,0,Jujuy,Parque Patricios,Comuna 4,,,SITIO WIFI
+-58.3736804948211,-34.6092400867061,553,Espacio Subte Digital Bolivar - Línea E,Subte,Gestión previa HRL,jul-15,Disponible,Línea E,Julio A. Roca,0,Yrigoyen,Monserrat,Comuna 1,,,SITIO WIFI
+-58.3739569974544,-34.6078001792052,552,Espacio Subte Digital Catedral - Línea D,Subte,Gestión previa HRL,jul-15,Disponible,Línea D,Roque Saenz Peña,0,Rivadavia,Monserrat,Comuna 1,,,SITIO WIFI
+-58.3805763407772,-34.6042427105967,551,Espacio Subte Digital 9 de Julio Línea D,Subte,Gestión previa HRL,jul-15,Disponible,Línea D,Roque Saenz Peña,0,Carlos Pellegrini,San Nicolas,Comuna 1,,,SITIO WIFI
+-58.3979272085267,-34.5997643798604,550,Espacio Subte Digital Facultad de Medicina - Línea D,Subte,Gestión previa HRL,jul-15,Disponible,Línea D,Cordoba,0,uriburu,Balvanera,Comuna 3,,,SITIO WIFI
+-58.4211984551324,-34.581410322368,549,Espacio Subte Digital Plaza Italia - Línea D,Subte,Gestión previa HRL,jul-15,Disponible,Línea D,Santa Fe,0,Thames,Palermo,Comuna 14,,,SITIO WIFI
+-58.4257146632194,-34.5784202515756,548,Espacio Subte Digital Palermo - Línea D,Subte,Gestión previa HRL,jul-15,Disponible,Línea D,Santa Fe,0,Godoy Cruz,Palermo,Comuna 14,,,SITIO WIFI
+-58.4350097564352,-34.5751711958501,547,Espacio Subte Digital Carranza - Línea D,Subte,Gestión previa HRL,jul-15,Disponible,Línea D,Santa Fe,0,Dorrego,Palermo,Comuna 14,,,SITIO WIFI
+-58.3699297247645,-34.6029923433781,546,Espacio Subte Digital Alem - Línea B,Subte,Gestión previa HRL,jul-15,Disponible,Línea B,Alem,0,Corrientes,San Nicolas,Comuna 1,,,SITIO WIFI
+-58.469639651188,-34.6307070600452,544,Espacio Subte Digital San Pedrito - Línea A,Subte,Gestión previa HRL,jul-15,Disponible,Linea A,Nazca,0,Rivadavia,Flores,Comuna 7,,,SITIO WIFI
+-58.4797546183575,-34.6120039293508,543,CMB Nº 13,Hospitales y Centros de Salud,Gestión previa HRL,jun-15,Disponible,CMB,Camarones,2834,,Villa Santa Rita,Comuna 11,1416,C1416EDD,SITIO WIFI
+-58.4651482800009,-34.6193106613858,541,CMB Nº 12,Hospitales y Centros de Salud,Gestión previa HRL,jun-15,Disponible,CMB,Paez,2283,,Flores,Comuna 7,1406,C1406FQK,SITIO WIFI
+-58.4556782711074,-34.6559179970117,540,SECHI Plaza Carrillo,Espacio Público,Gestión previa HRL,jun-15,Disponible,Inclusión,Acosta,2461,,Villa Soldati,Comuna 8,1407,C1407KCW,SITIO WIFI
+-58.4471031767715,-34.660474033834,537,SECHI Sede Barrio Fátima,Espacio Público,Gestión previa HRL,jun-15,Disponible,Inclusión,Pergamino,2950,,Villa Soldati,Comuna 8,1437,C1437CBD,SITIO WIFI
+-58.4316876865408,-34.6409743206695,536,CMB Nº 8,Hospitales y Centros de Salud,Gestión previa HRL,may-15,Disponible,CMB,La Capital,1131,,Parque Chacabuco,Comuna 7,1424,C1424DCA,SITIO WIFI
+-58.5124123417807,-34.6452086369702,535,CMB Nº 7,Hospitales y Centros de Salud,Gestión previa HRL,may-15,Disponible,CMB,Patrón,6119,,Liniers,Comuna 9,1408,C1408FAQ,SITIO WIFI
+-58.3937070289882,-34.6196032137453,534,CMB Nº 6,Hospitales y Centros de Salud,Gestión previa HRL,may-15,Disponible,CMB,Estados Unidos,1936,,San Cristobal,Comuna 3,1227,C1227ABD,SITIO WIFI
+-58.3795260056173,-34.6548670990032,533,Posta Digital - CMD,Espacio Público,Gestión previa HRL,may-15,Disponible,Inclusión,Algarrobo,1041,,Barracas,Comuna 4,1293,C1293ABA,SITIO WIFI
+-58.3688191334801,-34.6321990529379,532,Posta Digital - Centro de Día Nº 22,Espacio Público,Gestión previa HRL,may-15,Disponible,Inclusión,Hernandarias,370,,Boca,Comuna 4,1165,C1165ADF,SITIO WIFI
+-58.4350465839634,-34.6084660945371,531,Inst. de Zoonosis Luis Pasteur,Hospitales y Centros de Salud,Gestión previa HRL,may-15,Disponible,Hospital,Díaz Velez,4821,,Caballito,Comuna 6,1405,C1405DCD,SITIO WIFI
+-58.4074178685168,-34.609719279992,530,Estación Saludable Plaza Miserere,Hospitales y Centros de Salud,Gestión previa HRL,may-15,Disponible,Estación Saludable,Pueyrredón,0,Bartolome Mitre,Balvanera,Comuna 3,,,SITIO WIFI
+-58.4636224864458,-34.6284891515178,529,Estación Saludable Plaza Flores,Hospitales y Centros de Salud,Gestión previa HRL,may-15,Disponible,Estación Saludable,Fray Cayetano Rodríguez,0,Rivadavia,Flores,Comuna 7,,,SITIO WIFI
+-58.4059199094467,-34.6378829374324,528,Estación Saludable Parque Patricios,Hospitales y Centros de Salud,Gestión previa HRL,may-15,Disponible,Estación Saludable,Patagones,0,Monteagudo,Parque Patricios,Comuna 4,,,SITIO WIFI
+-58.4481111164194,-34.5916779789863,527,Estación Saludable Parque Los Andes,Hospitales y Centros de Salud,Gestión previa HRL,may-15,Disponible,Estación Saludable,Jorge Newbery,4100,,Chacarita,Comuna 15,1427,C1427EGT,SITIO WIFI
+-58.471426518267,-34.5873461963487,526,Htal. Dr. E. Tornú,Hospitales y Centros de Salud,Gestión previa HRL,may-15,Disponible,Hospital,Combatientes de Malvinas,3002,,Parque Chas,Comuna 15,1431,C1431FTA,SITIO WIFI
+-58.4752130047154,-34.5976564671343,525,Htal. de Emerg. Psiquiátricas Torcuato de Alvear,Hospitales y Centros de Salud,Gestión previa HRL,may-15,Disponible,Hospital,Warnes,2630,,Paternal,Comuna 15,1427,C1427DPS,SITIO WIFI
+-58.4108974552092,-34.6432024419744,524,Htal. J. A. Penna,Hospitales y Centros de Salud,Gestión previa HRL,may-15,Disponible,Hospital,Pedro Chutro,3380,,Parque Patricios,Comuna 4,1437,C1437IYP,SITIO WIFI
+-58.3843648643223,-34.6393032299615,523,Htal. de Salud Mental Braulio Moyano,Hospitales y Centros de Salud,Gestión previa HRL,may-15,Disponible,Hospital,Brandsen,2570,,Barracas,Comuna 4,1287,C1287ABJ,SITIO WIFI
+-58.4024121525409,-34.6391665336357,522,Centro del Distrito Tecnológico (Espacios de recepción al público),Espacio Público,Gestión previa HRL,abr-15,Disponible,Distrito Tecnológico,Uspallata,2802,,Parque Patricios,Comuna 4,1437,C1437JCF,SITIO WIFI
+-58.4639740025844,-34.6843828013652,521,CeSAC Nº 3,Hospitales y Centros de Salud,Gestión previa HRL,mar-15,Disponible,CeSAC,Soldado de la Frontera,5144,,Villa Lugano,Comuna 8,1439,C1439FPF,SITIO WIFI
+-58.4633892923628,-34.6886329501047,520,CeSAC Nº 28,Hospitales y Centros de Salud,Gestión previa HRL,mar-15,Disponible,CeSAC,Cafayate,5388,,Villa Lugano,Comuna 8,1439,C1439IEB,SITIO WIFI
+-58.4820524148304,-34.643327348465,519,CeSAC Nº 13,Hospitales y Centros de Salud,Gestión previa HRL,mar-15,Disponible,CeSAC,Directorio,4210,,Parque Avellaneda,Comuna 9,1407,C1407HGP,SITIO WIFI
+-58.4742857913161,-34.5698177428844,518,CeSAC Nº 12,Hospitales y Centros de Salud,Gestión previa HRL,mar-15,Disponible,CeSAC,Olazabal,3960,,Villa Urquiza,Comuna 12,1430,C1430BQS,SITIO WIFI
+-58.3835040614898,-34.633719673061,513,CeSAC Nº 10,Hospitales y Centros de Salud,Gestión previa HRL,mar-15,Disponible,CeSAC,Amancio Alcorta,1402,,Barracas,Comuna 4,1283,C1283AAN,SITIO WIFI
+-58.4145093167028,-34.5733898111286,512,Plaza Ramón Fernández,Parques y Plazas,Gestión previa HRL,mar-15,Disponible,Parques y Plazas,Sarmiento,0,Iraola,Palermo,Comuna 14,,,SITIO WIFI
+-58.4085884120845,-34.640258803505,511,Pzta. Dr. Genaro Giacobini,Parques y Plazas,Gestión previa HRL,abr-15,Disponible,Parques y Plazas,Uspallata,0,Pepirí,Parque Patricios,Comuna 4,,,SITIO WIFI
+-58.4104745715627,-34.6445294775024,510,Plaza José C. Paz,Parques y Plazas,Gestión previa HRL,abr-15,Disponible,Parques y Plazas,José C. Paz,0,Diógenes Taborda,Parque Patricios,Comuna 4,,,SITIO WIFI
+-58.4097209295311,-34.6422697864467,509,Parque Uriburu,Parques y Plazas,Gestión previa HRL,abr-15,Disponible,Parques y Plazas,Pepirí,0,Pedro Chutro,Parque Patricios,Comuna 4,,,SITIO WIFI
+-58.4089913501943,-34.638963729305,508,Parque Patricios (Distrito Tecnológico),Parques y Plazas,Gestión previa HRL,abr-15,Disponible,Parques y Plazas,Caseros,0,Almafuerte,Boedo,Comuna 5,,,SITIO WIFI
+-58.4668024158404,-34.6643661847337,507,Estación Saludable Parque Indoamericano,Hospitales y Centros de Salud,Gestión previa HRL,abr-15,Disponible,Estación Saludable,Castañares,0,Lacarra,Villa Soldati,Comuna 8,,,SITIO WIFI
+-58.4397298258896,-34.6349495301177,506,Estación Saludable Parque Chacabuco,Hospitales y Centros de Salud,Gestión previa HRL,abr-15,Disponible,Estación Saludable,Asamblea,0,Emilio Mitre,Parque Chacabuco,Comuna 7,,,SITIO WIFI
+-58.43456604098,-34.6051255094866,505,Estación Saludable Parque Centenario,Hospitales y Centros de Salud,Gestión previa HRL,abr-15,Disponible,Estación Saludable,Antonio Machado,0,Patricias Argentinas,Caballito,Comuna 6,,,SITIO WIFI
+-58.4755730884447,-34.6453579639086,504,Estación Saludable Parque Avellaneda,Hospitales y Centros de Salud,Gestión previa HRL,abr-15,Disponible,Estación Saludable,Bilbao,0,Lacarra,Parque Avellaneda,Comuna 9,,,SITIO WIFI
+-58.3822302444829,-34.6269400252844,503,Estación Saludable Constitución,Hospitales y Centros de Salud,Gestión previa HRL,abr-15,Disponible,Estación Saludable,Juan de Garay,0,Lima,Constitucion,Comuna 1,,,SITIO WIFI
+-58.4054498832976,-34.6044987708221,502,Estación Saludable Corrientes Línea H,Hospitales y Centros de Salud,Gestión previa HRL,mar-15,Disponible,Estación Saludable,Corrientes,0,Pueyrredón,Balvanera,Comuna 3,,,SITIO WIFI
+-58.4068128155861,-34.5811617455184,501,Htal. Gral. de Agudos Dr. J. A. Fernández,Hospitales y Centros de Salud,Gestión previa HRL,abr-15,Disponible,Hospital,Cerviño,3356,,Palermo,Comuna 14,1425,C1425AGP,SITIO WIFI
+-58.4276435228447,-34.6147258053099,500,Htal. de Odontología  J. Dueñas,Hospitales y Centros de Salud,Gestión previa HRL,abr-15,Disponible,Hospital,Muñiz,15,,Almagro,Comuna 5,1212,C1212AAA,SITIO WIFI
+-58.4026050472699,-34.5845100290469,499,Htal. Odontológico Dr. R. Carrillo (Ex Nacional),Hospitales y Centros de Salud,Gestión previa HRL,abr-15,Disponible,Hospital,Sanchez de Bustamante,2529,,Recoleta,Comuna 2,1425,C1425DUY,SITIO WIFI
+-58.4408846202799,-34.553907886517,498,Htal. de Rehabilitación Psicofísica,Hospitales y Centros de Salud,Gestión previa HRL,abr-15,Disponible,Hospital,Echeverría,955,,Belgrano,Comuna 13,1428,C1428DQG,SITIO WIFI
+-58.3821666207013,-34.6366246934182,497,Htal. de Salud Mental J. Borda,Hospitales y Centros de Salud,Gestión previa HRL,abr-13,Disponible,Hospital,Ramon Carrillo,375,,Barracas,Comuna 4,1275,C1275AHG,SITIO WIFI
+-58.4694760287131,-34.6241255739229,496,Htal. Alvarez,Hospitales y Centros de Salud,Gestión previa HRL,abr-15,Disponible,Hospital,Aranguren,2701,,Flores,Comuna 7,1406,C1406FWY,SITIO WIFI
+-58.4008016124094,-34.5845643853643,495,Htal. Rivadavia,Hospitales y Centros de Salud,Gestión previa HRL,mar-15,Disponible,Hospital,Las Heras,2670,,Recoleta,Comuna 2,1425,C1425ASQ,SITIO WIFI
+-58.4095811667103,-34.6176346384995,493,Htal. Ramos Mejía,Hospitales y Centros de Salud,Gestión previa HRL,mar-15,Disponible,Hospital,Gral Urquiza,609,,Balvanera,Comuna 3,1221,C1221ADC,SITIO WIFI
+-58.3809152482781,-34.6030823411655,492,Galería Pasaje Obelisco Norte,Espacio Público,Gestión previa HRL,dic-14,Disponible,Otros establecimientos,Pellegrini,451,,San Nicolas,Comuna 1,1009,C1009ABI,SITIO WIFI
+-58.3808200499735,-34.6044996517548,491,Galería Pasaje Obelisco Sur,Espacio Público,Gestión previa HRL,dic-14,Disponible,Otros establecimientos,Pellegrini,327,,San Nicolas,Comuna 1,1009,C1009ABG,SITIO WIFI
+-58.4211985850197,-34.581409024534,489,Estación Plaza Italia - Línea D,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea D,Santa Fe,4100,,Palermo,Comuna 14,1425,C1425BHP,SITIO WIFI
+-58.4257138598967,-34.5784163937198,484,Estación Palermo - Línea D,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea D,Santa fe,4600,,Palermo,Comuna 14,1425,C1425BHU,SITIO WIFI
+-58.3979347569958,-34.5997546779529,477,Estación Facultad de Medicina - Línea D,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea D,Cordoba,2100,,Balvanera,Comuna 3,1120,C1120AAP,SITIO WIFI
+-58.4526352781347,-34.6704776642537,470,BA Rock,Espacio Público,Gestión previa HRL,feb-15,No Disponible,Otros establecimientos,ESCALADA AV.,4501,,Villa Lugano,Comuna 8,1439,,SITIO WIFI
+-58.4348231558859,-34.5496244268939,469,BA Playa (Puerto Pibes),Espacio Público,Gestión previa HRL,feb-15,No Disponible,Otros establecimientos,Cantilo,0,Arturo Illia,Belgrano,Comuna 13,,,SITIO WIFI
+-58.4418351942365,-34.5800881424891,468,BA Moda,Espacio Público,Gestión previa HRL,feb-15,No Disponible,Otros establecimientos,Dorrego,1898,,Colegiales,Comuna 13,1414,C1414CLN,SITIO WIFI
+-58.408989233695,-34.6391479284491,467,BA Fit,Espacio Público,Gestión previa HRL,feb-15,No Disponible,Otros establecimientos,Pepiri,135,,Parque Patricios,Comuna 4,1437,C1437EIC,SITIO WIFI
+-58.37551917489,-34.5979223885568,466,Florida 870,Área Central,Gestión previa HRL,mar-15,Disponible,Florida,FLORIDA,870,,Retiro,Comuna 1,1005,C1005AAR,SITIO WIFI
+-58.3753948224462,-34.6017229371545,465,Florida 540,Área Central,Gestión previa HRL,mar-15,Disponible,Florida,FLORIDA,540,,San Nicolas,Comuna 1,1005,C1005AAL,SITIO WIFI
+-58.375288553859,-34.6039209919588,464,Florida 364,Área Central,Gestión previa HRL,mar-15,Disponible,Florida,FLORIDA,364,,San Nicolas,Comuna 1,1005,C1005AAH,SITIO WIFI
+-58.3751688477101,-34.606006332772,463,Florida 180,Área Central,Gestión previa HRL,mar-15,Disponible,Florida,FLORIDA,180,,San Nicolas,Comuna 1,1005,C1005AAD,SITIO WIFI
+-58.3747963460282,-34.607770081199,462,Florida 25,Área Central,Gestión previa HRL,mar-15,Disponible,Florida,FLORIDA,25,,San Nicolas,Comuna 1,1005,C1005AAA,SITIO WIFI
+-58.375838905154,-34.6065376511491,461,Subsecretaría Ciudad Inteligente,Espacio Público,Gestión previa HRL,feb-15,Disponible,Edificios del GCABA,"SAENZ PEÑA, ROQUE, PRES. AV.",637,,San Nicolas,Comuna 1,1035,C1035AAB,SITIO WIFI
+-58.4069130256873,-34.6412710325493,460,Nueva Sede GCBA (Recepciones Público),Espacio Público,Gestión previa HRL,feb-15,Disponible,Edificios del GCABA,LOS PATOS,3151,,Parque Patricios,Comuna 4,1437,C1437JAK,SITIO WIFI
+-58.4126537094448,-34.5715362374776,459,Estación Saludable Rosedal,Hospitales y Centros de Salud,Gestión previa HRL,feb-15,Disponible,Estación Saludable,IRAOLA AV.,0,SARMIENTO AV.,Palermo,Comuna 14,,,SITIO WIFI
+-58.3744623222062,-34.6087571006617,458,Estación Saludable Peru,Hospitales y Centros de Salud,Gestión previa HRL,feb-15,Disponible,Estación Saludable,AV. DE MAYO,570,,Monserrat,Comuna 1,1084,C1084AAN,SITIO WIFI
+-58.380768073864,-34.6039013293218,457,Estación Saludable Carlos Pellegrini,Hospitales y Centros de Salud,Gestión previa HRL,feb-15,Disponible,Estación Saludable,PELLEGRINI CARLOS AV.,0,CORRIENTES AV.,,,,,SITIO WIFI
+-58.3751324374879,-34.6069507914693,456,Estación Saludable Diagonal y Florida (Refuerzo),Hospitales y Centros de Salud,Gestión previa HRL,feb-15,Disponible,Estación Saludable,"SAENZ PEÑA, ROQUE, PRES. AV.",0,FLORIDA,San Nicolas,Comuna 1,,,SITIO WIFI
+-58.4318602389053,-34.6505898477812,455,SECHI PLAZA ROTONDA / ESPEJO,Espacio Público,Gestión previa HRL,feb-15,Disponible,Inclusión,PERITO MORENO AV.,0,"FERNANDEZ DE LA CRUZ, F., GRAL. AV.",Flores,Comuna 7,,,SITIO WIFI
+-58.433346503365,-34.6497929862704,452,SECHI Nidito,Espacio Público,Gestión previa HRL,feb-15,Disponible,Inclusión,PERITO MORENO AV.,0,EREZCANO,Flores,Comuna 7,,,SITIO WIFI
+-58.4378712846773,-34.6507409020397,451,SECHI - Corredor Saludable Perito Moreno,Espacio Público,Gestión previa HRL,feb-15,Disponible,Inclusión,PERITO MORENO AV.,1701,,Nueva Pompeya,Comuna 4,1437,C1437BSE,SITIO WIFI
+-58.416040292873,-34.5942839546696,450,Evaristo Carriego,Biblioteca,Gestión previa HRL,,No Disponible,Biblioteca,HONDURAS,3784,,Palermo,Comuna 14,1180,C1180ACB,SITIO WIFI
+-58.3663126292929,-34.6211941479523,446,COPIDIS,Espacio Público,Gestión previa HRL,sep-14,Disponible,Inclusión,"HUERGO, ING. AV.",1189,,San Telmo,Comuna 1,1107,C1107AOL,SITIO WIFI
+-58.3796335557595,-34.6277409870507,445,Estación Constitución,Metrobus,Gestión previa HRL,sep-14,Disponible,Sur,BRASIL,0,GRAL. HORNOS,Constitucion,Comuna 1,,,SITIO WIFI
+-58.4502477016848,-34.5914273758394,444,Baldomero Fernández Moreno,Biblioteca,Gestión previa HRL,sep-14,Disponible,Biblioteca,Concepción Arenal,4206,,Chacarita,Comuna 15,1427,C1427EKR,SITIO WIFI
+-58.4093596424251,-34.6033847196876,443,Pasaje Carlos Gardel,Espacio Público,Gestión previa HRL,sep-14,Disponible,Otros establecimientos,Carlos Gardel,0,Jean Jaures,Balvanera,Comuna 3,,,SITIO WIFI
+-58.4197741740788,-34.5809046335167,442,Jardín Zoológico,Espacio Público,Gestión previa HRL,sep-14,Disponible,Zoológico,Calzada Circular Plaza Italia,0,Las Heras General Av.,Palermo,Comuna 14,,,SITIO WIFI
+-58.4302299712055,-34.5976889032328,440,EMAD - Escuela Metropolitana de Arte Dramático,Espacio Público,Gestión previa HRL,jul-14,Disponible,Otros establecimientos,Jufre,141,,Villa Crespo,Comuna 15,1414,C1414AYC,SITIO WIFI
+-58.4669382206226,-34.6302498357574,439,Sede de Comuna 7,Sede Comunal,Gestión previa HRL,4ta. ETAPA / Septiembre 2012 (Sedes Comunales),Disponible,Sede Comunal,Rivadavia Av.,7202,,Flores,Comuna 7,1406,C1406GMP,SITIO WIFI
+-58.4488644898114,-34.680530730857,438,Estación Saludable SACTA,Hospitales y Centros de Salud,Gestión previa HRL,jul-14,Disponible,Estación Saludable,Av. Roca,0,y Av. Escalada,,,,,SITIO WIFI
+-58.380572076679,-34.6041444505414,437,Diagonal Norte y C. Pellegrini,Área Central,Gestión previa HRL,jul-14,Disponible,Diagonal Norte,roque saenz peña,0,carlos pellegrini,San Nicolas,Comuna 1,,,SITIO WIFI
+-58.4565229939089,-34.615598175299,436,Plaza Irlanda - Centro de Jubilados,Parques y Plazas,Gestión previa HRL,jul-14,Disponible,Parques y Plazas,seguí,850,,Caballito,Comuna 6,1406,C1406BRN,SITIO WIFI
+-58.4009970869445,-34.6317707424733,435,Estación Jujuy,Metrobus,Gestión previa HRL,jul-14,Disponible,Sur,Jujuy,0,Brasil,Parque Patricios,Comuna 4,,,SITIO WIFI
+-58.3819702457595,-34.6052778473174,432,Estación de Combis,Metrobus,Gestión previa HRL,,Disponible,9 de Julio,9 DE JULIO AV.,0,SARMIENTO,San Nicolas,Comuna 1,,,SITIO WIFI
+-58.426978337133,-34.5775415770425,431,Estación Saludable Pacífico,Hospitales y Centros de Salud,Gestión previa HRL,jul-14,Disponible,Estación Saludable,Santa Fe,0,Bullrich,Palermo,Comuna 14,,,SITIO WIFI
+-58.3741427089095,-34.5926733185879,429,Estación Saludable Retiro,Hospitales y Centros de Salud,Gestión previa HRL,jul-14,Disponible,Estación Saludable,Del Libertador,0,Ramos Mejía,Retiro,Comuna 1,,,SITIO WIFI
+-58.4944126578934,-34.6381491094026,428,Centro de Día Nro. 27,Espacio Público,Gestión previa HRL,jul-14,Disponible,Inclusión,ramon falcon,4778,,Villa Luro,Comuna 10,1407,C1407GTD,SITIO WIFI
+-58.3864195875654,-34.6240269675291,427,CeSAC Nº 47,Hospitales y Centros de Salud,Gestión previa HRL,jul-14,Disponible,CeSAC,cochabamba,1436,,Constitucion,Comuna 1,1148,C1148ABB,SITIO WIFI
+-58.412013617429,-34.6442007919524,426,Distrito Tecnológico Miriñay 3532,Espacio Público,Gestión previa HRL,jun-14,Disponible,Distrito Tecnológico,Miriñay,3532,,Parque Patricios,Comuna 4,1437,C1437IUB,SITIO WIFI
+-58.4117103927508,-34.6438312415118,425,Distrito Tecnológico Cortajarena 3514,Espacio Público,Gestión previa HRL,jun-14,Disponible,Distrito Tecnológico,Cortejarena,3514,,Parque Patricios,Comuna 4,1437,C1437IST,SITIO WIFI
+-58.4120568132717,-34.6429170762078,424,Distrito Tecnológico Dr. Prof. P. Chutro 3434,Espacio Público,Gestión previa HRL,jun-14,Disponible,Distrito Tecnológico,Chutro,3434,,Parque Patricios,Comuna 4,1437,C1437IYR,SITIO WIFI
+-58.4126983663937,-34.6417387733591,423,Distrito Tecnológico Almafuerte y Puna,Espacio Público,Gestión previa HRL,jun-14,Disponible,Distrito Tecnológico,Almafuerte,0,Puna,Parque Patricios,Comuna 4,,,SITIO WIFI
+-58.4118257380823,-34.6396184160357,422,Distrito Tecnológico Almafuerte y Pomar,Espacio Público,Gestión previa HRL,jun-14,Disponible,Distrito Tecnológico,Almafuerte,0,Pomar,Nueva Pompeya,Comuna 4,,,SITIO WIFI
+-58.413540413247,-34.6182239809075,421,Centro de Día Nro. 17,Espacio Público,Gestión previa HRL,jul-14,Disponible,Inclusión,Agrelo,3356,,Almagro,Comuna 5,1224,C1224ABF,SITIO WIFI
+-58.3761999543141,-34.6247820936002,420,Centro de Día Nro. 19,Espacio Público,Gestión previa HRL,jul-14,Disponible,Inclusión,juan de garay,765,,San Telmo,Comuna 1,1153,C1153ABF,SITIO WIFI
+-58.4091212538291,-34.6416736607398,419,Distrito Tecnológico Pepirí y Los Patos,Espacio Público,Gestión previa HRL,jun-14,Disponible,Distrito Tecnológico,Pepirí,0,Los Patos,Parque Patricios,Comuna 4,,,SITIO WIFI
+-58.3857528339668,-34.6040297788742,418,Corrientes 1350,Área Central,Gestión previa HRL,jun-14,Disponible,Corrientes,Corrientes,1350,,San Nicolas,Comuna 1,1043,C1043ABN,SITIO WIFI
+-58.4306316576717,-34.5797587169826,417,Centro de Día Nro. 9,Espacio Público,Gestión previa HRL,jul-14,Disponible,Inclusión,Paraguay,5170,,Palermo,Comuna 14,1425,C1425BTF,SITIO WIFI
+-58.3843421626731,-34.6039481985071,416,Corrientes 1250,Área Central,Gestión previa HRL,jun-14,Disponible,Corrientes,Corrientes,1250,,San Nicolas,Comuna 1,1043,C1043AAZ,SITIO WIFI
+-58.3828744091875,-34.6038617220974,415,Corrientes 1150,Área Central,Gestión previa HRL,jun-14,Disponible,Corrientes,Corrientes,1150,,San Nicolas,Comuna 1,1043,C1043AAY,SITIO WIFI
+-58.5031971356607,-34.5811910834447,414,Centro de Día Nro. 8,Espacio Público,Gestión previa HRL,jul-14,Disponible,Inclusión,Condarco,5155,,Villa Pueyrredon,Comuna 12,1419,C1419DQE,SITIO WIFI
+-58.3859897878331,-34.5783955977772,413,Portal Inclusivo 31. Edif. Policía Metropolitana,Espacio Público,Gestión previa HRL,,Disponible,Inclusión,"CASTILLO, RAMON S., PRES. AV.",1728,,Retiro,Comuna 1,1104,C1104BJQ,SITIO WIFI
+-58.4133764153874,-34.6383980825525,412,Distrito Tecnológico Caseros 3405,Espacio Público,Gestión previa HRL,jun-14,Disponible,Distrito Tecnológico,Caseros,3405,,Boedo,Comuna 5,1263,C1263AAD,SITIO WIFI
+-58.421423568286,-34.6066150460066,410,CeSAC Nº 38,Hospitales y Centros de Salud,Gestión previa HRL,jul-14,Disponible,CeSAC,Medrano,350,,Almagro,Comuna 5,1179,C1179AAF,SITIO WIFI
+-58.4997580382601,-34.6622416790384,408,CeSAC Nº 37,Hospitales y Centros de Salud,Gestión previa HRL,jul-14,Disponible,CeSAC,De los Corrales,0,Lisandro de la Torre,Mataderos,Comuna 9,,,SITIO WIFI
+-58.4054533177925,-34.6044909513013,407,Estación Corrientes - Línea H,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea H,CORRIENTES AV.,0,PUEYRREDON AV.,Balvanera,Comuna 3,,,SITIO WIFI
+-58.4137369658183,-34.6058146807227,402,Conservatorio Superior de Música Manuel de Falla,Espacio Público,Gestión previa HRL,jul-14,Disponible,Otros establecimientos,Gallo,238,,Almagro,Comuna 5,1172,C1172ABF,SITIO WIFI
+-58.410927363577,-34.6370431670748,401,Distrito Tecnológico Sánchez de Loria y Rondeau,Espacio Público,Gestión previa HRL,jun-14,Disponible,Distrito Tecnológico,Sánchez de Loria,0,Rondeau,Boedo,Comuna 5,,,SITIO WIFI
+-58.3776505339998,-34.6059998516346,400,Ministerio de Modernización,Espacio Público,Gestión previa HRL,jul-14,Disponible,Edificios del GCABA,roque saenz peña,788,,San Nicolas,Comuna 1,1035,C1035AAP,SITIO WIFI
+-58.4053974973795,-34.6045798760278,399,Espacio Subte Digital Pueyrredón - Línea B,Subte,Gestión previa HRL,jul-14,Disponible,Línea B,Corrientes,0,Pueyrredón,Balvanera,Comuna 3,,,SITIO WIFI
+-58.4116257957169,-34.6381590606751,398,Distrito Tecnológico Caseros y Almafuerte,Espacio Público,Gestión previa HRL,jun-14,Disponible,Distrito Tecnológico,Caseros,0,Almafuerte,Boedo,Comuna 5,,,SITIO WIFI
+-58.4417237544993,-34.5864524765445,397,CeSAC Nº 33,Hospitales y Centros de Salud,Gestión previa HRL,jul-14,Disponible,CeSAC,Cordoba,5741,,Palermo,Comuna 14,1414,C1414BBD,SITIO WIFI
+-58.4963609160044,-34.6678337863298,396,Centro de Día Nro. 24,Espacio Público,Gestión previa HRL,jul-14,Disponible,Inclusión,yrupe,6702,,Mataderos,Comuna 9,1440,C1440BND,SITIO WIFI
+-58.457660033764,-34.6725298671986,394,Centro de Atención Primaria de Alta Resolución Cecilia Grierson,Hospitales y Centros de Salud,Gestión previa HRL,abr-14,Disponible,Hospital,"FERNANDEZ DE LA CRUZ F, GRAL. AV.",0,ESCALADA  AV.,Villa Soldati,Comuna 8,,,SITIO WIFI
+-58.4045774073787,-34.6498846081489,393,CeSAC Nº 30,Hospitales y Centros de Salud,Gestión previa HRL,jul-14,Disponible,CeSAC,Amancio Alcorta,0,Iguazu,Nueva Pompeya,Comuna 4,,,SITIO WIFI
+-58.3746718346442,-34.6075645003778,392,Ministerio de Ambiente y Espacio Público,Espacio Público,Gestión previa HRL,jul-14,Disponible,Edificios del GCABA,roque saenz peña,570,,San Nicolas,Comuna 1,1035,C1035AAN,SITIO WIFI
+-58.4537123844365,-34.669509759596,391,Ciudad del Rock,Espacio Público,Gestión previa HRL,jul-14,No Disponible,Otros establecimientos,"FERNANDEZ DE LA CRUZ F, GRAL. AV.",0,ESCALADA  AV.,Villa Soldati,Comuna 8,,,SITIO WIFI
+-58.486683436646,-34.5476317749942,390,CeSAC Nº 27,Hospitales y Centros de Salud,Gestión previa HRL,jul-14,Disponible,CeSAC,Arias,3783,,Saavedra,Comuna 12,1430,C1430CRG,SITIO WIFI
+-58.3914207553958,-34.6044585464367,389,Corrientes 1750,Área Central,Gestión previa HRL,jun-14,Disponible,Corrientes,Corrientes,1750,,San Nicolas,Comuna 1,1042,C1042AAQ,SITIO WIFI
+-58.4760047448475,-34.5972607180698,388,Hogar San Martín,Espacio Público,Gestión previa HRL,jul-14,Disponible,Otros establecimientos,warnes,2650,,Paternal,Comuna 15,1427,C1427DPS,SITIO WIFI
+-58.4696396292697,-34.6307070870644,383,Estación San Pedrito - Línea A,Subte,Gestión previa HRL,,Disponible,Linea A,RIVADAVIA AV.,0,SAN PEDRITO AV.,Flores,Comuna 7,,,SITIO WIFI
+-58.4258094541084,-34.5873399935853,382,CeSAC Nº 26,Hospitales y Centros de Salud,Gestión previa HRL,abr-14,Disponible,CeSAC,GURRUCHAGA,1939,,Palermo,Comuna 14,1414,C1414DIM,SITIO WIFI
+-58.4669255986723,-34.6606733257315,381,CeSAC Nº 44,Hospitales y Centros de Salud,Gestión previa HRL,abr-14,Disponible,CeSAC,Saraza,4202,,Villa Lugano,Comuna 8,1439,C1439AOB,SITIO WIFI
+-58.3735054044568,-34.5846740543851,380,CeSAC Nº 21,Hospitales y Centros de Salud,Gestión previa HRL,abr-14,Disponible,CeSAC,GENDARMERIA NACIONAL,0,ANTARTIDA ARGENTINA,Retiro,Comuna 1,,,SITIO WIFI
+-58.3724690996508,-34.6207369448267,378,CeSAC Nº 15,Hospitales y Centros de Salud,Gestión previa HRL,abr-14,Disponible,CeSAC,HUMBERTO 1,470,,San Telmo,Comuna 1,1103,C1103ACJ,SITIO WIFI
+-58.4107336201407,-34.5987611653554,374,CeSAC Nº 11,Hospitales y Centros de Salud,Gestión previa HRL,abr-14,Disponible,CeSAC,AGUERO,940,,Balvanera,Comuna 3,1171,C1171ABP,SITIO WIFI
+-58.4203859523055,-34.5925995956523,373,CeSAC Nº 17,Hospitales y Centros de Salud,Gestión previa HRL,abr-14,Disponible,CeSAC,El Salvador,4087,,Palermo,Comuna 14,1175,C1175ACE,SITIO WIFI
+-58.4912679980381,-34.6781197412948,372,CeSAC Nº 7,Hospitales y Centros de Salud,Gestión previa HRL,abr-14,Disponible,CeSAC,2 DE ABRIL DE 1982,0,MONTIEL,Villa Lugano,Comuna 8,,,SITIO WIFI
+-58.3659501805946,-34.6401275037463,371,CeSAC Nº 9,Hospitales y Centros de Salud,Gestión previa HRL,abr-14,Disponible,CeSAC,IRALA,1254,,Boca,Comuna 4,1164,C1164ACD,SITIO WIFI
+-58.491803712615,-34.6219415635032,370,CeSAC Nº 36,Hospitales y Centros de Salud,Gestión previa HRL,jul-14,Disponible,CeSAC,Mercedes,1371,,Floresta,Comuna 10,1407,C1407AHY,SITIO WIFI
+-58.3823107735532,-34.6355920301867,362,Htal. Tobar García,Hospitales y Centros de Salud,Gestión previa HRL,jul-14,Disponible,Hospital,Ramón Carrillo,315,,Barracas,Comuna 4,1275,C1275AHG,SITIO WIFI
+-58.446934847961,-34.6350614133523,360,"Instituto Vocacional de Arte "" M. J. Labarden"" - Sede Curapaligue",Espacio Público,Gestión previa HRL,abr-14,Disponible,Otros establecimientos,Curapaligue,1026,,Parque Chacabuco,Comuna 7,1406,C1406DAX,SITIO WIFI
+-58.3705279423855,-34.589118059706,359,CeSAC Nº 25,Hospitales y Centros de Salud,Gestión previa HRL,abr-14,Disponible,CeSAC,LETONIA,0,ANTARTIDA ARGENTINA,Retiro,Comuna 1,,,SITIO WIFI
+-58.4027254390375,-34.6348915984303,352,Htal. Materno Infantil R. Sardá,Hospitales y Centros de Salud,Gestión previa HRL,jul-14,Disponible,Hospital,Esteban de Luca,2151,,Parque Patricios,Comuna 4,1246,C1246ABQ,SITIO WIFI
+-58.4635183093806,-34.6889179089334,351,Centro Cultural Saladillo,Espacio Público,Gestión previa HRL,41730,Disponible,Centro de Exposiciones y Culturales,Berón de Astrada,5920,,Villa Lugano,Comuna 8,1439,C1439DPB,SITIO WIFI
+-58.3886955916161,-34.6053058851314,350,Centro Cultural General San Martín,Espacio Público,Gestión previa HRL,abr-14,Disponible,Centro de Exposiciones y Culturales,Sarmiento,1551,,San Nicolas,Comuna 1,1042,C1042ABC,SITIO WIFI
+-58.389149770302,-34.627363456331,349,"Instituto Vocacional de Arte "" M. J. Labarden"" - Sede Garay",Espacio Público,Gestión previa HRL,abr-14,Disponible,Otros establecimientos,Garay,1684,,Constitucion,Comuna 1,1153,C1153ACO,SITIO WIFI
+-58.5017332862505,-34.6184941240534,348,Htal. de Rehabilitación M. Rocca,Hospitales y Centros de Salud,Gestión previa HRL,jul-14,Disponible,Hospital,Segurola,1949,,Monte Castro,Comuna 10,1407,C1407AOM,SITIO WIFI
+-58.4711132795588,-34.5649499384992,342,Htal. Pirovano,Hospitales y Centros de Salud,Gestión previa HRL,jul-14,Disponible,Hospital,Monroe,3555,,Coghlan,Comuna 12,1430,C1430BKC,SITIO WIFI
+-58.4098981772845,-34.6380844777246,340,Templete Parque Patricios,Espacio Público,Gestión previa HRL,abr-14,Disponible,Edificios del GCABA,Caseros,3250,,Parque Patricios,Comuna 4,1263,C1263AAO,SITIO WIFI
+-58.4109781945141,-34.5943918332999,324,Htal. General de Niños Ricardo Gutiérrez,Hospitales y Centros de Salud,Gestión previa HRL,abr-14,Disponible,Hospital,Gallo,1330,,Recoleta,Comuna 2,1425,C1425EFD,SITIO WIFI
+-58.4601694091779,-34.6054311064096,321,Htal. Lagleyze,Hospitales y Centros de Salud,Gestión previa HRL,jul-14,Disponible,Hospital,Juan B. Justo,4151,,Caballito,Comuna 6,1416,C1416DJI,SITIO WIFI
+-58.457486408659,-34.6532397909599,320,Portal Inclusivo Villa Soldati,Espacio Público,Gestión previa HRL,abr-14,Disponible,Inclusión,"Acosta, Mariano",2300,,Flores,Comuna 7,1407,C1407KCT,SITIO WIFI
+-58.4378869647628,-34.6088757951828,319,Htal. Durand,Hospitales y Centros de Salud,Gestión previa HRL,jul-14,Disponible,Hospital,Díaz Velez,5044,,Caballito,Comuna 6,1405,C1405DCS,SITIO WIFI
+-58.3914100359561,-34.6340996526617,314,Htal. de Gastroenterología B. Udaondo,Hospitales y Centros de Salud,Gestión previa HRL,jul-14,Disponible,Hospital,Caseros,2061,,Parque Patricios,Comuna 4,1264,C1264AAA,SITIO WIFI
+-58.4558386728106,-34.6565452646213,313,Plazoleta Lacarra y Somellera,Parques y Plazas,Gestión previa HRL,abr-14,Disponible,Parques y Plazas,Acosta,0,Castañares,Flores,Comuna 7,,,SITIO WIFI
+-58.3944342850862,-34.6226153068356,310,Htal. Santa Lucía,Hospitales y Centros de Salud,Gestión previa HRL,jul-14,Disponible,Hospital,AV SAN JUAN,2021,,San Cristobal,Comuna 3,1232,C1232AAC,SITIO WIFI
+-58.5079179241421,-34.5685328749955,308,Museo Cornelio Saavedra,Museos,Gestión previa HRL,jul-14,Disponible,Museos,Crisólogo Larralde,6293,,Saavedra,Comuna 12,1431,C1431AQE,SITIO WIFI
+-58.4183798656311,-34.5790617636533,307,Teatro Sarmiento,Espacio Público,Gestión previa HRL,abr-14,Disponible,Teatro,Sarmiento Av.,2715,,Palermo,Comuna 14,1425,C1425FGB,SITIO WIFI
+-58.4469301122518,-34.6449567302371,306,Planta Asfalto (EMUI),Espacio Público,Gestión previa HRL,jul-14,Disponible,Edificios del GCABA,Castañares,2350,,Flores,Comuna 7,1406,C1406IGW,SITIO WIFI
+-58.4029021724375,-34.5685386532384,305,Parque Manuel Belgrano (ex KTD),Parques y Plazas,Gestión previa HRL,1ra. ETAPA / Disponible,Disponible,Parques y Plazas,"SALGUERO, JERONIMO",3400,,Recoleta,Comuna 2,1425,C1425DFR,SITIO WIFI
+-58.3659244153058,-34.6278843798365,302,Htal. Argerich,Hospitales y Centros de Salud,Gestión previa HRL,jul-14,Disponible,Hospital,Pi y Margall,750,,Boca,Comuna 4,1155,C1155AHD,SITIO WIFI
+-58.4520283511224,-34.5902634785757,301,Centro Único de Coordinación y Control,Espacio Público,Gestión previa HRL,jul-14,Disponible,Edificios del GCABA,Newbery,0,Guzman,Chacarita,Comuna 15,,,SITIO WIFI
+-58.4431410853125,-34.6652895592504,300,SECHI,Espacio Público,Gestión previa HRL,jul-14,Disponible,Inclusión,"Acosta, Mariano",0,Corrales,Villa Soldati,Comuna 8,,,SITIO WIFI
+-58.4625239766791,-34.6359544244191,299,Ente de Higiene Urbana,Espacio Público,Gestión previa HRL,jul-14,Disponible,Edificios del GCABA,Varela,555,,Flores,Comuna 7,1406,C1406EKK,SITIO WIFI
+-58.3705064409783,-34.6120207338252,298,Ente de Turismo,Espacio Público,Gestión previa HRL,jul-14,Disponible,Edificios del GCABA,Balcarce,360,,Monserrat,Comuna 1,1064,C1064AAH,SITIO WIFI
+-58.4419465224494,-34.580057891379,297,Centro de Exposiciones El Dorrego,Espacio Público,Gestión previa HRL,jul-14,Disponible,Centro de Exposiciones y Culturales,Dorrego,0,Zapiola,Palermo,Comuna 14,,,SITIO WIFI
+-58.3901157642736,-34.6043592935059,296,Corrientes 1650,Área Central,Gestión previa HRL,jun-14,Disponible,Corrientes,Corrientes,1650,,San Nicolas,Comuna 1,1042,C1042AAP,SITIO WIFI
+-58.3902099111983,-34.581983456072,295,Centro Municipal de Exposiciones,Espacio Público,Gestión previa HRL,,No Disponible,Centro de Exposiciones y Culturales,"COUTURE, EDUARDO J.",0,LIBRES DEL SUR AV.,Recoleta,Comuna 2,,,SITIO WIFI
+-58.3548569013877,-34.6160299195915,294,Reserva Ecológica Costanera Sur (Salón eventos y oficinas),Parques y Plazas,Gestión previa HRL,jul-14,Disponible,Parques y Plazas,"ACHAVAL RODRIGUEZ, T., DR. AV.",1402,,Puerto Madero,Comuna 1,1107,C1107ACQ,SITIO WIFI
+-58.5093951086896,-34.576438493255,293,CeSAC Nº 2,Hospitales y Centros de Salud,Gestión previa HRL,jul-14,Disponible,CeSAC,Terrada,5850,,Villa Pueyrredon,Comuna 12,1419,C1419DML,SITIO WIFI
+-58.3871848722785,-34.6041262644881,292,Corrientes 1450,Área Central,Gestión previa HRL,jun-14,Disponible,Corrientes,Corrientes,1450,,San Nicolas,Comuna 1,1042,C1042AAN,SITIO WIFI
+-58.380697026129,-34.605494217604,291,Dirección Gral. de Infracciones,Espacio Público,Gestión previa HRL,,Disponible,Edificios del GCABA,Carlos Pellegrini,211,,San Nicolas,Comuna 1,1009,C1009ABE,SITIO WIFI
+-58.4115964109827,-34.6002795644387,290,Centro Cultural Alfonsina Storni,Espacio Público,Gestión previa HRL,,Disponible,Centro de Exposiciones y Culturales,TUCUMAN,3233,,Balvanera,Comuna 3,1189,C1189AAK,SITIO WIFI
+-58.4172183197889,-34.5918177680513,289,Centro Cultural Tato Bores,Espacio Público,Gestión previa HRL,,Disponible,Centro de Exposiciones y Culturales,SOLER,3929,,Palermo,Comuna 14,1425,C1425BWO,SITIO WIFI
+-58.4082197456076,-34.6077698204081,286,Agencia Gubenamental de Control,Espacio Público,Gestión previa HRL,,Disponible,Edificios del GCABA,"PERON, JUAN DOMINGO, TTE. GENERAL",2941,,Balvanera,Comuna 3,1198,C1198AAC,SITIO WIFI
+-58.3777581653677,-34.6075373695418,285,Ministerio de Educación GCBA,Espacio Público,Gestión previa HRL,,Disponible,Edificios del GCABA,Esmeralda,55,,San Nicolas,Comuna 1,1035,C1035ABA,SITIO WIFI
+-58.4361381568079,-34.6384719790709,284,Centro Cultural Plaza Flores,Espacio Público,Gestión previa HRL,,Disponible,Centro de Exposiciones y Culturales,Cachimayo,1675,,Parque Chacabuco,Comuna 7,1424,C1424ARS,SITIO WIFI
+-58.3842176489055,-34.6063520688123,283,Joaquín V. González,Biblioteca,Gestión previa HRL,,Disponible,Biblioteca,"PERON, JUAN DOMINGO, TTE. GENERAL",1242,,San Nicolas,Comuna 1,1038,C1038AAZ,SITIO WIFI
+-58.456448305911,-34.6378141566443,282,Mariano Pelliza,Biblioteca,Gestión previa HRL,,Disponible,Biblioteca,Cranwel,819,,Flores,Comuna 7,1406,C1406EBG,SITIO WIFI
+-58.4456640291629,-34.6451313677143,281,CeSAC Nº 40,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,CeSAC,BONORINO,1729,,Flores,Comuna 7,1406,C1406DNI,SITIO WIFI
+-58.4382975013565,-34.6340362105459,279,Estanislao del Campo,Biblioteca,Gestión previa HRL,,Disponible,Biblioteca,De las Artes,1210,,Parque Chacabuco,Comuna 7,1424,C1424BCH,SITIO WIFI
+-58.45570098793,-34.6580914282992,278,CeSAC Nº 24,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,CeSAC,Martinez Castro,0,Pasaje K,Villa Soldati,Comuna 8,,,SITIO WIFI
+-58.4311381001082,-34.6541690029844,277,CeSAC Nº 32,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,CeSAC,CHARRUA,2900,,Nueva Pompeya,Comuna 4,1437,C1437AYD,SITIO WIFI
+-58.4381036018771,-34.6493495324984,276,CeSAC Nº 20,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,CeSAC,CHARRUA,0,ANA MARIA JANER,Flores,Comuna 7,,,SITIO WIFI
+-58.4679642718882,-34.6737459977843,275,CeSAC Nº 18,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,CeSAC,Batlle Ordoñez,5080,,Villa Lugano,Comuna 8,1439,C1439CDL,SITIO WIFI
+-58.4945088836597,-34.6710145357295,274,CeSAC Nº 5,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,CeSAC,PIEDRA BUENA,3200,,Villa Lugano,Comuna 8,1439,C1439GVN,SITIO WIFI
+-58.4538277741592,-34.6442095473877,248,Htal. Piñero,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,Hospital,Varela,1301,,Flores,Comuna 7,1406,C1406ELA,SITIO WIFI
+-58.4397714727249,-34.5989689710426,247,Estación Malabia - Osvaldo Pugliese - Línea B,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea B,CORRIENTES AV.,0,Malabia,Villa Crespo,Comuna 15,,,SITIO WIFI
+-58.4209684054352,-34.603165969914,245,Estación Medrano - Línea B,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea B,CORRIENTES AV.,0,Medrano,Almagro,Comuna 5,,,SITIO WIFI
+-58.4412547631987,-34.6667551274028,238,CeSAC Nº 6,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,CeSAC,Rabanal,0,Mariano Acosta,Villa Soldati,Comuna 8,,,SITIO WIFI
+-58.3872962517645,-34.6040936483628,236,Estación Uruguay - Línea B,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea B,CORRIENTES AV.,0,URUGUAY,San Nicolas,Comuna 1,,,SITIO WIFI
+-58.4433986756609,-34.6340647280761,234,Centro Cultural Adán Buenosayres,Espacio Público,Gestión previa HRL,,Disponible,Centro de Exposiciones y Culturales,Asamblea,1200,,Parque Chacabuco,Comuna 7,1406,C1406HVO,SITIO WIFI
+-58.4057945515232,-34.6384045588822,233,Estación Parque Patricios - Línea H,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea H,CASEROS AV.,0,La Rioja,Parque Patricios,Comuna 4,,,SITIO WIFI
+-58.4337274628718,-34.6458706542364,227,CeSAC Nº 31,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,CeSAC,MOM,0,ANA MARIA JANER,Nueva Pompeya,Comuna 4,,,SITIO WIFI
+-58.3887117031641,-34.6042484290622,226,Corrientes 1550,Área Central,Gestión previa HRL,jun-14,Disponible,Corrientes,Corrientes,1550,,San Nicolas,Comuna 1,1042,C1042AAO,SITIO WIFI
+-58.3880545662544,-34.6148582303323,224,Alfonsina Storni y Martín Del Barco Centenera,Biblioteca,Gestión previa HRL,5ta. ETAPA / Noviembre 2012 (Bibliotecas Públicas),Disponible,Biblioteca,REPUBLICA BOLIVARIANA DE VENEZUELA,1538,,Monserrat,Comuna 1,1095,C1095ABF,SITIO WIFI
+-58.3892846584273,-34.649019022479,223,CeSAC Nº 1,Hospitales y Centros de Salud,Gestión previa HRL,jul-14,Disponible,CeSAC,Velez Sarsfield,1271,,Barracas,Comuna 4,1285,C1285AAB,SITIO WIFI
+-58.4114191098301,-34.5691150394096,222,Plaza Gould - Planetario,Parques y Plazas,Gestión previa HRL,,Disponible,Parques y Plazas,Av. Sarmiento,0,Figueroa Alcorta,Palermo,Comuna 14,,,SITIO WIFI
+-58.3636186705258,-34.631998248932,221,Zona parquizada en Blanes 500,Parques y Plazas,Gestión previa HRL,2da. ETAPA / Julio 2012,No Disponible,Parques y Plazas,"BLANES, JUAN MANUEL",500,,Boca,Comuna 4,1155,C1155ACJ,SITIO WIFI
+-58.3568738498806,-34.6286775379831,215,Usina del Arte,Espacio Público,Gestión previa HRL,,Disponible,Centro de Exposiciones y Culturales,DON PEDRO DE MENDOZA AV.,501,,Boca,Comuna 4,1156,C1156ACF,SITIO WIFI
+-58.4522605486246,-34.6790323550577,214,UGIS,Espacio Público,Gestión previa HRL,,Disponible,Edificios del GCABA,ESCALADA AV.,4501,,Villa Lugano,Comuna 8,1439,,SITIO WIFI
+-58.3741886796675,-34.5927778768162,213,Torre Monumental,Espacio Público,Gestión previa HRL,,Disponible,Museos,DEL LIBERTADOR AV.,49,,Retiro,Comuna 1,1001,C1001ABA,SITIO WIFI
+-58.3886178630316,-34.6043767825154,212,Teatro San Martín,Espacio Público,Gestión previa HRL,,Disponible,Teatro,CORRIENTES AV.,1530,,San Nicolas,Comuna 1,1042,C1042AAO,SITIO WIFI
+-58.4848591212175,-34.6457329604874,211,Subsede Comunal 9,Sede Comunal,Gestión previa HRL,,Disponible,Subede Comunal,DIRECTORIO AV.,4344,,Parque Avellaneda,Comuna 9,1407,C1407HGQ,SITIO WIFI
+-58.4410671831614,-34.6321643684323,210,Subsede Comunal 6,Sede Comunal,Gestión previa HRL,,Disponible,Subede Comunal,"MITRE, EMILIO",954,,Parque Chacabuco,Comuna 7,1424,C1424AYT,SITIO WIFI
+-58.410350960516,-34.6381304682077,209,Subsede Comunal 5,Sede Comunal,Gestión previa HRL,,Disponible,Subede Comunal,CASEROS AV.,3250,,Parque Patricios,Comuna 4,1263,C1263AAO,SITIO WIFI
+-58.4980980687797,-34.6014064306566,208,Subsede Comunal 11,Sede Comunal,Gestión previa HRL,,Disponible,Subede Comunal,"GUTIERREZ, RICARDO",3253,,Villa Del Parque,Comuna 11,1417,C1417ECA,SITIO WIFI
+-58.5049435876355,-34.6595468354037,207,Sede de Comuna 9,Sede Comunal,Gestión previa HRL,4ta. ETAPA / Septiembre 2012 (Sedes Comunales),Disponible,Sede Comunal,"GORDILLO, TIMOTEO",2212,,Mataderos,Comuna 9,1440,C1440EET,SITIO WIFI
+-58.455093197257,-34.6849235949623,206,Sede de Comuna 8,Sede Comunal,Gestión previa HRL,4ta. ETAPA / Septiembre 2012 (Sedes Comunales),Disponible,Sede Comunal,"ROCA, CNEL. AV.",5252,,Villa Riachuelo,Comuna 8,1439,C1439DVN,SITIO WIFI
+-58.4312329362698,-34.6089557385182,204,Sede de Comuna 6,Sede Comunal,Gestión previa HRL,4ta. ETAPA / Septiembre 2012 (Sedes Comunales),Disponible,Sede Comunal,DIAZ VELEZ AV.,4558,,Caballito,Comuna 6,1405,C1405DCN,SITIO WIFI
+-58.3939157470549,-34.623771234865,203,Sede de Comuna 5,Sede Comunal,Gestión previa HRL,4ta. ETAPA / Septiembre 2012 (Sedes Comunales),Disponible,Sede Comunal,SARANDI,1273,,San Cristobal,Comuna 3,1251,C1251ADA,SITIO WIFI
+-58.3922508692999,-34.6284011836441,202,Polo Circo,Espacio Público,Gestión previa HRL,,Disponible,Centro de Exposiciones y Culturales,COMBATE DE LOS POZOS,1700,Av. Juan de Garay,Parque Patricios,Comuna 4,1245,C1245AAJ,SITIO WIFI
+-58.4247170117109,-34.6502263309905,201,Sede de Comuna 4,Sede Comunal,Gestión previa HRL,4ta. ETAPA / Septiembre 2012 (Sedes Comunales),Disponible,Sede Comunal,"CALDERON DE LA BARCA, PEDRO",2906,,Villa Devoto,Comuna 11,1417,C1417CIX,SITIO WIFI
+-58.3966816232213,-34.6030254923214,200,Sede de Comuna 3,Sede Comunal,Gestión previa HRL,4ta. ETAPA / Septiembre 2012 (Sedes Comunales),Disponible,Sede Comunal,JUNIN,521,,Balvanera,Comuna 3,1026,C1026ABK,SITIO WIFI
+-58.3936249720034,-34.5889216086894,199,Subsede Comunal 2,Sede Comunal,Gestión previa HRL,4ta. ETAPA / Septiembre 2012 (Sedes Comunales),Disponible,Subede Comunal,Vicente Lopez,2050,,Recoleta,Comuna 2,1128,C1128ACF,SITIO WIFI
+-58.3990151523522,-34.5967187592215,197,Sede de Comuna 2,Sede Comunal,Gestión previa HRL,4ta. ETAPA / Septiembre 2012 (Sedes Comunales),Disponible,Sede Comunal,"URIBURU JOSE E., Pres.",1022,,Recoleta,Comuna 2,1114,C1114AAF,SITIO WIFI
+-58.441445440358,-34.5870408901359,196,Sede de Comuna 15,Sede Comunal,Gestión previa HRL,4ta. ETAPA / Septiembre 2012 (Sedes Comunales),Disponible,Sede Comunal,CORDOBA AV.,5690,,Chacarita,Comuna 15,1414,C1414BBP,SITIO WIFI
+-58.4090752291575,-34.5871946684559,195,Sede de Comuna 14,Sede Comunal,Gestión previa HRL,4ta. ETAPA / Septiembre 2012 (Sedes Comunales),Disponible,Sede Comunal,BERUTI,3325,,Palermo,Comuna 14,1425,C1425BBQ,SITIO WIFI
+-58.4639856684465,-34.5536943583089,192,Sede de Comuna 13,Sede Comunal,Gestión previa HRL,4ta. ETAPA / Septiembre 2012 (Sedes Comunales),Disponible,Sede Comunal,CABILDO AV.,3067,,Nuñez,Comuna 13,1429,C1429AAB,SITIO WIFI
+-58.4827880530232,-34.568623669496,191,Sede de Comuna 12,Sede Comunal,Gestión previa HRL,4ta. ETAPA / Septiembre 2012 (Sedes Comunales),Disponible,Sede Comunal,MILLER,2751,,Villa Urquiza,Comuna 12,1431,C1431GEC,SITIO WIFI
+-58.516082742722,-34.6082133321452,188,Sede de Comuna 11,Sede Comunal,Gestión previa HRL,4ta. ETAPA / Septiembre 2012 (Sedes Comunales),Disponible,Sede Comunal,"BEIRO, FRANCISCO AV.",4629,,Villa Devoto,Comuna 11,1419,C1419HZI,SITIO WIFI
+-58.4832881684959,-34.6318212184487,187,Sede de Comuna 10,Sede Comunal,Gestión previa HRL,4ta. ETAPA / Septiembre 2012 (Sedes Comunales),Disponible,Sede Comunal,BACACAY,3952,,Floresta,Comuna 10,1407,C1407EDN,SITIO WIFI
+-58.3870218543798,-34.600087448613,186,Sede de Comuna 1,Sede Comunal,Gestión previa HRL,4ta. ETAPA / Septiembre 2012 (Sedes Comunales),Disponible,Sede Comunal,URUGUAY AV.,740,,San Nicolas,Comuna 1,1015,C1015ABP,SITIO WIFI
+-58.4486314420913,-34.5612503363944,185,Reina Batata (Infantil),Biblioteca,Gestión previa HRL,5ta. ETAPA / Noviembre 2012 (Bibliotecas Públicas),Disponible,Biblioteca,LA PAMPA,0,11 DE SEPTIEMBRE DE 1888,Belgrano,Comuna 13,,,SITIO WIFI
+-58.3934316670673,-34.5848979513757,184,Pza. Alvear / Pza. Francia,Parques y Plazas,Gestión previa HRL,1ra. ETAPA / Disponible,Disponible,Parques y Plazas,DEL LIBERTADOR AV.,0,PUEYRREDON AV.,Recoleta,Comuna 2,,,SITIO WIFI
+-58.4551593478383,-34.6559969530935,183,Portal Inclusivo Barrio Ramón Carrillo,Espacio Público,Gestión previa HRL,,Disponible,Inclusión,"ACOSTA, MARIANO",0,PASAJE K,Villa Soldati,Comuna 8,,,SITIO WIFI
+-58.3761724022273,-34.6524242517934,182,Centro de Primera Infancia PULGARCITO,Espacio Público,Gestión previa HRL,jul-14,Disponible,Inclusión,Osvaldo Cruz,2101,,Barracas,Comuna 4,1293,C1293ACF,SITIO WIFI
+-58.4682314851085,-34.6766089076151,181,Portal Inclusivo 20,Espacio Público,Gestión previa HRL,,Disponible,Inclusión,FONROUGE,4251,,Villa Lugano,Comuna 8,1439,C1439EMI,SITIO WIFI
+-58.4458941159998,-34.6490164442575,180,Portal Inclusivo 1 - 11 - 14,Espacio Público,Gestión previa HRL,,Disponible,Inclusión,VARELA AV.,0,CASTAÑARES AV.,Flores,Comuna 7,,,SITIO WIFI
+-58.4001920162782,-34.655829409226,179,Portal Inclusivo 21 - 24,Espacio Público,Gestión previa HRL,,Disponible,Inclusión,"CRUZ, OSVALDO",0,ZAVALETA,Barracas,Comuna 4,,,SITIO WIFI
+-58.3917027809038,-34.5878084532115,177,Plazoleta Juan XXIII,Parques y Plazas,Gestión previa HRL,,Disponible,Parques y Plazas,"ORTIZ, ROBERTO M., Pres.",0,"QUINTANA, MANUEL, PRES. AV.",Recoleta,Comuna 2,,,SITIO WIFI
+-58.3827005890398,-34.600623726802,176,Plaza Vaticano,Parques y Plazas,Gestión previa HRL,,Disponible,Parques y Plazas,VIAMONTE,0,CERRITO,San Nicolas,Comuna 1,,,SITIO WIFI
+-58.3755546858542,-34.5945230004445,175,Plaza San Martín,Parques y Plazas,Gestión previa HRL,,Disponible,Parques y Plazas,SUIPACHA,1300,,Retiro,Comuna 1,1011,C1011ACB,SITIO WIFI
+-58.4074297175613,-34.6097297557152,174,Plaza Miserere,Parques y Plazas,Gestión previa HRL,3ra. ETAPA / Agosto 2012,No Disponible,Parques y Plazas,RIVADAVIA AV.,0,JUJUY AV.,Balvanera,Comuna 3,,,SITIO WIFI
+-58.3845916538931,-34.6009632750952,173,Plaza Lavalle,Parques y Plazas,Gestión previa HRL,1ra. ETAPA / Disponible,Disponible,Parques y Plazas,TUCUMAN,0,TALCAHUANO,San Nicolas,Comuna 1,,,SITIO WIFI
+-58.4578191782195,-34.6146891377429,172,Plaza Irlanda,Parques y Plazas,Gestión previa HRL,2da. ETAPA / Julio 2012,Disponible,Parques y Plazas,GAONA AV.,0,"ALVAREZ, DONATO, Tte. Gral.",Caballito,Comuna 6,,,SITIO WIFI
+-58.3981426030067,-34.599140621116,170,Plaza Houssay,Parques y Plazas,Gestión previa HRL,,Disponible,Parques y Plazas,CORDOBA AV.,2100,,Balvanera,Comuna 3,1120,C1120AAP,SITIO WIFI
+-58.4548225713544,-34.5616662614927,169,Plaza Gral. Manuel Belgrano,Parques y Plazas,Gestión previa HRL,3ra. ETAPA / Agosto 2012,Disponible,Parques y Plazas,VUELTA DE OBLIGADO,0,JURAMENTO AV.,Belgrano,Comuna 13,,,SITIO WIFI
+-58.4711358697304,-34.6555952356387,168,Portal Inclusivo 6 - Bo. Cildañez -,Espacio Público,Gestión previa HRL,,Disponible,Inclusión,SAN JUAN BAUTISTA DE LA SALLE AV.,0,DERQUI AV.,Parque Avellaneda,Comuna 9,,,SITIO WIFI
+-58.5078090359757,-34.6258021242455,167,Plaza Don Bosco,Parques y Plazas,Gestión previa HRL,2da. ETAPA / Julio 2012,Disponible,Parques y Plazas,"CALDERON DE LA BARCA, PEDRO",1500,,Monte Castro,Comuna 10,1407,C1407KQD,SITIO WIFI
+-58.372155010386,-34.6084164667754,166,Plaza de Mayo,Parques y Plazas,Gestión previa HRL,1ra. ETAPA / Disponible,Disponible,Parques y Plazas,"YRIGOYEN, HIPOLITO AV.",0,DEFENSA,Monserrat,Comuna 1,,,SITIO WIFI
+-58.3816295807524,-34.6033146431118,163,Plaza de la Republica,Parques y Plazas,Primera etapa HRL,Julio-16,Disponible,Parques y Plazas,CORRIENTES AV.,0,9 DE JULIO AV.,San Nicolas,Comuna 1,,,SITIO WIFI
+-58.5126416456152,-34.6426040640063,162,Plaza Cnel. Martin Irigoyen,Parques y Plazas,Gestión previa HRL,2da. ETAPA / Julio 2012,No Disponible,Parques y Plazas,FONROUGE,0,GARCIA DE COSSIO,Liniers,Comuna 9,,,SITIO WIFI
+-58.385466970352,-34.5859523500753,161,Plaza Austria,Parques y Plazas,Gestión previa HRL,3ra. ETAPA / Agosto 2012,No Disponible,Parques y Plazas,DEL LIBERTADOR AV.,0,"FIGUEROA ALCORTA, PRES. AV.",Recoleta,Comuna 2,,,SITIO WIFI
+-58.5122468954911,-34.5993846139389,160,Plaza Arenales (Pza. Devoto),Parques y Plazas,Gestión previa HRL,2da. ETAPA / Julio 2012,Disponible,Parques y Plazas,MERCEDES,0,PAREJA,Villa Devoto,Comuna 11,,,SITIO WIFI
+-58.4191070873107,-34.6057623846296,159,Plaza Almagro,Parques y Plazas,Gestión previa HRL,3ra. ETAPA / Agosto 2012,No Disponible,Parques y Plazas,BULNES,0,SARMIENTO,Almagro,Comuna 5,,,SITIO WIFI
+-58.3806496804856,-34.6054758733795,158,Edificio del Plata,Espacio Público,Gestión previa HRL,1ra. ETAPA / Disponible,Disponible,Edificios del GCABA,"PELLEGRINI, CARLOS",200,,San Nicolas,Comuna 1,1009,C1009ABD,SITIO WIFI
+-58.3745760174691,-34.6084004956973,157,Patio de la Cultura,Espacio Público,Gestión previa HRL,,Disponible,Edificios del GCABA,DE MAYO AV.,575,,Monserrat,Comuna 1,1084,C1084AAA,SITIO WIFI
+-58.4292190268849,-34.6152573675007,156,Paseo de la Victoria,Espacio Público,Gestión previa HRL,,Disponible,Parques y Plazas,LA PLATA AV.,0,"YRIGOYEN, HIPOLITO AV.",Caballito,Comuna 6,,,SITIO WIFI
+-58.3801201108702,-34.6485270669411,155,CeSAC Nº 16,Hospitales y Centros de Salud,Gestión previa HRL,jul-14,Disponible,CeSAC,California,2346,,Barracas,Comuna 4,1289,C1289ABB,SITIO WIFI
+-58.3937819801425,-34.5890715496828,153,Paseo de la Recoleta,Parques y Plazas,Gestión previa HRL,3ra. ETAPA / Agosto 2012,Disponible,Parques y Plazas,JUNIN,0,"LOPEZ, VICENTE",Recoleta,Comuna 2,,,SITIO WIFI
+-58.3876741274401,-34.5843937484623,152,Parque Thays,Parques y Plazas,Gestión previa HRL,3ra. ETAPA / Agosto 2012,No Disponible,Parques y Plazas,DEL LIBERTADOR AV.,0,CALLAO AV.,Recoleta,Comuna 2,,,SITIO WIFI
+-58.4997723194923,-34.5573636158096,149,Parque Sarmiento,Parques y Plazas,Gestión previa HRL,1ra. ETAPA / Disponible,Disponible,Parques y Plazas,"BALBIN, RICARDO, DR. AV.",4750,,Saavedra,Comuna 12,1430,C1430ABS,SITIO WIFI
+-58.5140684161612,-34.64782921422,148,Parque Santojanni,Parques y Plazas,Gestión previa HRL,2da. ETAPA / Julio 2012,Disponible,Parques y Plazas,"LEGUIZAMON, MARTINIANO",0,PATRON,Liniers,Comuna 9,,,SITIO WIFI
+-58.4633619124008,-34.6654501832529,147,BA Playa (Parque Indoamericano),Parques y Plazas,Gestión previa HRL,,No Disponible,Parques y Plazas,ESCALADA AV.,0,CASTAÑARES AV.,Villa Soldati,Comuna 8,,,SITIO WIFI
+-58.4413459514516,-34.674653689653,145,Parque Roca,Parques y Plazas,Gestión previa HRL,3ra. ETAPA / Agosto 2012,Disponible,Parques y Plazas,"ROCA, CNEL. AV.",3400,,Villa Soldati,Comuna 8,1437,C1437FQU,SITIO WIFI
+-58.4067585768478,-34.63861027923,144,Parque Patricios,Parques y Plazas,Gestión previa HRL,3ra. ETAPA / Agosto 2012,Disponible,Parques y Plazas,USPALLATA,0,MONTEAGUDO,Parque Patricios,Comuna 4,,,SITIO WIFI
+-58.3920022966056,-34.5828076747071,143,Facultad de Derecho,Espacio Público,Gestión previa HRL,,Disponible,Otros establecimientos,alcorta,0,PUEYRREDON AV.,Recoleta,Comuna 2,,,SITIO WIFI
+-58.450454777315,-34.5898896102022,142,Parque Los Andes,Parques y Plazas,Gestión previa HRL,1ra. ETAPA / Disponible,Disponible,Parques y Plazas,CORRIENTES AV.,0,"ARENAL, CONCEPCION",Chacarita,Comuna 15,,,SITIO WIFI
+-58.3692069287033,-34.6268373499491,141,Parque Lezama,Parques y Plazas,Gestión previa HRL,1ra. ETAPA / Disponible,Disponible,Parques y Plazas,"GARCIA, MARTIN AV.",0,DEFENSA,Barracas,Comuna 4,,,SITIO WIFI
+-58.4591109950492,-34.6652987965427,140,Parque Indoamericano,Parques y Plazas,Gestión previa HRL,1ra. ETAPA / Disponible,Disponible,Parques y Plazas,ESCALADA AV.,0,CASTAÑARES AV.,Villa Soldati,Comuna 8,,,SITIO WIFI
+-58.3854147571991,-34.6338288332998,139,Parque España,Parques y Plazas,Gestión previa HRL,3ra. ETAPA / Agosto 2012,Disponible,Parques y Plazas,"ALCORTA, AMANCIO AV.",0,BAIGORRI,Barracas,Comuna 4,,,SITIO WIFI
+-58.4577579497587,-34.5284958723103,138,Parque de los Niños,Parques y Plazas,Gestión previa HRL,3ra. ETAPA / Agosto 2012,Disponible,Parques y Plazas,"PAZ, GRAL. AV.",0,"CANTILO, Int.",Nuñez,Comuna 13,,,SITIO WIFI
+-58.4727952904743,-34.5978293680767,137,Parque del Hospital Alvear,Parques y Plazas,Gestión previa HRL,2da. ETAPA / Julio 2012,No Disponible,Parques y Plazas,WARNES AV.,2600,,Paternal,Comuna 15,1427,C1427DPR,SITIO WIFI
+-58.4585264176268,-34.6793026146634,136,Parque de las Victorias,Parques y Plazas,Gestión previa HRL,3ra. ETAPA / Agosto 2012,Disponible,Parques y Plazas,"ROCA, CNEL. AV.",0,LARRAZABAL AV.,Villa Lugano,Comuna 8,,,SITIO WIFI
+-58.4382144015995,-34.5410387601409,135,Parque de la Memoria,Parques y Plazas,Gestión previa HRL,1ra. ETAPA / Disponible,Disponible,Parques y Plazas,"OBLIGADO RAFAEL, Av.Costanera",5700,,Palermo,Comuna 14,,,SITIO WIFI
+-58.4510940952315,-34.6717343086363,133,Parque de la Ciudad,Parques y Plazas,Gestión previa HRL,2da. ETAPA / Julio 2012,Disponible,Parques y Plazas,"FERNANDEZ DE LA CRUZ, F., GRAL. AV.",0,ESCALADA AV.,Villa Soldati,Comuna 8,,,SITIO WIFI
+-58.4422012066418,-34.6347811925796,131,Parque Chacabuco - Extensión,Parques y Plazas,Gestión previa HRL,3ra. ETAPA / Agosto 2012,Disponible,Parques y Plazas,ASAMBLEA AV.,0,CURAPALIGUE AV.,Parque Chacabuco,Comuna 7,,,SITIO WIFI
+-58.4429484187357,-34.634943956263,130,Parque Chacabuco,Parques y Plazas,Gestión previa HRL,1ra. ETAPA / Disponible,Disponible,Parques y Plazas,"PERON, EVA AV.",0,CURAPALIGUE,Parque Chacabuco,Comuna 7,,,SITIO WIFI
+-58.4375498244725,-34.6070592787276,129,Parque Centenario - Extensión,Parques y Plazas,Gestión previa HRL,,Disponible,Parques y Plazas,DIAZ VELEZ AV.,0,"LOBOS, ELEODORO, Dr.",Caballito,Comuna 6,,,SITIO WIFI
+-58.4357032105035,-34.6065385142438,128,Parque Centenario,Parques y Plazas,Gestión previa HRL,1ra. ETAPA / Disponible,Disponible,Parques y Plazas,DIAZ VELEZ AV.,0,"LOBOS, ELEODORO, Dr.",Caballito,Comuna 6,,,SITIO WIFI
+-58.4791780437483,-34.6451854780061,127,Parque Avellaneda,Parques y Plazas,Gestión previa HRL,3ra. ETAPA / Agosto 2012,Disponible,Parques y Plazas,DIRECTORIO AV.,0,LACARRA,Parque Avellaneda,Comuna 9,,,SITIO WIFI
+-58.4111364526019,-34.5753442218395,126,Parque 3 de Febrero,Parques y Plazas,Gestión previa HRL,3ra. ETAPA / Agosto 2012,No Disponible,Parques y Plazas,CASARES AV.,0,DEL LIBERTADOR AV.,Palermo,Comuna 14,,,SITIO WIFI
+-58.421432051906,-34.5705766106117,125,Museo Sívori,Museos,Gestión previa HRL,,Disponible,Museos,"ISABEL, INFANTA AV.",555,,Palermo,Comuna 14,,,SITIO WIFI
+-58.4525188846841,-34.6177388141442,124,Museo Luis Perlotti,Museos,Gestión previa HRL,,Disponible,Museos,PUJOL,642,,Caballito,Comuna 6,1405,C1405ALD,SITIO WIFI
+-58.4556919522339,-34.5612675974179,123,Museo Larreta,Museos,Gestión previa HRL,,Disponible,Museos,JURAMENTO AV.,2291,,Belgrano,Comuna 13,1428,C1428DNK,SITIO WIFI
+-58.4049701604744,-34.5796091968091,122,Museo José Hernández,Museos,Gestión previa HRL,,Disponible,Museos,DEL LIBERTADOR AV.,2373,,Palermo,Comuna 14,1425,C1425AAJ,SITIO WIFI
+-58.3802370529598,-34.5910625898017,121,Museo Fernández Blanco,Museos,Gestión previa HRL,,Disponible,Museos,SUIPACHA,1422,,Retiro,Comuna 1,1011,C1011ACF,SITIO WIFI
+-58.3790730227328,-34.6389385776601,120,Museo del Cine Pablo Ducros Hicken,Museos,Gestión previa HRL,,Disponible,Museos,"SALMUN FEIJOO, JOSE AARON",555,,Barracas,Comuna 4,1274,C1274AGE,SITIO WIFI
+-58.3570953812576,-34.6294879750609,119,Museo del Cine,Museos,Gestión previa HRL,,Disponible,Museos,"CAFFARENA, AGUSTIN R.",49,,Boca,Comuna 4,1157,C1157ADA,SITIO WIFI
+-58.3722231289722,-34.6104476482741,117,Museo de la Ciudad,Museos,Gestión previa HRL,,Disponible,Museos,DEFENSA,219,,Monserrat,Comuna 1,1065,C1065AAC,SITIO WIFI
+-58.3705271174278,-34.6219734371874,116,Museo de Arte Moderno (MAMBA),Museos,Gestión previa HRL,,Disponible,Museos,SAN JUAN AV.,350,,San Telmo,Comuna 1,1147,C1147AAO,SITIO WIFI
+-58.4077622868369,-34.6016784123375,115,Museo Carlos Gardel,Museos,Gestión previa HRL,,Disponible,Museos,"JAURES, JEAN",735,,Balvanera,Comuna 3,1215,C1215ACM,SITIO WIFI
+-58.5264579247518,-34.6348297946947,114,Miguel Cané,Biblioteca,Gestión previa HRL,,Disponible,Biblioteca,"JUSTO, JUAN B. AV.",9668,,Liniers,Comuna 9,1408,C1408ALN,SITIO WIFI
+-58.3890008786666,-34.5995792789846,113,Manuel Gálvez,Biblioteca,Gestión previa HRL,5ta. ETAPA / Noviembre 2012 (Bibliotecas Públicas),Disponible,Biblioteca,CORDOBA AV.,1558,,San Nicolas,Comuna 1,1055,C1055AAS,SITIO WIFI
+-58.452597381931,-34.5636772401267,112,Leopoldo Lugones,Biblioteca,Gestión previa HRL,5ta. ETAPA / Noviembre 2012 (Bibliotecas Públicas),Disponible,Biblioteca,LA PAMPA,2215,,Belgrano,Comuna 13,1428,C1428EAM,SITIO WIFI
+-58.4299312778028,-34.5978075534664,111,Julio Cortázar,Biblioteca,Gestión previa HRL,5ta. ETAPA / Noviembre 2012 (Bibliotecas Públicas),Disponible,Biblioteca,LAVALLEJA,924,,Villa Crespo,Comuna 15,1414,C1414DTT,SITIO WIFI
+-58.4743663619951,-34.6651895954544,110,Julio César Saguier,Biblioteca,Gestión previa HRL,5ta. ETAPA / Noviembre 2012 (Bibliotecas Públicas),Disponible,Biblioteca,ESCALADA AV.,0,"DELLEPIANE, LUIS, TTE. GRAL.",Villa Lugano,Comuna 8,,,SITIO WIFI
+-58.461819784399,-34.5648527685518,109,José Mármol,Biblioteca,Gestión previa HRL,5ta. ETAPA / Noviembre 2012 (Bibliotecas Públicas),Disponible,Biblioteca,JURAMENTO,2937,,Belgrano,Comuna 13,1428,C1428DNY,SITIO WIFI
+-58.4290247865609,-34.6594926116402,108,Centro Cultural Eladia Blázquez,Espacio Público,Gestión previa HRL,,Disponible,Centro de Exposiciones y Culturales,Rabanal,2275,,Villa Soldati,Comuna 8,1437,C1437FPJ,SITIO WIFI
+-58.4363824199916,-34.6479026144033,107,Javier Villafañe,Biblioteca,Gestión previa HRL,5ta. ETAPA / Noviembre 2012 (Bibliotecas Públicas),Disponible,Biblioteca,"JANER, ANA MARIA",0,"TORRES Y TENORIO, Pres.",Flores,Comuna 7,,,SITIO WIFI
+-58.4910133329428,-34.5505371979479,106,Parque del Precinto 12 (Plaza Hungría),Espacio Público,Gestión previa HRL,abr-14,Disponible,Parques y Plazas,Goyeneche,0,Ramallo,Saavedra,Comuna 12,,,SITIO WIFI
+-58.3601267430461,-34.6388929303699,105,Htal. Quinquela Martín,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,Hospital,DON PEDRO DE MENDOZA AV.,1795,,Boca,Comuna 4,1169,C1169AAB,SITIO WIFI
+-58.3774643247022,-34.628971063891,103,Htal. Pedro Elizalde,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,Hospital,"MONTES DE OCA, MANUEL",40,,Barracas,Comuna 4,1270,C1270AAN,SITIO WIFI
+-58.375845218526,-34.630212291207,102,Htal. Maria Ferrer,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,Hospital,FINOCHIETTO ENRIQUE DR.,849,,Barracas,Comuna 4,1272,C1272AAA,SITIO WIFI
+-58.4331500579085,-34.6071615843299,101,Htal. Maria Curie,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,Hospital,CANGALLO,0,PATRICIAS ARGENTINAS AV.,Caballito,Comuna 6,,,SITIO WIFI
+-58.3914415333471,-34.6394813054312,99,Htal. Muñiz,Hospitales y Centros de Salud,Gestión previa HRL,3ra. ETAPA / Agosto 2012,Disponible,Hospital,USPALLATA,2200,,Parque Patricios,Comuna 4,1282,C1282AEL,SITIO WIFI
+-58.3812555665489,-34.6099440878641,98,Estación Yrigoyen,Metrobus,Gestión previa HRL,,Disponible,9 de Julio,9 DE JULIO AV.,0,"YRIGOYEN, HIPOLITO",Monserrat,Comuna 1,,,SITIO WIFI
+-58.381030356945,-34.6145006069406,97,Estación Venezuela,Metrobus,Gestión previa HRL,,Disponible,9 de Julio,9 DE JULIO AV.,0,REPUBLICA BOLIVARIANA DE VENEZUELA,Monserrat,Comuna 1,,,SITIO WIFI
+-58.3818123103929,-34.6005804300295,96,Estación Teatro Colón,Metrobus,Gestión previa HRL,,Disponible,9 de Julio,9 DE JULIO AV.,0,VIAMONTE,San Nicolas,Comuna 1,,,SITIO WIFI
+-58.3821303401802,-34.595845005054,95,Estación Santa Fe,Metrobus,Gestión previa HRL,,Disponible,9 de Julio,9 DE JULIO AV.,0,SANTA FE AV.,Retiro,Comuna 1,,,SITIO WIFI
+-58.5156373291473,-34.6491866976531,94,Htal. Santojanni,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,Hospital,PILAR,950,,Liniers,Comuna 9,1408,C1408INH,SITIO WIFI
+-58.3818950222302,-34.5982531573038,93,Estación Paraguay,Metrobus,Gestión previa HRL,,Disponible,9 de Julio,9 DE JULIO AV.,0,PARAGUAY,Retiro,Comuna 1,,,SITIO WIFI
+-58.3815394202477,-34.6053778858849,92,Estación Obelisco Sur,Metrobus,Gestión previa HRL,,Disponible,9 de Julio,9 DE JULIO AV.,0,SARMIENTO,San Nicolas,Comuna 1,,,SITIO WIFI
+-58.3817535578343,-34.6017254419825,91,Estación Obelisco Norte,Metrobus,Gestión previa HRL,,Disponible,9 de Julio,9 DE JULIO AV.,0,TUCUMAN,San Nicolas,Comuna 1,,,SITIO WIFI
+-58.3813918661665,-34.6075846089842,90,Estación Mitre,Metrobus,Gestión previa HRL,,Disponible,9 de Julio,9 DE JULIO AV.,0,"MITRE, BARTOLOME",San Nicolas,Comuna 1,,,SITIO WIFI
+-58.3809905284027,-34.6155097729598,89,Estación México,Metrobus,Gestión previa HRL,,Disponible,9 de Julio,9 DE JULIO AV.,0,MEXICO,Monserrat,Comuna 1,,,SITIO WIFI
+-58.3820015194344,-34.5971201763966,88,Estación Marcelo T. de Alvear,Metrobus,Gestión previa HRL,,Disponible,9 de Julio,9 DE JULIO AV.,0,"ALVEAR, MARCELO T. De",Retiro,Comuna 1,,,SITIO WIFI
+-58.4863875242843,-34.5743238335171,87,Estación Juan Manuel de Rosas - Línea B,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea B,TRIUNVIRATO AV.,0,MONROE,Villa Urquiza,Comuna 12,,,SITIO WIFI
+-58.3814587397799,-34.6064568154422,82,Estación Juan D. Perón,Metrobus,Gestión previa HRL,,Disponible,9 de Julio,9 DE JULIO AV.,0,"PERON, JUAN DOMINGO, TTE. GENERAL",San Nicolas,Comuna 1,,,SITIO WIFI
+-58.444300153847,-34.5947640307614,81,"Metrobus Juan B. Justo, Estación Av. Corrientes",Metrobus,Segunda etapa HRL,2015,Disponible,Juan B. Justo,CORRIENTES AV.,0,"JUSTO, JUAN B. AV.",Villa Crespo,Comuna 15,,,SITIO WIFI
+-58.3808827691278,-34.6178904773706,80,Estación Independencia,Metrobus,Gestión previa HRL,,Disponible,9 de Julio,9 DE JULIO AV.,0,INDEPENDENCIA AV.,Monserrat,Comuna 1,,,SITIO WIFI
+-58.4810166134957,-34.5777972373359,78,Estación Esteban Echeverría - Línea B,Subte,Segunda etapa HRL,Julio-2017,Disponible,Línea B,TRIUNVIRATO AV.,0,JURAMENTO,Villa Urquiza,Comuna 12,,,SITIO WIFI
+-58.3808540572395,-34.6188767140538,75,Estación Estados Unidos,Metrobus,Gestión previa HRL,,Disponible,9 de Julio,9 DE JULIO AV.,0,ESTADOS UNIDOS,Constitucion,Comuna 1,,,SITIO WIFI
+-58.3818550522952,-34.5994274672618,74,Estación Córdoba,Metrobus,Gestión previa HRL,,Disponible,9 de Julio,9 DE JULIO AV.,0,CORDOBA AV.,Retiro,Comuna 1,,,SITIO WIFI
+-58.3809449927938,-34.6166794883139,73,Estación Chile,Metrobus,Gestión previa HRL,,Disponible,9 de Julio,9 DE JULIO AV.,0,CHILE,Monserrat,Comuna 1,,,SITIO WIFI
+-58.3810424601935,-34.6134730732241,72,Estación Belgrano,Metrobus,Gestión previa HRL,,Disponible,9 de Julio,9 DE JULIO AV.,0,BELGRANO AV.,Monserrat,Comuna 1,,,SITIO WIFI
+-58.381171727514,-34.611070891371,71,Estación Alsina,Metrobus,Gestión previa HRL,,Disponible,9 de Julio,9 DE JULIO AV.,0,"ALSINA, ADOLFO",Monserrat,Comuna 1,,,SITIO WIFI
+-58.4077330908641,-34.6379349572243,70,Enrique Banchs,Biblioteca,Gestión previa HRL,5ta. ETAPA / Noviembre 2012 (Bibliotecas Públicas),Disponible,Biblioteca,CASEROS AV.,0,"URQUIZA, Gral.",Parque Patricios,Comuna 4,,,SITIO WIFI
+-58.4746023514832,-34.676923360823,69,El Progreso,Biblioteca,Gestión previa HRL,5ta. ETAPA / Noviembre 2012 (Bibliotecas Públicas),Disponible,Biblioteca,RIESTRA AV.,5655,,Villa Lugano,Comuna 8,1439,C1439BYH,SITIO WIFI
+-58.4306325651446,-34.5573351679207,68,Dirección Gral. Sist. Pluviales,Espacio Público,Gestión previa HRL,,Disponible,Edificios del GCABA,"BELLO, ANDRES",0,"BUNGE, Int.",Palermo,Comuna 14,,,SITIO WIFI
+-58.3602658369178,-34.6094311596753,67,Dirección Gral. de Museos,Espacio Público,Gestión previa HRL,,Disponible,Edificios del GCABA,DE LOS ITALIANOS AV.,0,MARTA LYNCH,Puerto Madero,Comuna 1,,,SITIO WIFI
+-58.4546865817755,-34.6845494283853,66,Dirección de Licencias,Espacio Público,Gestión previa HRL,3ra. ETAPA / Agosto 2012,Disponible,Edificios del GCABA,"ROCA, CNEL. AV.",5200,,Villa Riachuelo,Comuna 8,1439,C1439DVO,SITIO WIFI
+-58.4719321895745,-34.6553824393315,65,Barrio Los Piletones,Espacio Público,Gestión previa HRL,,Disponible,Inclusión,SAN JUAN BAUTISTA DE LA SALLE AV.,0,DERQUI AV.,Parque Avellaneda,Comuna 9,,,SITIO WIFI
+-58.374854938614,-34.6103442931861,64,Diagonal Sur y Peru,Parques y Plazas,Gestión previa HRL,1ra. ETAPA / Disponible,Disponible,Parques y Plazas,"ROCA, JULIO A., PRESIDENTE AV.",0,PERU,Monserrat,Comuna 1,,,SITIO WIFI
+-58.3790286025624,-34.6048900950283,63,Diagonal Norte y Sarmiento,Área Central,Gestión previa HRL,,Disponible,Diagonal Norte,"SAENZ PEÑA, ROQUE, PRES. AV.",0,SARMIENTO,San Nicolas,Comuna 1,,,SITIO WIFI
+-58.3737067236271,-34.6076443815688,62,Diagonal Norte y San Martín,Área Central,Gestión previa HRL,,Disponible,Diagonal Norte,"SAENZ PEÑA, ROQUE, PRES. AV.",0,SAN MARTIN,Monserrat,Comuna 1,,,SITIO WIFI
+-58.3772660055996,-34.6057782667736,61,Diagonal Norte y Perón,Área Central,Gestión previa HRL,,Disponible,Diagonal Norte,"SAENZ PEÑA, ROQUE, PRES. AV.",0,"PERON, JUAN DOMINGO, TTE. GENERAL",San Nicolas,Comuna 1,,,SITIO WIFI
+-58.3763846688999,-34.6062456866607,60,Diagonal Norte y Maipú,Área Central,Gestión previa HRL,,Disponible,Diagonal Norte,"SAENZ PEÑA, ROQUE, PRES. AV.",0,MAIPU,San Nicolas,Comuna 1,,,SITIO WIFI
+-58.3748931714983,-34.6070196315074,59,Diagonal Norte y Florida,Área Central,Gestión previa HRL,,Disponible,Diagonal Norte,"SAENZ PEÑA, ROQUE, PRES. AV.",0,FLORIDA,San Nicolas,Comuna 1,,,SITIO WIFI
+-58.3916273578678,-34.6245876275318,58,Del Docente,Biblioteca,Gestión previa HRL,5ta. ETAPA / Noviembre 2012 (Bibliotecas Públicas),Disponible,Biblioteca,ENTRE RIOS AV.,1349,,San Cristobal,Comuna 3,1133,C1133AAB,SITIO WIFI
+-58.4053978013412,-34.6045810220854,57,Estación Pueyrredón - Línea B,Subte,Gestión previa HRL,Julio-2017,Disponible,Línea B,CORRIENTES AV.,0,PUEYRREDON AV.,Balvanera,Comuna 3,,,SITIO WIFI
+-58.3794978082552,-34.6547384614982,51,Centro Metropolitano de Diseño,Espacio Público,Gestión previa HRL,,Disponible,Centro de Exposiciones y Culturales,ALGARROBO,1041,,Barracas,Comuna 4,1293,C1293ABA,SITIO WIFI
+-58.3778740475355,-34.6081412139402,50,Ctro. de Inf. Turística 'Roberto Arlt',Espacio Público,Gestión previa HRL,,Disponible,Otros establecimientos,RIVADAVIA AV.,0,ESMERALDA,Monserrat,Comuna 1,,,SITIO WIFI
+-58.490829477189,-34.5511265769768,49,Comisaría Comunal 12,Espacio Público,Gestión previa HRL,,Disponible,Otros establecimientos,RAMALLO,4389,,Saavedra,Comuna 12,1430,C1430CQC,SITIO WIFI
+-58.4610775798888,-34.665894627401,48,CIFA,Parques y Plazas,Gestión previa HRL,3ra. ETAPA / Agosto 2012,Disponible,Parques y Plazas,ESCALADA AV.,0,CASTAÑARES AV.,Villa Soldati,Comuna 8,,,SITIO WIFI
+-58.4022092745493,-34.6254821223906,46,CeSAC Nº 45,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,CeSAC,COCHABAMBA,2622,,San Cristobal,Comuna 3,1252,C1252AAR,SITIO WIFI
+-58.3579397776669,-34.6313291141498,45,CeSAC Nº 41,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,CeSAC,"BRIN, Ministro",843,,Boca,Comuna 4,1158,C1158AAI,SITIO WIFI
+-58.5072014992879,-34.6555636735402,44,CeSAC Nº 4,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,CeSAC,"ALBERDI, JUAN BAUTISTA AV.",0,PILAR,Mataderos,Comuna 9,,,SITIO WIFI
+-58.4100253486955,-34.6309761713652,43,CeSAC Nº 39,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,CeSAC,24 DE NOVIEMBRE,1679,,Parque Patricios,Comuna 4,1242,C1242AAI,SITIO WIFI
+-58.3990046235167,-34.6566044263445,42,CeSAC Nº 35,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,CeSAC,"CRUZ, OSVALDO",0,ZAVALETA,Barracas,Comuna 4,,,SITIO WIFI
+-58.4782442887421,-34.6066925525045,40,CeSAC Nº 34,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,CeSAC,"ARTIGAS, JOSE GERVASIO, GRAL.",2262,,Villa Del Parque,Comuna 11,1416,C1416ALB,SITIO WIFI
+-58.4865811999443,-34.6846499385056,39,CeSAC Nº 29,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,CeSAC,"DELLEPIANE, LUIS, TTE. GRAL.",6999,,,,,,SITIO WIFI
+-58.4494520646339,-34.592137798698,38,CeSAC Nº 22,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,CeSAC,GUZMAN,90,,Chacarita,Comuna 15,1427,C1427BON,SITIO WIFI
+-58.4413920415744,-34.6434104433373,37,CeSAC Nº 19,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,CeSAC,CURAPALIGUE,0,COBO AV.,Flores,Comuna 7,,,SITIO WIFI
+-58.4635405106623,-34.6290872274132,33,Estación San José de Flores - Línea A,Subte,Gestión previa HRL,,Disponible,Linea A,RIVADAVIA AV.,0,PEDERNERA,Flores,Comuna 7,,,SITIO WIFI
+-58.4739205642112,-34.6602242621088,32,CeSAC Nº 14,Hospitales y Centros de Salud,Gestión previa HRL,,Disponible,CeSAC,"CASCO, HORACIO, Dr.",4446,,Parque Avellaneda,Comuna 9,1439,C1439BAB,SITIO WIFI
+-58.3866636169241,-34.6335531292623,31,Centro Cultural Sur,Espacio Público,Gestión previa HRL,,Disponible,Centro de Exposiciones y Culturales,CASEROS AV.,1750,,Barracas,Comuna 4,1152,C1152ABN,SITIO WIFI
+-58.3918049157745,-34.5865924992157,21,Centro Cultural Recoleta,Espacio Público,Gestión previa HRL,,Disponible,Centro de Exposiciones y Culturales,JUNIN,1930,,Recoleta,Comuna 2,1113,C1113AAX,SITIO WIFI
+-58.4113854142756,-34.6247055639513,20,Centro Cultural Julián Centeya,Espacio Público,Gestión previa HRL,,Disponible,Centro de Exposiciones y Culturales,SAN JUAN AV.,3255,,San Cristobal,Comuna 3,1233,C1233ABC,SITIO WIFI
+-58.4205128354628,-34.6546365752452,19,Centro Cultural Homero Manzi,Espacio Público,Gestión previa HRL,,Disponible,Centro de Exposiciones y Culturales,TILCARA,3365,,Nueva Pompeya,Comuna 4,1437,C1437CYK,SITIO WIFI
+-58.4576335614318,-34.5930332320188,18,Cementerio de la Chacarita,Espacio Público,Gestión previa HRL,,Disponible,Otros establecimientos,"NEWBERY, JORGE AV.",0,GUZMAN,Chacarita,Comuna 15,,,SITIO WIFI
+-58.4137620223228,-34.6059549906077,17,Conservatorio Superior de Música Manuel de Falla,Espacio Público,Gestión previa HRL,,Disponible,Otros establecimientos,Sarmiento,3401,,Almagro,Comuna 5,1196,C1196AAM,SITIO WIFI
+-58.4237989317588,-34.5812818946845,16,Carlos Guido y Spano,Biblioteca,Gestión previa HRL,5ta. ETAPA / Noviembre 2012 (Bibliotecas Públicas),Disponible,Biblioteca,GUEMES,4601,,Palermo,Comuna 14,1425,C1425BLI,SITIO WIFI
+-58.3627060646101,-34.63934310901,15,Caminito,Espacio Público,Gestión previa HRL,2da. ETAPA / Julio 2012,Disponible,Otros establecimientos,MAGALLANES,0,GARIBALDI,Boca,Comuna 4,,,SITIO WIFI
+-58.4948880692761,-34.6704469188912,14,Portal Inclusivo Ciudad Oculta,Espacio Público,Gestión previa HRL,abr-14,Disponible,Inclusión,Piedra Buena,3140,,Villa Lugano,Comuna 8,1439,C1439GVN,SITIO WIFI
+-58.4966205587752,-34.6680222773102,13,Benito Lynch,Biblioteca,Gestión previa HRL,5ta. ETAPA / Noviembre 2012 (Bibliotecas Públicas),Disponible,Biblioteca,YRUPE,6741,,Mataderos,Comuna 9,1440,C1440BNC,SITIO WIFI
+-58.4031550568903,-34.6062337965054,9,EMAD - Escuela Metropolitana de Arte Dramático,Espacio Público,Gestión previa HRL,,Disponible,Otros establecimientos,Sarmiento,2573,,Balvanera,Comuna 3,1045,C1045ABA,SITIO WIFI
+-58.3747834538112,-34.6083884251726,8,Av. de Mayo y Perú,Espacio Público,Gestión previa HRL,1ra. ETAPA / Disponible,Disponible,Av. De Mayo,DE MAYO AV.,591,,Monserrat,Comuna 1,1084,C1084AAA,SITIO WIFI
+-58.5107247353059,-34.5992834288627,7,Antonio Devoto,Biblioteca,Gestión previa HRL,5ta. ETAPA / Noviembre 2012 (Bibliotecas Públicas),Disponible,Biblioteca,BAHIA BLANCA,4025,,Villa Devoto,Comuna 11,1419,C1419BAI,SITIO WIFI
+-58.4366871485887,-34.6060097185182,6,Anfiteatro Parque Centenario,Espacio Público,Gestión previa HRL,,Disponible,Teatro,"GALLARDO, ANGEL AV.",0,"MARECHAL, LEOPOLDO",Villa Crespo,Comuna 15,,,SITIO WIFI
+-58.4633488397356,-34.6849788440007,5,Álvaro Yunque,Biblioteca,Gestión previa HRL,5ta. ETAPA / Noviembre 2012 (Bibliotecas Públicas),Disponible,Biblioteca,SOLDADO DE LA FRONTERA AV.,5210,,Villa Lugano,Comuna 8,1439,C1439FPH,SITIO WIFI
+-58.3662602147304,-34.6161348963839,4,Alicia Moreau de Justo y Chile,Espacio Público,Gestión previa HRL,1ra. ETAPA / Disponible,Disponible,Alicia Moreau de Just,"MOREAU DE JUSTO, ALICIA AV.",0,"EYLE, PETRONA",Puerto Madero,Comuna 1,,,SITIO WIFI
+-58.3602750053352,-34.6298260831398,1,Depósito Museo del Cine,Espacio Público,Gestión previa HRL,Gestión previa HRL,Disponible,Otros establecimientos,Ministro Brin,615,,Boca,Comuna 4,1158,C1158AAE,SITIO WIFI

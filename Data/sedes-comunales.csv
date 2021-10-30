@@ -1,0 +1,22 @@
+long,lat,id,nombre,objeto,domicilio,calle,altura,telefono,CGP_provie,barrio,comuna,codigo_postal,codigo_postal_argentino
+-58.3693519590452,-34.6207493527146,1,Sede Comunal 1,Sede,Humberto 1º 250,Humberto primo ,250,,F/N CGP 1,San Telmo,Comuna 1,1103,C1103ACF
+-58.3989339818423,-34.5966556816062,2,Sede Comunal 2,Sede,Pres. José E. Uriburu 1022,Pres. José E. Uriburu ,1022,4823-1165 / 72,F/N CGP 2N,Recoleta,Comuna 2,1114,C1114AAF
+-58.3991046187538,-34.6129151236775,3,Subsede Comunal 3,Subsede,Moreno 2301,Moreno ,2301,,F/N CGP 2S,Balvanera,Comuna 3,1094,C1094ABK
+-58.4246545167381,-34.6503271118299,4,Sede Comunal 4,Sede,Del Barco Centenera 2906,Del Barco Centenera ,2906,4918-2243/1815/8920-4949 9024 int 105,F/N CGP 3 F/N CGP 5,Nueva Pompeya,Comuna 4,1437,C1437ACO
+-58.3937901331674,-34.6237422250643,5,Sede Comunal 3,Sede,Sarandi 1273,Sarandi ,1273,4305-2878 / 4304-3754 / 4306-0947,F/N CGP 4,San Cristobal,Comuna 3,1251,C1251ADA
+-58.4326315754545,-34.606006162377,6,Sede Comunal 6,Sede,Av. Patricias Argentinas 277,Av. Patricias Argentinas ,277,4958-6504 / 7660 / 7047 int. 101,F/N CGP 6,Caballito,Comuna 6,1405,C1405BWC
+-58.4669363311418,-34.630227192225,7,Sede Comunal 7,Sede,Av. Rivadavia 7202,Av. Rivadavia ,7202,4637-2355/4145/6902/4613-1530,F/N CGP 7,Flores,Comuna 7,1406,C1406GMP
+-58.4551407673022,-34.6848681942033,8,Sede Comunal 8,Sede,Av. Cnel. Roca 5252,Av. Cnel. Roca ,5252,4605-2631,F/N CGP 8,Villa Riachuelo,Comuna 8,1439,C1439DVN
+-58.5049837209995,-34.6596157956251,9,Sede Comunal 9,Sede,Timoteo Gordillo 2212,Timoteo Gordillo ,2212,4687-6254/4686-2115,F/N CGP 9,Mataderos,Comuna 9,1440,C1440EET
+-58.4835309765186,-34.6319050109826,10,Sede Comunal 10,Sede,Bacacay 3968,Bacacay ,3968,4636-2898/2490/2398/2262/1678,F/N CGP 11,Floresta,Comuna 10,1407,C1407EDN
+-58.5162997832528,-34.6088339412627,11,Sede Comunal 11,Sede,Av. Beiró 4680,Av. Beiró ,4680,4501-5583/0287 / 4504-5019,F/N CGP 10,Villa Devoto,Comuna 11,1419,C1419HZV
+-58.4777802024934,-34.5685684896424,12,Sede Comunal 12,Sede,Holmberg 2548/96,Holmberg ,2548,4348-8912,F/N CGP 12,Villa Urquiza,Comuna 12,1430,C1430DOV
+-58.4639249049114,-34.5537387003508,13,Sede Comunal 13,Sede,Av. Cabildo 3067 1° piso,Av. Cabildo ,3067,4702-3748/9,F/N CGP 13,Nu\u00f1ez,Comuna 13,1429,C1429AAB
+-58.4093055042834,-34.5871585692008,14,Sede Comunal 14,Sede,Beruti 3325,Beruti ,3325,4827-5957/5954/7376,F/N CGP 14,Palermo,Comuna 14,1425,C1425BBQ
+-58.4414400896233,-34.5870408892039,15,Sede Comunal 15,Sede,Av. Córdoba 5690,Av. Córdoba ,5690,4771-1960 / 0750 / 2305 / 1306,,Chacarita,Comuna 15,1414,C1414BBP
+-58.3786957174341,-34.6416754029274,16,Subsede Comunal 4,Subsede,Av. Suarez 2032,Av. Suarez ,2032,4301-6544/4628/6679/6536/3867,,Barracas,Comuna 4,1288,C1288AFD
+-58.4849995807393,-34.6459288386077,17,Subsede Comunal 9,Subsede,Av. Directorio 4360,Av. Directorio ,4360,4671-0804 / 436-2299 / 4636-2022,,Parque Avellaneda,Comuna 9,1407,C1407HGQ
+-58.4123208655009,-34.6228384905826,18,Sede Comunal 5,Sede,Carlos Calvo 3307,Carlos Calvo ,3307,4931-6699 / 4932-5471,,Boedo,Comuna 5,1230,C1230ABE
+-58.3938620171935,-34.589119156552,19,Subsede Comunal 2,Subsede,Vicente López 2050 3º piso,Vicente López ,2050,4808-7300,,Recoleta,Comuna 2,1128,C1128ACF
+-58.441027510122,-34.6322320555071,20,Subsede Comunal 7,Subsede,Emilio Mitre 956,Emilio Mitre ,956,4923-5021,,Parque Chacabuco,Comuna 7,1424,C1424AYT
+-58.4959163177222,-34.6019181829722,21,Subsede Comunal 11,Subsede,Ricardo Gutiérrez 3254,Ricardo Gutiérrez ,3254,4503-3959,,Villa Del Parque,Comuna 11,1417,C1417ECB

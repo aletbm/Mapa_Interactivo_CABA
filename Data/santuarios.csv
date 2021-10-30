@@ -1,0 +1,17 @@
+id,long,lat,nombre,telefono,email,web,rector,observacion,objeto,calle,altura,calle_nro,barrio,comuna,codigo_postal,codigo_postal_argentino
+1,-58.4826089722865,-34.5690364077363,Jesús Misericordioso,4521-3153,,,,,SANTUARIO,Dr. Pedro Ignacio Rivera,4591,,Villa Urquiza,Comuna 12,1431,C1431BVA
+2,-58.4340949842202,-34.6170475395503,Nuestra Señora de Caacupé,4901-1811/4904-0648 FAX,,,,,SANTUARIO,Avda. Rivadavia,4879,,Caballito,Comuna 6,1424,C1424CED
+3,-58.4462157387039,-34.6365873812313,Nuestra Señora de la Medalla Milagrosa,4921-2165 FAX:4921-3007,,,,,SANTUARIO,Curapaligüe,1185,,Parque Chacabuco,Comuna 7,1406,C1406DAL
+4,-58.4161192254145,-34.6520135178426,Nuestra Señora del Rosario de Pompeya,4919-0772,,,,,SANTUARIO,Avda. Saénz,0,Esquiú,Nueva Pompeya,Comuna 4,,
+5,-58.3644355959009,-34.6279172043409,Nuestra Señora Madre de los Emigrantes,4361-5063 Fax:4361-7680,,,,,SANTUARIO,Necochea,312,,Boca,Comuna 4,1158,C1158ACB
+6,-58.4017076237427,-34.6366101748615,San Antonio de Padua,4911-1073,,,,,SANTUARIO,Avda. Caseros,2780,,Parque Patricios,Comuna 4,1264,C1264AAU
+7,-58.4489132511471,-34.6606455268327,Nuestra Señora de Fátima,4918-5168/5847,,,,,SANTUARIO,Mariano Acosta,2979,,Villa Soldati,Comuna 8,1437,C1437CDE
+8,-58.4979708628143,-34.6692165731222,San Pantaleón,4567-8336 4648-1160,,,,,SANTUARIO,Monte,6865,,Mataderos,Comuna 9,1440,C1440BMG
+9,-58.5281141217648,-34.6378055925625,San Cayetano (L),4641-0583/1572,,,,,SANTUARIO,Cuzco,150,,Liniers,Comuna 9,1408,C1408BLD
+10,-58.5014165874867,-34.6280257532144,San Ramón Nonato,4567-8336 4648-1160,,,,,SANTUARIO,Cervantes,1150,,Velez Sarsfield,Comuna 10,1407,C1407BGT
+11,-58.3751038057107,-34.6347563436583,"Santa Lucía, Virgen y Mártir",4362-8580,,,,,SANTUARIO,Avda. Montes de Oca,550,,Barracas,Comuna 4,1270,C1270AAS
+12,-58.4872474076251,-34.6157097132842,Santa Rita de Casia,4566-3466,,,,,SANTUARIO,Camarones,3443,,Villa Santa Rita,Comuna 11,1407,C1407FMC
+13,-58.4276363955364,-34.6023657350583,Jesús Sacramentado,4862-5254,santuarioeucaristicojesussacr@speedy.com.ar,-,,,SANTUARIO,Avda. Corrientes,4433,,Almagro,Comuna 5,1195,C1195AAD
+14,-58.4897459845169,-34.5912601735144,Nuestra Señora que Desata los nudos,4571-8808,secretaria@desatanudos.org.ar,-,,Parroquia San José del Talar.,SANTUARIO,Navarro,2452,,Agronomia,Comuna 15,1419,C1419HSH
+15,-58.4007887322947,-34.6085306965094,Nuestra Señora de Balvanera,4951-2218,,,,,SANTUARIO,BARTOLOME MITRE,2411,,Balvanera,Comuna 3,1039,C1039AAM
+16,-58.4355569896024,-34.6089165799453,Nuestra Señora de los Dolores,4982-0492 C/FAX,,,,,SANTUARIO,AV. DIAZ VELEZ,4850,,Caballito,Comuna 6,1405,C1405DCQ

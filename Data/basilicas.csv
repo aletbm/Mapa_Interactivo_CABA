@@ -1,0 +1,16 @@
+id,long,lat,nombre,calle,altura,cruce,localidad,telefono,e_mail,web,barrio,comuna,codigo_postal,codigo_postal_argentino
+1,-58.4177317232262,-34.5894721792668,Espíritu Santo,Paraguay,3901,,Buenos Aires,4824-0270,parrguadal@interar.com.ar,,Palermo,Comuna 14,1425,C1425BSC
+2,-58.4229986697066,-34.6149364820451,María Auxiliadora y San Carlos,H. Yrigoyen,4000,,Buenos Aires,4981-7752/4741,parroquia-sancarlos@fibertel.com.ar,,Almagro,Comuna 5,1208,C1208ABT
+3,-58.4527495949899,-34.6111515411293,Nuestra Señora de Buenos Aires,Avda. Gaona,1730,,Buenos Aires,4581-0440; 4584-4197,-,,Caballito,Comuna 6,1416,C1416DRS
+4,-58.3721120158901,-34.6054020569556,Nuestra Señora de la Merced,Reconquista,207,,Buenos Aires,4343-9623,eguasta@ciudad.com.ar,,San Nicolas,Comuna 1,1003,C1003ABE
+5,-58.3878708475697,-34.6078121651836,Nuestra Señora de la Piedad,Bartolomé Mitre,1523,Paraná,Buenos Aires,4381-1322; 4383-9765,-,,San Nicolas,Comuna 1,1037,C1037ABC
+6,-58.3919715099859,-34.5869458366367,Nuestra Señora del Pilar,Junín,1898,,Buenos Aires,4806-2209; 4803-6793,iglesiadelpilar@arnet.com.ar,www.basilicadelpilar.org.ar,Recoleta,Comuna 2,1113,C1113AAV
+7,-58.3798654570521,-34.5930440450717,Nuestra Señora del Socorro,Juncal,888,,Buenos Aires,4393-1423/4079,pdelsocorro@fibertel.com.ar,www.basilicadelsocorro.com,Retiro,Comuna 1,1062,C1062ABF
+8,-58.3892838513801,-34.6504548722298,Sagrado Corazón,Avda. Vélez Sarsfield,1351,,Buenos Aires,4301-0142/9375,fvdbarracas@edu.ar,,Barracas,Comuna 4,1285,C1285AAC
+9,-58.5070432379184,-34.5998243110178,San Antonio de Padua,Avda. Lincoln,3751,,Buenos Aires,4501-1066,basilica_sanantonio@yahoo.com.ar,,Villa Devoto,Comuna 11,1419,C1419IFC
+10,-58.3718741423613,-34.6103841664105,San Francisco,Alsina,380,Defensa,Buenos Aires,4331-0625,asuncion@lyris.com.ar,www.ofm.org.ar,Monserrat,Comuna 1,1087,C1087AAD
+11,-58.4632597487249,-34.6291973237022,San José de Flores,Avda. Rivadavia,6950,,Buenos Aires,4612-2629; 4637-1489,sanjosedeflores@aconectarse.com,www.sanjosedeflores.org,Flores,Comuna 7,1406,C1406GLZ
+12,-58.3864576225273,-34.5958880719086,San Nicolás de Bari,Avda. Santa Fe,1352,,Buenos Aires,4813-3028; 4811-7755,sannicolasdebari@fibertel.com.ar,,Retiro,Comuna 1,1059,C1059ABU
+13,-58.397718766864,-34.6144009246356,Santa Rosa de Lima,Avda. Belgrano,2216,,Buenos Aires,4308-0504/5313,parroquiasantarosa@fibertel.com.ar,,Balvanera,Comuna 3,1094,C1094AAR
+14,-58.3716895282795,-34.6127159718721,Santísimo Rosario,Defensa,422,,Buenos Aires,4331-1668; 4343-5009,dominba@ciudad.com.ar,,Monserrat,Comuna 1,1065,C1065AAH
+15,-58.3741210120304,-34.5958764848515,Santísimo Sacramento,San Martín,1039,,Buenos Aires,4311-0391; 4312-2314,basilicabaires@confar.org.ar,,Retiro,Comuna 1,1004,C1004AAU

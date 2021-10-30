@@ -1,0 +1,40 @@
+long,lat,id,nombre,calle,altura,cruce,obsevs,tel,barrio,comuna,codigo_postal,codigo_postal_argentino
+-58.4624924259288,-34.634993982082,1,Beato Juan XXIII,Tandil,2551,,,4612-4671,Flores,Comuna 7,1406,C1406HBA
+-58.3764230423712,-34.6532968690756,4,María Auxiliadora,San Antonio,976,,,,Barracas,Comuna 4,1276,C1276ADN
+-58.4322183225826,-34.6536724292072,7,Nuestra Señora de Copacabana,Itaquí,2099,Charrúa,,,Nueva Pompeya,Comuna 4,1437,C1437GVG
+-58.4051052910089,-34.6552232110326,10,Nuestra Señora de la Medalla Milagrosa II,Santo Domingo,3940,,,,Nueva Pompeya,Comuna 4,1437,C1437IDD
+-58.4768483329685,-34.6430195411691,11,Nuestra Señora de las Flores,Gral. Eugenio Garzón,3961,,,,Parque Avellaneda,Comuna 9,1407,C1407HLI
+-58.4865409629082,-34.6448525983408,12,Nuestra Señora de los Desamparados,Moreto,767,,,,Parque Avellaneda,Comuna 9,1407,C1407IYO
+-58.4729612763675,-34.683653411672,19,Sagrados Corazones,Chilavert,6100,Hudson,,,Villa Lugano,Comuna 8,1439,C1439CLR
+-58.3994888348804,-34.6573411764488,22,San Blas,Zavaleta,0,Luján,Villa 21,,,,,
+-58.4949131086298,-34.676800278713,23,San Cayetano,Zuviría,6815,,,,Villa Lugano,Comuna 8,1439,C1439BEY
+-58.5130684545846,-34.5978655179897,28,San José de la Montaña,Habana,3964,,,,Villa Devoto,Comuna 11,1419,C1419GRF
+-58.4451219523342,-34.549693267294,32,San Luis Rey,Av. Monroe,1100,Húsares,,,Belgrano,Comuna 13,1428,C1428BKH
+-58.4506585274856,-34.6562862644792,34,Santa Teresita,Riestra,3298,Portela,,,Villa Soldati,Comuna 8,1437,C1437HJW
+-58.3845997820206,-34.6053383476869,35,Santa Teresita,Sarmiento,1272,,,,San Nicolas,Comuna 1,1041,C1041AAZ
+-58.3947763237044,-34.6611109310731,36,Señor de Mailín,Horma,0,Luna,Sector Tres Rosas,,,,,
+-58.394760181418,-34.6610058856942,18,Nuestro Señor del Mailín,Horma,0,Luna,Villa 24,,,,,
+-58.4730907762656,-34.6583126955137,2,La Inmaculada,Witte,5630,,,,,,,
+-58.3998745551857,-34.6553133944677,3,Jesús Vive,Zavaleta,1256,Santo Domingo,,,Barracas,Comuna 4,1437,C1437EZH
+-58.4395604158758,-34.6505258693608,5,María Auxiliadora,,0,,Club San Lorenzo de Almagro,,,,,
+-58.381677302781,-34.582916941899,6,Nuestra Señora de Caacupé,Manzana 3,0,,Villa 31 bis,,,,,
+-58.4446653722819,-34.6502051464791,8,Nuestra Señora de Itatí,Manzana 13- Casa 83,0,,Soldati,,,,,
+-58.4001778082548,-34.6598628296968,9,Nuestra Señora de la Medalla Milagrosa I,Iguazú,0,Riachuelo,Sector Barrio San Blas,,,,,
+-58.4939331344794,-34.6712248941309,14,Nuestra Señora de Luján,,0,,,,,,,
+-58.4923377188888,-34.6724440345169,24,San Cayetano,,0,,,,,,,
+-58.4903525563004,-34.6713033152207,26,San Francisco,,0,,,,,,,
+-58.3809926455962,-34.654398433186,15,Nuestra Señora del Buen Consejo,Santa María del Buen Ayre,953,,,,,,,
+-58.3786274033724,-34.583064885964,16,Nuestra Señora del Rosario,Manzana 16 - Casa 1,0,,Barrio Guemes - Villa 31,,,,,
+-58.3876342649556,-34.5803001440686,13,Nuestra Señora de Luján,manzana 13,0,,Villa 31 bis,,,,,
+-58.3936821571204,-34.6483578805345,20,San Antonio,manzana 8 -Casa 34 bis,0,,,,,,,
+-58.4385931882979,-34.6482806434016,31,San Juan Bautista,Manzana 28,0,,Soldati,,,,,
+-58.3989855430944,-34.6527891192699,25,San Expedito,Manzana 5 -Casa 25,0,,Sector Pavimento Alegre,,,,,
+-58.4452835684104,-34.6479929893292,21,San Antonio de Padua,manzana 31 - casa 31,0,,,,,,,
+-58.4524538030997,-34.662689706879,27,San José,,0,,Ana María Janer y Lacarra,,,,,
+-58.3984895432913,-34.6509530681064,29,San Juan,Manzana 2 -Casa 113,0,,Villa 21- Sector Tierra Amarilla,,,,,
+-58.3982514992174,-34.6523935293761,33,Santa María de Labardén,Manzana 18 -casa 107,0,,Villa 21,,,,,
+-58.3970934977932,-34.6504348479752,37,Virgen de Itatí,Manzana 5 -casa 2,0,,,,,,,
+-58.3956378369841,-34.6543042252874,38,Virgen del Carmen,Manzana 12 -casa 110,0,,Villa 21,,,,,
+-58.4537650822981,-34.6589686087435,39,Virgencita de Luján,Martínez Castro,0,Strangford,Manzana 5 (Villa 3 -Bo.Fátima),,,,,
+-58.4633639222396,-34.6729689896396,30,San Juan Bautista,,0,,,,,,,
+-58.4016424417116,-34.6521056877076,17,Nuestra Señora que Desata los Nudos,(NHZ Zavaleta) Tira 10 - Casa 154,0,,,,,,,
