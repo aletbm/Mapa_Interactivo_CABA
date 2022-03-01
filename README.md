@@ -81,8 +81,3 @@ Una vez que tenemos las coordenadas las pegamos en el CMD y se nos habilitara un
 * **Alexander Daniel Ríos** - [A.R](https://github.com/aletbm)
 * **Sasha Emanuel Franco** - [Olimpus](https://github.com/Armithael)
 * **Tamara Ayelen Merchan** - [tmerchan](https://github.com/tmerchan)
-
-
-```python
-
-```
