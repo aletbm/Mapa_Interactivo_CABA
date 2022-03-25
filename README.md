@@ -2,8 +2,6 @@
 
 # Mapa Interactivo de CABA
 
----
-
 Proyecto final realizado para la "Diplomatura en Python" de la [UTN](https://utn.edu.ar/es/).
 
 El proyecto consta de dos aplicaciones realizadas segun el modelo MVC, por un lado tenemos una aplicacion de escritorio que cumple el rol de servidor y por el otro lado tenemos otra aplicacion que juega el papel de cliente con el cual podemos realizar consultas al servidor, el objetivo del proyecto es presentar al cliente ubicaciones geograficas de interes dentro de la Ciudad Autonoma de Buenos Aires, para esto se hace uso de [bases de datos](https://data.buenosaires.gob.ar/dataset/) que brinda publicamente el [Gobierno de la Ciudad de Buenos Aires](https://www.buenosaires.gob.ar), la presentacion de las ubicaciones se realizan sobre una interfaz grafica que cuenta con el mapa de dicha ciudad, brindando nombre y direccion del lugar buscado.
