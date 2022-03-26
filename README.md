@@ -8,7 +8,7 @@ El proyecto consta de dos aplicaciones realizadas segun el modelo MVC, por un la
 
 ---
 
-### Pre-requisitos  📋
+### Prerrequisitos  📋
 
 * El proyecto fue desarrollado sobre [Python 3.9](https://www.python.org/downloads/release/python-390/) o superiores.
 * Se utilizaron las siguientes librerias:
